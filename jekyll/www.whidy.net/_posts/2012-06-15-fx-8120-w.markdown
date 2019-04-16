@@ -1,0 +1,78 @@
+---
+author: whidy
+comments: true
+date: 2012-06-15 14:14:44+00:00
+layout: post
+link: http://www.whidy.net/fx-8120-w.html
+slug: fx-8120-w
+title: 推土机功耗的秘密 FX 8120究竟是个什么货
+wordpress_id: 825
+categories:
+- IT技术
+- 兴趣
+- 技术分享
+- 评测
+tags:
+- 技术
+---
+
+好吧,我很纠结,不敢冒这个险,A8 3850的处理器还是最终放弃了,641什么的性能太差了,还是来看看推土机吧,还是说HTPC的事情.
+
+这不查不知道,一查吓一跳,FX 8120又有猫腻...其实对一般玩家来说没什么大不了,不过就是TDP,功率的事情,一个是95W,一个是125W,这一小时30W,一天5小时算,就是150W,姑且算一星期一度电...一年三十块啊...貌似多耗不了多少电==!反正多了30W就是不爽.今天不谈这个超频牛不牛,据说很牛,稍候有兴趣的自己查资料我给你通道...哇咔咔.
+
+国内又搜不出来资料,倒是搜出来一个很好玩的东西:
+
+[![](/wp-content/uploads/2012/06/360b-400x74.jpg)](/wp-content/uploads/2012/06/360b.jpg)
+
+又找了一些资料,貌似国内的评测中没有看到过有95W的8120,唯一能看到的影子恐怕就是某某主板的CPU一览表了,比如最近研究究竟是用这个U配映泰TA970XE还是华擎970 Extreme3...最终选了BIOSTAR,,,觉得硬朗些吧.好的,官方支持CPU的列表包括两种:
+<table cellpadding="3" width="600" align="center" cellspacing="1" border="0" >
+<tbody >
+<tr bgcolor="#e4f3e9" >
+
+<td >AMD FX™
+</td>
+
+<td >FX-8120
+</td>
+
+<td >FD8120WMW8KGU
+</td>
+
+<td >3100Mhz
+</td>
+
+<td >5200Mhz
+</td>
+
+<td >95W
+</td>
+</tr>
+<tr bgcolor="#f2ecf9" >
+
+<td >AMD FX™
+</td>
+
+<td >FX-8120
+</td>
+
+<td >FD8120FRW8KGU
+</td>
+
+<td >3100Mhz
+</td>
+
+<td >5200Mhz
+</td>
+
+<td >125W
+</td>
+</tr>
+</tbody>
+</table>
+这两款有什么区别呢...我也不知道==!继续搜索相关资料(转向国外)...找到一篇关于简单介绍,上面有FX 8120 CPUZ图,看看95W,核心代号跟125W也相同啊.详情请见:[AMD FX-8120 - der 'kleine' 8-Kern-Bulldozer   Die CPU  AMD FX-8120 ](http://www.hartware.de/review_1414_2.html),打开这个页面当然你也可以点鸟语查看上一页,下一页看看更多推土机...
+
+接着又去查了一下危机百科,不过貌似更加坑爹,居然连125W的都没提到.[List of AMD FX microprocessors](http://en.wikipedia.org/wiki/List_of_AMD_FX_microprocessors),有兴趣可以研究下.无奈之下,我决定去淘宝,问问卖家,虽然经常得不到专业的回答...不过**有个卖家说了一句国内没有95W的**,我猜或许是真的.那么,看来在国内无缘95W低功耗CPU了.
+
+真相大白,不知道这个算不算有点扯,难道要亚马逊国际版上去买?我看运费不值吧.算了,再去看看搞个什么HTPC显卡算了...貌似现在显卡又分什么AMD,ATI了,怪怪的,还没搞明白,研究下去.
+
+最后大家有兴趣看一下推土机典型代表产品之一FX8120评测,我找到一篇不错文章,与大家分享,自己也备用[推土机的长征路，AMD FX-8120处理器评测](http://www.expreview.com/17382-all.html).

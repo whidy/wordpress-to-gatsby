@@ -1,0 +1,29 @@
+---
+author: whidy
+comments: true
+date: 2015-01-21 05:54:18+00:00
+layout: post
+link: http://www.whidy.net/spring.html
+slug: spring
+title: 春
+wordpress_id: 2715
+categories:
+- 文学
+- 杂谈
+tags:
+- 心情
+- 风景
+---
+
+春天来了吗，
+午饭后，我轻轻迈着步伐
+沐浴在阳光下，
+额头微微出汗，
+暖风阵阵吹拂着脸，
+花开的明媚，
+他们叫它狗屎花，
+各种颜色，斑斑点点的
+青绿，墨绿，随着风飘摆
+偶有冬季留下的枯黄在空中旋舞
+一切都会过去的，
+望着天，又是一年春天。

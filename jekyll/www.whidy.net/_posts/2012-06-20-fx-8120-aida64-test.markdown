@@ -1,0 +1,23 @@
+---
+author: whidy
+comments: true
+date: 2012-06-20 01:29:24+00:00
+layout: post
+link: http://www.whidy.net/fx-8120-aida64-test.html
+slug: fx-8120-aida64-test
+title: FX-8120的AIDA64性能测试
+wordpress_id: 828
+categories:
+- IT技术
+- 兴趣
+- 技术分享
+- 评测
+tags:
+- 技术
+---
+
+前日入手推土机FX-8120,拿回来装好机器,开机,瞬间听到巨大的噪音.经观察是CPU风扇声音,以为没有装好,正常进入系统后得出结论原装的推土机散热器就是坑爹的...转速到了4000以上甚至7000-8000,整个人都要疯了.虽然温度貌似很好,不过这转速温度控制还不好那不就完了.经过多次设置将风扇转速调整到3000转内,稍为好点了,不过一打游戏,又悲剧,不过打游戏的时候游戏声音压过风扇声音,暂且忽略不计罢...这次上一组AIDA64的评测图,以主频4G,内存8G DDR3 1600测试...
+
+由于空间容量有限,图片移至中关村论坛,带来不便请谅解.详情请看此贴:[废了老大劲只为给想买FX8120的同志们一个参考,,,详尽AIDA64性能测试所有分数!](http://diybbs.zol.com.cn/11/13_105249.html)
+
+[caption id="attachment_829" align="aligncenter" width="438"][![FX-8120 4GHz 和 DDR3 1600MHz AIDA64内存分数](/wp-content/uploads/2012/06/4g.jpg)](/wp-content/uploads/2012/06/4g.jpg) FX-8120 4GHz 和 DDR3 1600MHz AIDA64内存分数[/caption]

@@ -1,0 +1,30 @@
+---
+author: whidy
+comments: true
+date: 2010-12-11 11:30:55+00:00
+layout: post
+link: http://www.whidy.net/cm61-stable.html
+slug: cm61-stable
+title: CyanogenMod 6.1稳定版(12月7日更新版本)刷机测试
+wordpress_id: 228
+categories:
+- 兴趣
+- 技术分享
+tags:
+- 下载
+- 手机
+---
+
+买了G2手机很久了,之前经常刷机,,,后来刷着刷着,感觉也就那么回事,,,每次没有什么重大更新也就懒得刷新固件了,几个月前啊兴出了一个新的2.2 ROM的固件,但是第一个版本刷了有很大问题,随后啊兴也发现了,把下载关闭了,又等了好多天,修复的2.2.0.5版本发布了可是问题依然很多有点失望,正好这最近几天CM也发布新版本了,索性找到蛋总本地化版本,刷了下感觉设置选项十分强大.可惜还是不支持网页flash播放.我的手机参数如下:
+
+
+<blockquote>机型: HTC MAGIC TIM (G2 32A)
+SPL : 1.33.0008 (原生)
+RADIO : 3.22.20.17 (买回来未刷过)</blockquote>
+
+
+至于刷机过程不再复述,先WIPE,不过我倒是不知道WIPE CACHE是什么概念...然后再直接刷即可.刷完后进行简单设置,最后使用了这几天一切都很正常,感觉还是比较舒服,除了那个主工具栏中间的快捷方式我总是当成删除了...一开始不知道怎么调,纠结了很长时间才弄好.刷好了顺便上几张图片供大家参考下.
+
+[gallery link="file" orderby="rand"]
+
+顺便共享一下蛋总官方的下载地址: [http://www.kugou.me/froyo/12-7-32a-cm-6.1.zip](http://www.kugou.me/froyo/12-7-32a-cm-6.1.zip)

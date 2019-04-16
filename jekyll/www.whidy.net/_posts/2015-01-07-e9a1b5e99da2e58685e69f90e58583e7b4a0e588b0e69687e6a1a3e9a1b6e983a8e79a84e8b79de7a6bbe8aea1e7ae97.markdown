@@ -1,0 +1,71 @@
+---
+author: whidy
+comments: true
+date: 2015-01-07 06:44:31+00:00
+excerpt: 之前写了一篇元素到网页顶部距离计算方法，其实分明有更好的方法，例如这个方法就不需要写那么复杂的循环了，这里再次总结一下。
+layout: post
+link: http://www.whidy.net/%e9%a1%b5%e9%9d%a2%e5%86%85%e6%9f%90%e5%85%83%e7%b4%a0%e5%88%b0%e6%96%87%e6%a1%a3%e9%a1%b6%e9%83%a8%e7%9a%84%e8%b7%9d%e7%a6%bb%e8%ae%a1%e7%ae%97.html
+slug: '%e9%a1%b5%e9%9d%a2%e5%86%85%e6%9f%90%e5%85%83%e7%b4%a0%e5%88%b0%e6%96%87%e6%a1%a3%e9%a1%b6%e9%83%a8%e7%9a%84%e8%b7%9d%e7%a6%bb%e8%ae%a1%e7%ae%97'
+title: 页面内某元素到文档顶部的距离计算
+wordpress_id: 2693
+categories:
+- CSS
+- HTML
+- IT技术
+- Javascript
+- 技术分享
+tags:
+- 技术
+- 教程
+- 网站
+---
+
+2015年1月7日
+
+之前写了一篇[元素到网页顶部距离计算方法](http://www.whidy.net/distance-of-element-to-site-top-value.html)，其实分明有更好的方法，例如这个方法就不需要写那么复杂的循环了，这里再次总结一下。
+
+请看下面代码，或者查看在线[demo](https://jsfiddle.net/kingterrors/2adzh8us/)调试，看起来兼容性都是OK的。大家可以自己试试。
+
+    
+    <code class="html"><html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>the distance to top</title>
+        <style type="text/css">
+        div {margin:10px 20px;padding:5px;border:3px solid #aaa;position:relative;}
+        .para {background-color:#ccc;}
+        </style>
+    </head>
+    <body>
+    <div class="outer">
+        <div class="outerWrap">
+            <div class="header"></div>
+            <div class="content">
+                <div class="content-inner">
+                    <p class="para" id="para">
+                        Hello, whidy! 这是一个获取当前元素距离网页顶部高度的计算demo.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    para = document.getElementById('para');
+    var y = para.offsetTop;
+    var y2 = para.getBoundingClientRect().top;
+    while (para = para.offsetParent) {
+        var oStyle = para.currentStyle? para.currentStyle : window.getComputedStyle(para, null); //currentStyle兼容IE
+        var borderTopWidth = parseInt(oStyle.getPropertyValue('border-top-width')); //border-top-width实际上用于被包父级层的边框值计算,因此本demo内header的边框值对此处不影响,取而代之的是直接计入content盒子距离outerWrap的高度
+        if(borderTopWidth) { //如果有边框值则加上边框
+            y += para.offsetTop + borderTopWidth;
+        }
+        console.log(y,'offsetTop');
+        console.log(y2,'getBoundingClientRect');
+    }
+    </script>
+    </body>
+    </html>
+    </code>
+
+
+参考资料: [Element.getBoundingClientRect() - Web API 接口 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Element.getBoundingClientRect)
