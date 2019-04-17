@@ -22,7 +22,7 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
 
 先简单说一下我的需求,我希望**图片附件模板**(image.php)里增加一条**作者信息(实际上还是为了google的seo优化处理的)**,而默认是没有的,怎么处理,可参考该页面[OCZ Vertex4包装正面图一](http://www.whidy.net/ssd-ocz-vertex4-reviews-pictures.html/ocz-vertex4-front-1)(当然目前是已添加好的),如图:
 
-[caption id="attachment_2187" align="aligncenter" width="400"][![修改图片内容模板信息](http://www.whidy.net/wp-content/uploads/2014/05/modified-content-info-400x259.png)](http://www.whidy.net/wp-content/uploads/2014/05/modified-content-info.png) 修改图片内容模板信息[/caption]
+![修改图片内容模板信息](http://www.whidy.net/wp-content/uploads/2014/05/modified-content-info-400x259.png)
 
 现在应该很容易理解我要做的事情了吧,这个东西看起来似乎也是很简单的,不过当你看完这篇文章,也许你不会轻易这样想了.至少我完美解决这样的小问题花了3个小时,不过我的确不熟悉wordpress和php,也没有人能帮助我,好吧,闲话少说,步入正题.<!-- more -->
 
@@ -148,7 +148,7 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
 
 到前台刷新页面发现还是英文的,事情原来远远没有这么简单,我花了大量时间来测试,为什么无法转换成中文,我检查我的转义后的语句是否有错误,我找了对应的代码部分是否相同,结果都毫无作用,我索性打开**twentytwelve-zh_CN.po**这个目录,发现还有个对应的**twentytwelve-zh_CN.mo**的文件,这个文件是做什么的呢,打开一看,有点像16进制文件,不可阅读的一大堆编码,这可怎么办,好在网上找得到原来PO文件有专门的编辑器可以保存出对应的MO文件,也就是说,上面仅仅更改了PO文件是没有用的,还要有对应生成的MO才可以!这个编辑器就是**[Poedit](http://poedit.net/dl/Poedit-1.6.5-setup.exe)**,那么安装后,打开这个twentytwelve-zh_CN.po文件,找到对应的地方重新检查是否有错误,如果没有,直接保存,就会自动生成新的twentytwelve-zh_CN.mo文件.
 
-[caption id="attachment_2189" align="aligncenter" width="400"][![poedit修改界面](http://www.whidy.net/wp-content/uploads/2014/05/poedit-400x248.png)](http://www.whidy.net/wp-content/uploads/2014/05/poedit.png) poedit修改界面[/caption]
+![poedit修改界面](http://www.whidy.net/wp-content/uploads/2014/05/poedit-400x248.png)
 
 将以上修改好的所有文件上传到服务器上,刷新页面测试.发现一切正常了.需要的内容全部出来了.至此,这个不算太复杂却也耗费了一上午来处理的需求就完成了.
 

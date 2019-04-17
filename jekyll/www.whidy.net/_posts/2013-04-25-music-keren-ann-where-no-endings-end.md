@@ -85,6 +85,6 @@ I give in
 
 再一次推荐她的另一曲...至于情感,自己去体会咯~
 
-[caption id="attachment_1659" align="aligncenter" width="400"][![Keren Ann](http://www.whidy.net/wp-content/uploads/2013/04/Keren-Ann.jpg)](http://www.whidy.net/wp-content/uploads/2013/04/Keren-Ann.jpg) Keren Ann[/caption]
+![Keren Ann](http://www.whidy.net/wp-content/uploads/2013/04/Keren-Ann.jpg)
 
 

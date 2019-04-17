@@ -18,7 +18,7 @@ tags:
 
 经过了十多天的等待,耳机终于到手,没有耳机的日子寂寞难耐...在忍了一个多月的笔记本音箱后,可以好好地静静地听一下音乐了.这款耳机也是我第一次在小熊的帮助下从日本亚马逊海淘过来的,本来耳机这算成人民币只要1470多好像,可是到手却总共花了1900多,运费实在太贵,又不幸被海关查了,交了150的关税,哎...此刻只有说纳税光荣,我自豪了...先上图:
 
-[caption id="attachment_1943" align="aligncenter" width="400"][![天龙DENON AH-D600图](http://www.whidy.net/wp-content/uploads/2014/04/AH-D600-400x266.jpg)](http://www.whidy.net/wp-content/uploads/2014/04/AH-D600.jpg) 天龙DENON AH-D600图[/caption]
+![天龙DENON AH-D600图](http://www.whidy.net/wp-content/uploads/2014/04/AH-D600-400x266.jpg)
 
 <!-- more -->
 

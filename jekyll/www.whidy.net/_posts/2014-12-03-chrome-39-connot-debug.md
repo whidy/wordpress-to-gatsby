@@ -21,7 +21,7 @@ tags:
 
 不知道其他人有遇到过吗,尤其是这个error.竟然搜不到- -!也是醉了.
 
-[caption id="attachment_2645" align="aligncenter" width="400"][![chrome_debug_error](http://www.whidy.net/wp-content/uploads/2014/12/chrome_error-400x153.png)](http://www.whidy.net/wp-content/uploads/2014/12/chrome_error.png) chrome_debug_error[/caption]
+![chrome_debug_error](http://www.whidy.net/wp-content/uploads/2014/12/chrome_error-400x153.png)
 
 现实出现console面板带抖动,文字变得不清晰,然后刷新页面几次就出现Failed to get text for stylesheet  1 : No style sheet with given id found, 其中的数字会每次刷新后累加...莫名其妙!
 

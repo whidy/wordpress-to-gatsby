@@ -25,7 +25,7 @@ tags:
 
 这次大的更新,就当作是升级了一下...找了很多为什么没有刚才那个选项,后来说只有在他们服务器上面开的wordpress站点才支持,并非wordpress这个程序支持...于是我在我在wordpress上面创建的博客后台找到了...真是坑爹.
 
-[caption id="attachment_2972" align="aligncenter" width="400"][![wordpress是不支持markdown的](http://www.whidy.net/wp-content/uploads/2017/08/markdown-400x335.png)](http://www.whidy.net/wp-content/uploads/2017/08/markdown.png) wordpress是不支持markdown的[/caption]
+![wordpress是不支持markdown的](http://www.whidy.net/wp-content/uploads/2017/08/markdown-400x335.png)
 
 好吧,至此,如果实在是要的话,就只能用插件了...我不太想装插件,勉强就先这样了.如果你需要的话,据说比较好用的就是Jetpack了,大家自己尝试下下咯~
 

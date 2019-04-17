@@ -31,4 +31,4 @@ tags:
 
 睡罢,晚安...
 
-[caption id="attachment_384" align="aligncenter" width="375"][![涂鸦](http://www.whidy.net/wp-content/uploads/2011/01/IMG_20110109_210853-375x500.jpg)](http://www.whidy.net/wp-content/uploads/2011/01/IMG_20110109_210853.jpg) 涂鸦[/caption]
+![涂鸦](http://www.whidy.net/wp-content/uploads/2011/01/IMG_20110109_210853-375x500.jpg)

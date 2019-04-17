@@ -42,6 +42,6 @@ tags:
 
 而,假设这样的话,不同浏览器效果更是离谱,这里以IE6,7,8,CHROME,IE11为例.测试结果如图:
 
-[caption id="attachment_2427" align="aligncenter" width="400"][![通配符有了display属性的结果](http://www.whidy.net/wp-content/uploads/2014/06/css_display-400x165.png)](http://www.whidy.net/wp-content/uploads/2014/06/css_display.png) 通配符有了display属性的结果[/caption]
+![通配符有了display属性的结果](http://www.whidy.net/wp-content/uploads/2014/06/css_display-400x165.png)
 
 暂不提这个IE6连HTML节点也算进去了(注意滚动条边框),就说这个不同浏览器的效果,也值得研究下了.

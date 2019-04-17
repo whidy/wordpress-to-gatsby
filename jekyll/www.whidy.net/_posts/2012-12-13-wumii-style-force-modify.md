@@ -18,7 +18,7 @@ tags:
 
 话说无觅的一个相关文章的插件好像的确能够带来很多流量,如此来说不愧是个好插件,但是,这个插件内置到了PHPCMS的show.html模板中后,那效果简直惨不忍睹,我经过大量研究测试修改,终于让这个插件展示效果变得美观,而这种通过js修改的方式是不是很友好的,先来看看效果图:
 
-[caption id="attachment_1476" align="aligncenter" width="400"][![wumii插件修改效果预览](http://www.whidy.net/wp-content/uploads/2012/12/killWumii-400x294.jpg)](http://www.whidy.net/wp-content/uploads/2012/12/killWumii.jpg) wumii插件修改效果预览[/caption]
+![wumii插件修改效果预览](http://www.whidy.net/wp-content/uploads/2012/12/killWumii-400x294.jpg)
 
 <!-- more -->自我感觉这个修改后的效果改变应该还是相当大的,之前的间距,边框什么的简直是一团糟..那么究竟怎么样才能改变默认样式呢?并不是在自己网站上写个CSS就能搞定的!下面我细细说来...
 

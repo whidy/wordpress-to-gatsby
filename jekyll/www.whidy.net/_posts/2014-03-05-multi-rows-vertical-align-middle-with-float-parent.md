@@ -19,7 +19,7 @@ tags:
 
 这几天在公司做专题,熟悉公司的一些工作内容,遇到了个问题,如图:
 
-[caption id="attachment_1872" align="aligncenter" width="400"][![高亮为需要做的效果部分](http://www.whidy.net/wp-content/uploads/2014/03/vaM-400x104.jpg)](http://www.whidy.net/wp-content/uploads/2014/03/vaM.jpg) 高亮为需要做的效果部分[/caption]
+![高亮为需要做的效果部分](http://www.whidy.net/wp-content/uploads/2014/03/vaM-400x104.jpg)
 
 这里面有四个小方框,其中两个是图,两外两个蓝色背景的则是由不同行数的文字垂直居中,那么怎么做呢?今天可是想了很久,,,查了很多资料,现在也整理不出来,我这个东拼西凑的测试代码是哪里弄来的,反正估计网上是找不到的了...
 

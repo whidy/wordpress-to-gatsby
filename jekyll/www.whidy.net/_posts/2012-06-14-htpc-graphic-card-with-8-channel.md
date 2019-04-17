@@ -42,7 +42,7 @@ DTS-HD MA,TrueHD 属于专利技术,因此在早期的蓝光时代 PC 视频玩�
 
 所以对于一般热爱家庭影院的玩家来说,家里音响功放设备全部齐全的情况下组个HTPC,必然少不了7.1声道,然而,国内找了大量的资料,却极少有显卡参数有写是否支持7.1声道输出等信息,更加难以找到核心显卡或是集成显卡能否支持了.当然我也发现了一篇不错的文章,想要了解一下的可以看看[21款显卡决战次世代音频源码输出功能](http://www.pcpop.com/doc/0/666/666783_all.shtml),这篇文章简直就是超级精华,看来小编是费了不少心思,在此我也表示感谢!
 
-[caption id="" align="alignnone" width="650"][![点击查看原图](http://img5.pcpop.com/ArticleImages/0X0/1/1973/001973171.jpg)](http://img5.pcpop.com/ArticleImages/0X0/1/1973/001973171.jpg) 显卡支持情况一览表[/caption]
+![点击查看原图](http://img5.pcpop.com/ArticleImages/0X0/1/1973/001973171.jpg)
 
 也附上方便大家直接查阅.
 

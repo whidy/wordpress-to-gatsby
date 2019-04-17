@@ -68,7 +68,7 @@ tags:
 
 国内百度用的比较多，那么就拿百度说吧，比如百度搜索“有哪些高级笑话只有具备了一定的专业知识才能听懂？”得出的结果，虽然很多相似的，不过就拿前面几个来看，找最有可能的就可以了，如下图：
 
-[caption id="attachment_3094" align="aligncenter" width="400"][![百度结果查询日期](http://www.whidy.net/wp-content/uploads/2018/01/02-400x365.png)](http://www.whidy.net/wp-content/uploads/2018/01/02.png) 百度结果查询日期[/caption]
+![百度结果查询日期](http://www.whidy.net/wp-content/uploads/2018/01/02-400x365.png)
 
 还有其他的google利用inurl:来查询，就不说了。
 

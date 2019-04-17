@@ -27,11 +27,11 @@ tags:
 
 话说,有人庆幸我老了一岁,话说男人越老越值钱...应该是这样的吧.哇咔咔...刚刚整理照片的时候看到之前的短发,想到现在头上的长发,颇有一番风味,不知道究竟是短发好看呢还是长发好看^_*...
 
-[caption id="attachment_160" align="aligncenter" width="400"][![夏日短发的我](http://www.whidy.net/wp-content/uploads/2010/11/DSC4142-500x342.jpg)](/wp-content/uploads/2010/11/DSC4142.jpg) 夏日短发的我[/caption]
+![夏日短发的我](http://www.whidy.net/wp-content/uploads/2010/11/DSC4142-500x342.jpg)
 
 这张拍摄于2010年8月初,拍摄人汤,很显然我也在拍他~其实短发很精神啊.
 
-[caption id="attachment_161" align="aligncenter" width="400"][![武大自拍](http://www.whidy.net/wp-content/uploads/2010/11/DSC0037_-500x329.jpg)](/wp-content/uploads/2010/11/DSC0037_.jpg) 武大自拍[/caption]
+![武大自拍](http://www.whidy.net/wp-content/uploads/2010/11/DSC0037_-500x329.jpg)
 
 这张显然异见,前几天武大的自拍,,,卷发要睁大眼睛的看,HOHO...
 

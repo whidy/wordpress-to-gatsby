@@ -21,7 +21,7 @@ tags:
 
 2. 打开配置文件**Settings - User**
 
-[caption id="attachment_2065" align="aligncenter" width="400"][![快速选择带有横线连接符的类名或ID名](http://www.whidy.net/wp-content/uploads/2014/05/fast-select-400x175.jpg)](http://www.whidy.net/wp-content/uploads/2014/05/fast-select.jpg) 快速选择带有横线连接符的类名或ID名[/caption]
+![快速选择带有横线连接符的类名或ID名](http://www.whidy.net/wp-content/uploads/2014/05/fast-select-400x175.jpg)
 
 3. 在花括号内最后一行插入下面这段
 

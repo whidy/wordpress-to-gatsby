@@ -132,9 +132,9 @@ tags:
 </tr>
 </tbody>
 </table>
-[caption id="" align="alignnone" width="500"][![单碟1.5TB诞生 细数3TB硬盘分区技巧 ](http://2f.zol-img.com.cn/product/83_500x2000/305/ce28ZwGQLyQ.jpg)](http://detail.zol.com.cn/picture_index_834/index8334305.shtml) 单碟1.5TB诞生 细数3TB硬盘分区技巧[/caption]
+![单碟1.5TB诞生 细数3TB硬盘分区技巧 ](http://2f.zol-img.com.cn/product/83_500x2000/305/ce28ZwGQLyQ.jpg)
 
-[caption id="" align="alignnone" width="500"][![单碟1.5TB诞生 细数3TB硬盘分区技巧 ](http://2d.zol-img.com.cn/product/83_500x2000/309/ce0aHoUpj9pdE.jpg)](http://detail.zol.com.cn/picture_index_834/index8334309.shtml) 单碟1.5TB诞生 细数3TB硬盘分区技巧[/caption]
+![单碟1.5TB诞生 细数3TB硬盘分区技巧 ](http://2d.zol-img.com.cn/product/83_500x2000/309/ce0aHoUpj9pdE.jpg)
 
 所以我们右键3TB的磁盘，出现的对话框中选择转换成GPT磁盘就可以了。
 
@@ -149,19 +149,19 @@ tags:
 
 [caption id="" align="alignnone" width="500"]![希捷硬盘工具](http://2e.zol-img.com.cn/product/83_500x2000/860/ceJmPWPyCiu.jpg) 希捷硬盘工具[/caption]
 
-[caption id="" align="alignnone" width="500"][![希捷硬盘工具安装界面](http://2c.zol-img.com.cn/product/83_500x2000/858/cefTJ8qGljeu6.jpg)](http://detail.zol.com.cn/picture_index_834/index8330858.shtml) 希捷硬盘工具安装界面[/caption]
+![希捷硬盘工具安装界面](http://2c.zol-img.com.cn/product/83_500x2000/858/cefTJ8qGljeu6.jpg)
 
-[caption id="" align="alignnone" width="500"][![希捷硬盘工具](http://2a.zol-img.com.cn/product/83_500x2000/868/cehL61Fybq3E.jpg)](http://detail.zol.com.cn/picture_index_834/index8330868.shtml) 希捷硬盘工具[/caption]
+![希捷硬盘工具](http://2a.zol-img.com.cn/product/83_500x2000/868/cehL61Fybq3E.jpg)
 
-[caption id="" align="alignnone" width="500"][![希捷硬盘工具](http://2a.zol-img.com.cn/product/83_500x2000/880/ceQvyye9TRHDQ.jpg)](http://detail.zol.com.cn/picture_index_834/index8330880.shtml) 希捷硬盘工具[/caption]
+![希捷硬盘工具](http://2a.zol-img.com.cn/product/83_500x2000/880/ceQvyye9TRHDQ.jpg)
 
-[caption id="" align="alignnone" width="500"][![希捷硬盘工具](http://2b.zol-img.com.cn/product/83_500x2000/887/ceFNaZSHBgmQ.jpg)](http://detail.zol.com.cn/picture_index_834/index8330887.shtml) 希捷硬盘工具[/caption]
+![希捷硬盘工具](http://2b.zol-img.com.cn/product/83_500x2000/887/ceFNaZSHBgmQ.jpg)
 
-[caption id="" align="alignnone" width="500"][![希捷DiscWizard软件“分配空间”](http://2e.zol-img.com.cn/product/83_500x2000/902/cez72Ufrv72qE.jpg)](http://detail.zol.com.cn/picture_index_834/index8330902.shtml) 希捷DiscWizard软件“分配空间”[/caption]
+![希捷DiscWizard软件“分配空间”](http://2e.zol-img.com.cn/product/83_500x2000/902/cez72Ufrv72qE.jpg)
 
-[caption id="" align="alignnone" width="500"][![希捷硬盘工具模拟另一块硬盘](http://2a.zol-img.com.cn/product/83_500x2000/916/ce0ho7zb6SZcA.jpg)](http://detail.zol.com.cn/picture_index_834/index8330916.shtml) 希捷硬盘工具模拟另一块硬盘[/caption]
+![希捷硬盘工具模拟另一块硬盘](http://2a.zol-img.com.cn/product/83_500x2000/916/ce0ho7zb6SZcA.jpg)
 
-[caption id="" align="alignnone" width="500"][![硬盘工具](http://2c.zol-img.com.cn/product/83_500x2000/918/ceb3ul5EUnsc.jpg)](http://detail.zol.com.cn/picture_index_834/index8330918.shtml) 硬盘工具[/caption]
+![硬盘工具](http://2c.zol-img.com.cn/product/83_500x2000/918/ceb3ul5EUnsc.jpg)
 
 我们之前提到了早期32位Win7和WinXP[操作系统](http://detail.zol.com.cn/os_index/subcate121_list_1.html)不能识别3TB[硬盘](http://memory.zol.com.cn/)，GPT硬盘格式+手动操作UEFI BIOS+64位操作系统等等一系列要求对于普通用户来说实在麻烦，并且大量早前购买的[主板](http://mb.zol.com.cn/)并没有UEFI BIOS。为此希捷专门开发了一款软件，针对希捷3TB或者更大容量的硬盘无法安装系统使用，操作界面非常简单，下面就来详细介绍一下希捷3TB硬盘的破解方法。
 首先我们需要从希捷官网下载一个[**DiscWizard工具**](http://www.seagate.com/staticfiles/support/downloads/discwizard/DiscWizardSetup-14387.zh-cn.exe)。

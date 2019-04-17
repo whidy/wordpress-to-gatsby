@@ -18,7 +18,7 @@ tags:
 
 有个效果如图:
 
-[caption id="attachment_1912" align="aligncenter" width="400"][![这样的双引号只能用图片代替了](http://www.whidy.net/wp-content/uploads/2014/04/quote-400x250.png)](http://www.whidy.net/wp-content/uploads/2014/04/quote.png) 这样的双引号只能用图片代替了[/caption]
+![这样的双引号只能用图片代替了](http://www.whidy.net/wp-content/uploads/2014/04/quote-400x250.png)
 
 本来写了个全无图的效果.不过似乎只能针对XP下有对应的黑体和微软雅黑才行.在公司的WIN7电脑测试本来这个双引号不需要用到背景图,可是回来准备严格测试的时候,发现问题了,在虚拟机上的一个纯净的精简XP上,这个双引号就算用黑体也是大大的两个像圆形的逗号...最终测试无效,只好用背景图实现了.
 

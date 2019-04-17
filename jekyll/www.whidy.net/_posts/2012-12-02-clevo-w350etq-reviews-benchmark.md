@@ -21,28 +21,28 @@ tags:
 
 3dmark 06分数, 3dmark vantage分数以及AIDA64拷机温度观察和furmark拷机温度观察,当时室温约25度左右.
 
-[caption id="attachment_1253" align="aligncenter" width="400"][![3dmark跑分及温度测试](/wp-content/uploads/2012/12/3dmark-06-and-3dmark-vantage-and-furmark-400x225.jpg)](/wp-content/uploads/2012/12/3dmark-06-and-3dmark-vantage-and-furmark.jpg) 3dmark跑分及温度测试[/caption]
+![3dmark跑分及温度测试](/wp-content/uploads/2012/12/3dmark-06-and-3dmark-vantage-and-furmark-400x225.jpg)
 
 <!-- more -->
 3dmark 11分数
 
-[caption id="attachment_1254" align="aligncenter" width="400"][![3dmark11跑分](/wp-content/uploads/2012/12/3dmark11-400x254.jpg)](/wp-content/uploads/2012/12/3dmark11.jpg) 3dmark11跑分[/caption]
+![3dmark11跑分](/wp-content/uploads/2012/12/3dmark11-400x254.jpg)
 
 windows7系统自带评测分数
 
-[caption id="attachment_1255" align="aligncenter" width="400"][![win7 系统自带评分系统](/wp-content/uploads/2012/12/win7systembenchmark-400x235.jpg)](/wp-content/uploads/2012/12/win7systembenchmark.jpg) win7 系统自带评分系统[/caption]
+![win7 系统自带评分系统](/wp-content/uploads/2012/12/win7systembenchmark-400x235.jpg)
 
 Fritz Chess Benchmark 的测试结果
 
-[caption id="attachment_1256" align="aligncenter" width="391"][![Fritz Chess Benchmark下棋程序跑分](/wp-content/uploads/2012/12/Fritz-Chess-Benchmark.jpg)](/wp-content/uploads/2012/12/Fritz-Chess-Benchmark.jpg) Fritz Chess Benchmark下棋程序跑分[/caption]
+![Fritz Chess Benchmark下棋程序跑分](/wp-content/uploads/2012/12/Fritz-Chess-Benchmark.jpg)
 
 superpi和aida64 cache & memory benchmark
 
-[caption id="attachment_1257" align="aligncenter" width="400"][![superpi和aida64 cache & memory benchmark](/wp-content/uploads/2012/12/superpi-and-aida64-400x187.jpg)](/wp-content/uploads/2012/12/superpi-and-aida64.jpg) superpi和aida64 cache & memory benchmark[/caption]
+![superpi和aida64 cache & memory benchmark](/wp-content/uploads/2012/12/superpi-and-aida64-400x187.jpg)
 
 以及最后的人家人骂菜鸟都爱的纯娱乐程序鲁大师评分(这里要说的是,这个分数我测了4遍的最高分,而且仅此一次分数3600,其余3次都是3000分,而分数低的原因是CPU的分数问题,可能是频率在变,另外无论我是选择集成显卡跑还是独立显卡跑都是这鸟分数,我也不想纠结这玩意: )
 
-[caption id="attachment_1258" align="aligncenter" width="400"][![鲁大师评分系统评分](/wp-content/uploads/2012/12/ludashi-400x285.jpg)](/wp-content/uploads/2012/12/ludashi.jpg) 鲁大师评分系统评分[/caption]
+![鲁大师评分系统评分](/wp-content/uploads/2012/12/ludashi-400x285.jpg)
 
 对了还有个AIDA64性能评测的报告,十分详细的性能报告,推荐大家看一下,[点击查看](/wp-content/uploads/2012/12/w350etq.htm)
 

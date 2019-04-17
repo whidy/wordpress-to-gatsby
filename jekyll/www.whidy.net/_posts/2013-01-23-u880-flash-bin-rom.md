@@ -21,7 +21,7 @@ tags:
 
 我这里测试了两个系统,一个是**XP 32位**,一个**是WIN8 64位**.共遇到过两种问题,一个是**设备已插入,请稍后...**,另一个是,**下载中,请稍后...**.
 
-[caption id="attachment_1557" align="aligncenter" width="400"][![WIN8 64位系统下安装好驱动状态](http://www.whidy.net/wp-content/uploads/2013/01/usbdriver-400x211.jpg)](http://www.whidy.net/wp-content/uploads/2013/01/usbdriver.jpg) WIN8 64位系统下安装好驱动状态[/caption]
+![WIN8 64位系统下安装好驱动状态](http://www.whidy.net/wp-content/uploads/2013/01/usbdriver-400x211.jpg)
 
 <!-- more -->
 

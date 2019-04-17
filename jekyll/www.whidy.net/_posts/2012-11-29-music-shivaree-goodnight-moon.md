@@ -89,7 +89,7 @@ Goodnight moon
 No it won't be too soon 'til I say
 Goodnight moon
 
-[caption id="attachment_1157" align="aligncenter" width="400"][![Goodnight Moon](/wp-content/uploads/2012/11/cdCover-400x400.jpg)](/wp-content/uploads/2012/11/cdCover.jpg) Goodnight Moon[/caption]
+![Goodnight Moon](/wp-content/uploads/2012/11/cdCover-400x400.jpg)
 
 音乐初次听的时候感觉诡异,很吸引人的旋律,查查歌词感觉还是不错的...
 

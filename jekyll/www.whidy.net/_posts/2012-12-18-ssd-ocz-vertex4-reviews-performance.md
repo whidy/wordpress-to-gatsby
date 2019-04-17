@@ -20,11 +20,11 @@ tags:
 
 先来看看硬盘信息以及AS SSD Benchmark,WIN8评分.
 
-[caption id="attachment_1513" align="aligncenter" width="400"][![AS SSD Benchmark,WIN8评分](http://www.whidy.net/wp-content/uploads/2012/12/Benchmark-400x284.jpg)](http://www.whidy.net/wp-content/uploads/2012/12/Benchmark.jpg) AS SSD Benchmark,WIN8评分[/caption]
+![AS SSD Benchmark,WIN8评分](http://www.whidy.net/wp-content/uploads/2012/12/Benchmark-400x284.jpg)
 
 再就测试比较准确的CrystalDiskInfo
 
-[caption id="attachment_1514" align="aligncenter" width="400"][![CrystalDiskMark测试成绩](http://www.whidy.net/wp-content/uploads/2012/12/CrystalDiskMark-400x362.jpg)](http://www.whidy.net/wp-content/uploads/2012/12/CrystalDiskMark.jpg) CrystalDiskMark测试成绩[/caption]
+![CrystalDiskMark测试成绩](http://www.whidy.net/wp-content/uploads/2012/12/CrystalDiskMark-400x362.jpg)
 
 当然其实还有Atto Disk Benchmark,PCMARK 7等等,我觉得意义不太大也就没放出了.
 

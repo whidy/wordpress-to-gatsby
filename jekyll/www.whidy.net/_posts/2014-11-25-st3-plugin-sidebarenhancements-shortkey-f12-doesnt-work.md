@@ -55,7 +55,7 @@ tags:
 
 其实很简单,将上面内容复制到
 
-[caption id="attachment_2636" align="aligncenter" width="400"][![SideBarEnhancements_keybindings_user](http://www.whidy.net/wp-content/uploads/2014/11/SideBarEnhancements_key-400x278.jpg)](http://www.whidy.net/wp-content/uploads/2014/11/SideBarEnhancements_key.jpg) 用户自定义键位绑定[/caption]
+![SideBarEnhancements_keybindings_user](http://www.whidy.net/wp-content/uploads/2014/11/SideBarEnhancements_key-400x278.jpg)
 
 保存就行了,如果想要鱼和熊掌兼得的朋友,就请自行设置成其他快捷键咯.
 

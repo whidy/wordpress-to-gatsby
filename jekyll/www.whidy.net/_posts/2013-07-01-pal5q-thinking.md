@@ -19,7 +19,7 @@ tags:
 三山烟雨一盅酒，落拓悠然笑树横。
 -谢沧行
 
-[caption id="attachment_1720" align="aligncenter" width="400"][![仙剑奇侠传五前传-谢沧行](http://www.whidy.net/wp-content/uploads/2013/07/pal5qXcx-400x136.jpg)](http://www.whidy.net/wp-content/uploads/2013/07/pal5qXcx.jpg) 仙剑奇侠传五前传-谢沧行[/caption]
+![仙剑奇侠传五前传-谢沧行](http://www.whidy.net/wp-content/uploads/2013/07/pal5qXcx-400x136.jpg)
 
 不知道可否算是花了半年的时间将游戏,终于有了了结.
 

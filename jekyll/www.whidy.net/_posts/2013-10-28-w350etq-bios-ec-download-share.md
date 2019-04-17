@@ -24,7 +24,7 @@ tags:
 
 先来看看这个W350ET的BIOS和EC的版本,最新BIOS版本为1.02.22,最新的EC版本为1.02.13,如图
 
-[caption id="attachment_1814" align="aligncenter" width="400"][![W350ETQ的BIOS&EC版本号](http://www.whidy.net/wp-content/uploads/2013/10/BIOSEC_Version-400x300.jpg)](http://www.whidy.net/wp-content/uploads/2013/10/BIOSEC_Version.jpg) W350ETQ的BIOS&EC版本号[/caption]
+![W350ETQ的BIOS&EC版本号](http://www.whidy.net/wp-content/uploads/2013/10/BIOSEC_Version-400x300.jpg)
 
 [<!-- more -->](ftp://usftp.clevo.com.tw/ALLBIOS/W3xxET/)
 

@@ -18,7 +18,7 @@ tags:
 
 不得不说按照正常进度,打到第一个乌龟boss后,玩家等级应该是9-10级,然后打姜云凡等人胜率几乎为零,怎么组合都没办法.我不得不反复读存档,刷岛上的小兵,刷到12级勉强过去了.我的玩家配置是这样的.
 
-[caption id="attachment_1733" align="aligncenter" width="400"][![虹芝岛人物等级配置](http://www.whidy.net/wp-content/uploads/2013/07/hzd-400x58.jpg)](http://www.whidy.net/wp-content/uploads/2013/07/hzd.jpg) 虹芝岛人物等级配置[/caption]
+![虹芝岛人物等级配置](http://www.whidy.net/wp-content/uploads/2013/07/hzd-400x58.jpg)
 
 那么打到这里的时候我觉得至少需要12级,并且夏侯瑾轩收了很多符贴在龙溟和凌波武器上,称号什么的也都加上,那么这里**选择他们四个是因为**夏侯瑾轩和凌波作为加血加状态的辅助,一个加血的真的不够,另外一方面,主要物理输出只有龙溟,其他的人包括谢沧行和姜承完全不够,因为未招募鬼手入队所以不知道他的物理输出如何,咱不做讨论.
 
@@ -30,4 +30,4 @@ tags:
 
 不过也开始怀念仙剑五的感觉了...喜欢这张图与大家分享
 
-[caption id="attachment_1738" align="aligncenter" width="400"][![告别](http://www.whidy.net/wp-content/uploads/2013/07/farewell-400x234.jpg)](http://www.whidy.net/wp-content/uploads/2013/07/farewell.jpg) 告别[/caption]
+![告别](http://www.whidy.net/wp-content/uploads/2013/07/farewell-400x234.jpg)

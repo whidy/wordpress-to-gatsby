@@ -31,7 +31,7 @@ CPU和PCH满负荷运行,温度都不超过80摄氏度.虽然CPU温度还是有�
 
 CPU和PCH满负荷运行下,CPU约73摄氏度,基本不超过73摄氏度,PCH不超过77摄氏度.基本满意了.上图:
 
-[caption id="attachment_1945" align="aligncenter" width="400"][![W350ETQ(K590S)散热改造](http://www.whidy.net/wp-content/uploads/2014/04/cool-it-400x300.jpg)](http://www.whidy.net/wp-content/uploads/2014/04/cool-it.jpg) W350ETQ(K590S)散热改造[/caption]
+![W350ETQ(K590S)散热改造](http://www.whidy.net/wp-content/uploads/2014/04/cool-it-400x300.jpg)
 
 渣手机,勉强看一下...是的,如果动手能力强,改一个合适的通风口对着这里面灌气效果绝对比什么散热底座好...
 

@@ -54,7 +54,7 @@ tags:
 
 测试一下看访问是否正常,如果无法正常访问http://localhost/phpmyadmin/那么请修改这个文件
 
-[caption id="attachment_944" align="aligncenter" width="400"][![alias域名修改配置](/wp-content/uploads/2012/08/alias-400x232.png)](/wp-content/uploads/2012/08/alias.png) alias域名修改配置[/caption]
+![alias域名修改配置](/wp-content/uploads/2012/08/alias-400x232.png)
 
 将
 

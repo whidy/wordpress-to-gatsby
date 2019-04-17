@@ -26,11 +26,11 @@ tags:
 
 这就是我的LOGO,没办法,暂时抽象化的
 
-[caption id="attachment_153" align="aligncenter" width="100"][![whidy logo 小图](http://www.whidy.net/wp-content/uploads/2010/11/LOGO2.jpg)](/wp-content/uploads/2010/11/LOGO2.jpg) whidy logo 小图[/caption]
+![whidy logo 小图](http://www.whidy.net/wp-content/uploads/2010/11/LOGO2.jpg)
 
 另外一个原始的,就是这个了...
 
-[caption id="attachment_155" align="aligncenter" width="400"][![whidy logo大图](http://www.whidy.net/wp-content/uploads/2010/11/LOGO_gray_big-500x500.jpg)](/wp-content/uploads/2010/11/LOGO_gray_big.jpg) whidy logo大图[/caption]
+![whidy logo大图](http://www.whidy.net/wp-content/uploads/2010/11/LOGO_gray_big-500x500.jpg)
 
 好了,今天就这么多了,纪念完成,早点睡觉,这几天睡眠还是不好哟,,,今天凌晨还写了个小诗,,,
 

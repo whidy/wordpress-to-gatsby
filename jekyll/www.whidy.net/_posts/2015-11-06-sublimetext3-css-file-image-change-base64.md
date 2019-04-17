@@ -34,4 +34,4 @@ tags:
 
 另外还有一种通过chrome快速获取网页上图片的Data Url方法.如图
 
-[caption id="attachment_2826" align="aligncenter" width="400"][![chrome_ImageToDataUrl](http://www.whidy.net/wp-content/uploads/2015/11/chromeDataUrl-400x165.png)](http://www.whidy.net/wp-content/uploads/2015/11/chromeDataUrl.png) chrome_ImageToDataUrl[/caption]
+![chrome_ImageToDataUrl](http://www.whidy.net/wp-content/uploads/2015/11/chromeDataUrl-400x165.png)

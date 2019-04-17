@@ -24,7 +24,7 @@ tags:
 这个主要是在
 (点击图片可放大)
 
-[caption id="attachment_81" align="aligncenter" width="300"][![禁用/启用CSS属性](http://www.whidy.net/wp-content/uploads/2010/09/cssEnable-300x99.png)](/wp-content/uploads/2010/09/cssEnable.png) 禁用/启用CSS属性[/caption]
+![禁用/启用CSS属性](http://www.whidy.net/wp-content/uploads/2010/09/cssEnable-300x99.png)
 
 这里可以更加方便的将某个标签的CSS属性比如途中是font-size,(点击图中其中任意箭头指向的地方)禁用查看效果,我想这个功能也许会在有时遇到某些莫名其妙的问题中通过排除法更快的解决,功能比较类似chrome里面的"审查元素"将某个CSS属性关闭或开启,总而言之,这个将会在web设计中起到很大的帮助作用,具体用法还需大家多多实践~
 

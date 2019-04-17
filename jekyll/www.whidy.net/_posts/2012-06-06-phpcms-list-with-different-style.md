@@ -20,7 +20,7 @@ tags:
 
 先来看看效果图:
 
-[caption id="attachment_798" align="aligncenter" width="400"][![phpcms文章列表循环不同样式制作方法](/wp-content/uploads/2012/06/phpcms-400x248.jpg)](/wp-content/uploads/2012/06/phpcms.jpg) phpcms文章列表循环不同样式制作方法[/caption]
+![phpcms文章列表循环不同样式制作方法](/wp-content/uploads/2012/06/phpcms-400x248.jpg)
 
 那么我这张图清晰的告诉大家,这个列表分为三个部分,而我将采用两个PC标签完成它(之所以用两个PC标签输出,目的在于温习[phpcms嵌套循环](/phpcms-speciallist-with-subarticle-loop.html)内容输出,当然你完全可以通过我的方法用一个PC标签搞定),因为CSS样式已经做好,这里大家只用看程序部分即可,先上代码部分:
 

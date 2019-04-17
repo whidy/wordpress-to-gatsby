@@ -24,7 +24,7 @@ tags:
 
 最后上我的配置图:
 
-[caption id="attachment_2002" align="aligncenter" width="400"][![SFTP设置图](http://www.whidy.net/wp-content/uploads/2014/04/SFTP-settings-400x342.jpg)](http://www.whidy.net/wp-content/uploads/2014/04/SFTP-settings.jpg) SFTP设置图[/caption]
+![SFTP设置图](http://www.whidy.net/wp-content/uploads/2014/04/SFTP-settings-400x342.jpg)
 
 如果嫌每次敲密码麻烦,这里可以输入密码就可以了,至于其他配置,可以根据个人需求来设置.
 

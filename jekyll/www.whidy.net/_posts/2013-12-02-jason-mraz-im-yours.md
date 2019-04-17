@@ -85,7 +85,7 @@ Cause our time is short
 This is this is this is our fate
 I’m yours
 
-[caption id="attachment_1840" align="aligncenter" width="400"][![I'm yours 封面](http://www.whidy.net/wp-content/uploads/2013/12/Im-yours.jpg)](http://www.whidy.net/wp-content/uploads/2013/12/Im-yours.jpg) I'm yours 封面[/caption]
+![I'm yours 封面](http://www.whidy.net/wp-content/uploads/2013/12/Im-yours.jpg)
 
 这么好的一首歌曲,我竟然现在才发现,其实我是看一段美女弹吉他视频才听得这曲,真是不错呢!~
 

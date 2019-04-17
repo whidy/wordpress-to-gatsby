@@ -47,7 +47,7 @@ Win7 用户请使用“Win7”文件夹中的“SublimeText.exe”替换“Subli
 
 前阵子还在研究st2的用法,没想到这么快3的汉化版都出来了.正巧看到,才与大家分享.
 
-[caption id="attachment_1706" align="aligncenter" width="400"][![Sublime Text 3](http://www.whidy.net/wp-content/uploads/2013/06/st3-400x327.jpg)](http://www.whidy.net/wp-content/uploads/2013/06/st3.jpg) Sublime Text 3截图[/caption]
+![Sublime Text 3](http://www.whidy.net/wp-content/uploads/2013/06/st3-400x327.jpg)
 
 下载页面: **[Sublime Text3 Buld 3059 简体中文优化版](http://www.anxz.com/down/8104.html)**
 

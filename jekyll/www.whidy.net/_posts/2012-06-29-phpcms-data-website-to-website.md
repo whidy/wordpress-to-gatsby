@@ -22,7 +22,7 @@ tags:
 
 进入h.net后台,找到 **模块 > 模块管理 > 数据源 > 添加数据源调用** 弹出一个窗口
 
-[caption id="attachment_841" align="aligncenter" width="400"][![数据源未填写](/wp-content/uploads/2012/06/datasource01-400x360.jpg)](/wp-content/uploads/2012/06/datasource01.jpg) 数据源未填写[/caption]
+![数据源未填写](/wp-content/uploads/2012/06/datasource01-400x360.jpg)
 
 这些选项大家应该看得懂吧,我简单说明一下,
 
@@ -41,7 +41,7 @@ tags:
 
 
 
-[caption id="attachment_841" align="aligncenter" width="400"][![数据源填好后](/wp-content/uploads/2012/06/datasource01-400x360.jpg)](/wp-content/uploads/2012/06/datasource01.jpg) 数据源填好后[/caption]
+![数据源填好后](/wp-content/uploads/2012/06/datasource01-400x360.jpg)
 
 其实跟普通的文章调用方式写的模板相同,缓存时间一般为0,数量自己决定,最后确定,于是就生成了一段代码.接下来我们将在论坛上放置此js代码.
 
@@ -100,7 +100,7 @@ tags:
 
 我这是样本,所以重复三块.仅供大家参考用.最终效果图
 
-[caption id="attachment_845" align="aligncenter" width="400"][![最终效果图](/wp-content/uploads/2012/06/previews-400x86.jpg)](/wp-content/uploads/2012/06/previews.jpg) 最终效果图[/caption]
+![最终效果图](/wp-content/uploads/2012/06/previews-400x86.jpg)
 
 对了忘记说了,我这个调用的代码其实调用了两个地方的- -!所以略有不同..z请谅解
 

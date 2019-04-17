@@ -19,7 +19,7 @@ tags:
 
 先来看看问题图片:
 
-[caption id="attachment_2419" align="aligncenter" width="400"][![关于FF和CHROME在行内文字换行测试(附IE6测试)](http://www.whidy.net/wp-content/uploads/2014/06/ff_chrome-400x286.png)](http://www.whidy.net/wp-content/uploads/2014/06/ff_chrome.png) 关于FF和CHROME在行内文字换行测试(附IE6测试)[/caption]
+![关于FF和CHROME在行内文字换行测试(附IE6测试)](http://www.whidy.net/wp-content/uploads/2014/06/ff_chrome-400x286.png)
 
 事实上,并不顺利~我将其代码片段弄下来做了个demo,大家测试一下(说明:chrome版本34, firefox版本29,IE6可以尝试测试word-wrap:break-word;同时对其进行hasLayout测试观察变化).
 

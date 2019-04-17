@@ -22,7 +22,7 @@ tags:
 
 
 
-[caption id="attachment_1879" align="aligncenter" width="149"][![带有小箭头的文本框](http://www.whidy.net/wp-content/uploads/2014/03/arrowBorder.jpg)](http://www.whidy.net/wp-content/uploads/2014/03/arrowBorder.jpg) 带有小箭头的文本框[/caption]
+![带有小箭头的文本框](http://www.whidy.net/wp-content/uploads/2014/03/arrowBorder.jpg)
 
 
 

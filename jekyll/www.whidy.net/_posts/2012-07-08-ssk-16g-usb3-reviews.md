@@ -71,9 +71,9 @@ CPU: AMD FX8120
 
 
 
-[caption id="attachment_863" align="aligncenter" width="1440"][![SSK 16G U盘 软件测试成绩](/wp-content/uploads/2012/07/test_2.jpg)](/wp-content/uploads/2012/07/test_2.jpg) SSK 16G U盘 软件测试成绩[/caption]
+![SSK 16G U盘 软件测试成绩](/wp-content/uploads/2012/07/test_2.jpg)
 
-[caption id="attachment_862" align="aligncenter" width="1440"][![SSK 16G U盘 文件速度测试](/wp-content/uploads/2012/07/test_1.jpg)](/wp-content/uploads/2012/07/test_1.jpg) SSK 16G U盘 文件速度测试[/caption]
+![SSK 16G U盘 文件速度测试](/wp-content/uploads/2012/07/test_1.jpg)
 
 看了上面测试截图大致对这款产品有了了解,既然是文件测试当然要上超级准确的秒表测试结果~
 

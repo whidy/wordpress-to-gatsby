@@ -20,7 +20,7 @@ tags:
 
 在做移动端页面，需要在订单页面中显示表单数据，由于UI统一，所以就依旧采用form的结构来写结构，只读数据的标签自然要加readonly="readonly"，以为这样就行了，CHROME模拟移动端是看不出问题的。手机上一看，虽然表单元素不能编辑内容，但是会出现闪动的光标以及页面底部有一条系统自带的控制bar。
 
-[caption id="attachment_2997" align="aligncenter" width="400"][![表单readonly元素依然有光标](http://www.whidy.net/wp-content/uploads/2017/09/form-400x711.png)](http://www.whidy.net/wp-content/uploads/2017/09/form.png) 表单readonly元素依然有光标，底部还有BAR，感觉不好[/caption]
+![表单readonly元素依然有光标](http://www.whidy.net/wp-content/uploads/2017/09/form-400x711.png)
 
 这种情况对我来说并不好。于是网上找了一些解决方案，现在总结一下：
 

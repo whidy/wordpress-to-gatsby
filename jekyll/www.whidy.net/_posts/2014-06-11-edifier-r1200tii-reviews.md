@@ -17,7 +17,7 @@ tags:
 
 赶着京东做活动,恰好抢到一张199-100的优惠券,整天带着耳机听,的确不是很方便,于是决定买一对2.0的音箱,虽然说漫步者为了最大限度的利用这张优惠券,必然是买漫步者R1000TC北美版,然而略对音质有要求的我,最终决定买去年年底上市的R1200TII,由于之前用过漫步者的音箱,印象还不错,03年买的一对2.1的,现在除了有点小毛病,基本还能用,所以信任的买了这款R1200TII,上午下单,下午便到了,辛辛苦苦把这个重家伙从公司弄回宿舍,安装了一番,开始试音.
 
-[caption id="attachment_2434" align="aligncenter" width="400"][![漫步者r1200tii使用感受](http://www.whidy.net/wp-content/uploads/2014/06/r1200tii-400x300.jpg)](http://www.whidy.net/wp-content/uploads/2014/06/r1200tii.jpg) 漫步者r1200tii使用感受[/caption]
+![漫步者r1200tii使用感受](http://www.whidy.net/wp-content/uploads/2014/06/r1200tii-400x300.jpg)
 
 寒舍简陋,桌子只有一米宽,如何容纳我这2.0音箱,24寸显示器,和15寸笔记本...暂且只能如此摆放.闲话说多了,说正题.<!-- more -->
 
@@ -27,7 +27,7 @@ tags:
 
 这又听了几天,不知道是听习惯了还是真有煲箱的说法,略好一点,当然,这里我修改了EQ,不得不说,不改EQ,我实在听不下去,这里主要分享两个EQ配置,一个是全局的,找到电脑的驱动,这里我是realtek的,我的设置如下:
 
-[caption id="attachment_2435" align="aligncenter" width="400"][![realtek声卡驱动r1200tii的EQ设置](http://www.whidy.net/wp-content/uploads/2014/06/r1200tii_eq-400x312.png)](http://www.whidy.net/wp-content/uploads/2014/06/r1200tii_eq.png) realtek声卡驱动r1200tii的EQ设置[/caption]
+![realtek声卡驱动r1200tii的EQ设置](http://www.whidy.net/wp-content/uploads/2014/06/r1200tii_eq-400x312.png)
 
 当然我这也是随便弄了一下,略微将高频提升,效果,大家自己尝试了.(说明,如果用HDMI接口,这里设置无效.此处只针对板载声卡输出.)
 

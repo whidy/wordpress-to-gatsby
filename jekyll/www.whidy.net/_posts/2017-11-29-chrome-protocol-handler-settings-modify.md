@@ -24,7 +24,7 @@ tags:
 
 <!-- more -->而我居然点错了！！！怎么办，找不回来了。然后再次点击下载就只能干瞪眼：
 
-[caption id="attachment_3049" align="aligncenter" width="400"][![无法关联百度云盘程序](http://www.whidy.net/wp-content/uploads/2017/11/dl-400x235.png)](http://www.whidy.net/wp-content/uploads/2017/11/dl.png) 无法关联百度云盘程序[/caption]
+![无法关联百度云盘程序](http://www.whidy.net/wp-content/uploads/2017/11/dl-400x235.png)
 
 为了解决这个问题,第一反应去谷歌浏览器的设置里翻遍了，但也没有找到！只能搜索一下网上有没有解决方案，找了很多，唯一有用的估计就是这个2012年发表的一篇文章（具体原创不知道了，这里放两个内容相同的链接，以便于我下文的解决方案不可用时，大家尝试这个）：
 
@@ -36,11 +36,11 @@ tags:
 
 那怎么办呢，又去找了很多关于修改关联协议链接应用的设置也没有结果，索性，自己研究一下Chrome的**User Data**目录，功夫不负有心人，我找了很久（你们觉得我找了多久。。。），终于找到文件“**C:\Users\Whidy(你的用户名)\AppData\Local\Google\Chrome\User Data\Default\Preferences**”里发现了一个可能是修改配置（请用文本编辑器记事本之类的工具打开）：
 
-[caption id="attachment_3050" align="aligncenter" width="400"][![设置协议程序启动的配置](http://www.whidy.net/wp-content/uploads/2017/11/settings-400x282.png)](http://www.whidy.net/wp-content/uploads/2017/11/settings.png) 设置协议程序启动的配置（配置图一）[/caption]
+![设置协议程序启动的配置](http://www.whidy.net/wp-content/uploads/2017/11/settings-400x282.png)
 
 如果感觉阅读这些配置比较困难，可以将文档改成Javascript语言模式（当然改功能依赖各种编辑器，我这里是VSCode）就清晰了，有空的话也可以看看其他的有没有什么有趣的配置选项：
 
-[caption id="attachment_3051" align="aligncenter" width="322"][![排版后的效果](http://www.whidy.net/wp-content/uploads/2017/11/settings-2.png)](http://www.whidy.net/wp-content/uploads/2017/11/settings-2.png) 排版后的效果（配置图二）[/caption]
+![排版后的效果](http://www.whidy.net/wp-content/uploads/2017/11/settings-2.png)
 
 这个从英文中不难看出，协议处理(protocol_handler) > 排除的项列表(excluded_schemes) > 这里的**baiduyunguanjia**被设置为**true**，就是确认被排除，因此浏览器对于该协议的链接不做处理。那么，目前你有两个选择：
 

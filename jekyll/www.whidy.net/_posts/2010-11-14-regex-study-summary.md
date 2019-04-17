@@ -37,7 +37,7 @@ tags:
 	
   2. 正则表达式验证小工具:[RegexTester.exe ](http://cid-3eb8edff1814d075.office.live.com/self.aspx/Documents/RegexTester.exe)简要说明:在Regex输入框内输入规则后,在Resource内输入你要验证的内容,最后按F5,查看Matches框内的验证结果~示例如图:
 
-[caption id="" align="alignnone" width="468"][![Regex Tester](/wp-content/uploads/2010/11/Resex-Tester.png)](/wp-content/uploads/2010/11/Resex-Tester.png) Regex Tester[/caption]
+![Regex Tester](/wp-content/uploads/2010/11/Resex-Tester.png)
 
 	
   3. 一个别人写的,不错,当然看到后面也比较费力,大家有兴趣也可以看看 [http://deerchao.net/tutorials/regex/regex.htm](http://deerchao.net/tutorials/regex/regex.htm)

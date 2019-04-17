@@ -18,7 +18,7 @@ tags:
 
 现在可算是对sublime text编辑器有点入门了,除了基本操作快捷键之外,对于sublime text的用户配置设置我今天也细细研究了一番,对于英语勉强说得过去的我,看这个默认的配置(**Preferences.sublime-settings---Default**)说明是没有太大压力的,对于英语差的,先硬着头皮看看,实在不行,我总结了以下一些我感觉还算比较方便的配置选项,当然,自定义的就是覆盖了默认设置的,有兴趣的可以看看,根据个人需要修改...首先当然是开启**Preferences.sublime-settings---User**了,见图,我在配置中加了说明方便查阅:
 
-[caption id="attachment_2072" align="aligncenter" width="400"][![Sublime text 3用户自定义设置配置](http://www.whidy.net/wp-content/uploads/2014/05/sublime_user_settings-400x270.png)](http://www.whidy.net/wp-content/uploads/2014/05/sublime_user_settings.png) Sublime text 3用户自定义设置配置[/caption]
+![Sublime text 3用户自定义设置配置](http://www.whidy.net/wp-content/uploads/2014/05/sublime_user_settings-400x270.png)
 
 (图中可以看到修改过的文件名称是黄色,选中的那一行也高亮了等等,大家自行观察咯~)
 

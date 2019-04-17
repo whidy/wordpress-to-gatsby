@@ -21,7 +21,7 @@ tags:
 
 发表相关思路之前先给大家看看效果,觉得还不错的,那么你可以继续看看 :lol:
 
-[caption id="attachment_1145" align="aligncenter" width="400"][![PHPCMS单页面模板列表作弊](/wp-content/uploads/2012/11/moreBtn-400x107.jpg)](/wp-content/uploads/2012/11/moreBtn.jpg) PHPCMS单页面模板列表作弊[/caption]
+![PHPCMS单页面模板列表作弊](/wp-content/uploads/2012/11/moreBtn-400x107.jpg)
 
 那么既然是单页面模板,它就有个问题,这个问题就是,单页面模板内是不能使用翻页的功能的.起初我是不知道的,找了一些资料也没解决.那么我就只有想别的办法了.经过一番思索,我认为,可以仿照腾讯微博看到页面底部,自动无限刷新.那么代码的思路就是:
 

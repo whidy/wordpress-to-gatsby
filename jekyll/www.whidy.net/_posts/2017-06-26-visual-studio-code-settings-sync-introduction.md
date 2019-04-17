@@ -27,21 +27,21 @@ tags:
 
 1.安装插件并重启VSCODE就不用说了
 
-[caption id="attachment_2934" align="aligncenter" width="400"][![安装Settings Sync](http://www.whidy.net/wp-content/uploads/2017/06/00-400x264.png)](http://www.whidy.net/wp-content/uploads/2017/06/00.png) 安装VSCODE Settings Sync后重新加载[/caption]
+![安装Settings Sync](http://www.whidy.net/wp-content/uploads/2017/06/00-400x264.png)
 
 2.重启后按快捷键 **alt+shift+u** (这里假设你第一次用)
 
 它会弹出一个窗口对应的是github上面的创建个人gist的页面,如果未登录请先登录github.
 
-[caption id="attachment_2935" align="aligncenter" width="400"][![github创建gist来存储设置](http://www.whidy.net/wp-content/uploads/2017/06/01-400x445.png)](http://www.whidy.net/wp-content/uploads/2017/06/01.png) github创建gist来存储设置[/caption]
+![github创建gist来存储设置](http://www.whidy.net/wp-content/uploads/2017/06/01-400x445.png)
 
 保存后会生成一个key
 
-[caption id="attachment_2936" align="aligncenter" width="400"][![请牢记token id,后面将会用到](http://www.whidy.net/wp-content/uploads/2017/06/02-400x189.png)](http://www.whidy.net/wp-content/uploads/2017/06/02.png) 请牢记token id,后面将会用到[/caption]
+![请牢记token id,后面将会用到](http://www.whidy.net/wp-content/uploads/2017/06/02-400x189.png)
 
 3.切回到vscode,他会有个输入区,就是存放刚才生成的key
 
-[caption id="attachment_2937" align="aligncenter" width="400"][![输入刚才生成的key](http://www.whidy.net/wp-content/uploads/2017/06/03-400x75.png)](http://www.whidy.net/wp-content/uploads/2017/06/03.png) 输入刚才生成的key[/caption]
+![输入刚才生成的key](http://www.whidy.net/wp-content/uploads/2017/06/03-400x75.png)
 
 然后理论上他就开始对你本机的配置进行一个扫描上传了.至此上传工作完成.
 
@@ -53,7 +53,7 @@ tags:
 
 其他的说明,如果在输入gist id写错了,读取不到的情况下,大概需要重置设置,按F1,输入sync,这里有重置选项.试试看~
 
-[caption id="attachment_2938" align="aligncenter" width="321"][![重置sync的gist配置信息等](http://www.whidy.net/wp-content/uploads/2017/06/04.png)](http://www.whidy.net/wp-content/uploads/2017/06/04.png) 重置sync的gist配置信息等[/caption]
+![重置sync的gist配置信息等](http://www.whidy.net/wp-content/uploads/2017/06/04.png)
 
 还有些其他的功能例如自动上传下载等等,不是很常用,大家可以自行看看官方文档,基本的使用方法就是这样了,我写的如果有问题或者哪里不明白的可以留言- -.
 
@@ -74,4 +74,4 @@ tags:
 2018年1月15日补充
 有朋友留言说Settings Sync不能同步插件,我刚测试过是可以同步插件的哦~按Alt+Shift+D后左下角可以看到同步的进度,例如下图:
 
-[caption id="attachment_3083" align="aligncenter" width="340"][![Settings Sync插件同步](http://www.whidy.net/wp-content/uploads/2018/01/SyncExt.png)](http://www.whidy.net/wp-content/uploads/2018/01/SyncExt.png) Settings Sync插件同步[/caption]
+![Settings Sync插件同步](http://www.whidy.net/wp-content/uploads/2018/01/SyncExt.png)

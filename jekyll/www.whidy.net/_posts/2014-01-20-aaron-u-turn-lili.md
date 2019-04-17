@@ -73,7 +73,7 @@ don't become a ghost without no colour
 cause you're the best paint life ever made
 因为你是生命造就的最美画面........
 
-[caption id="attachment_1856" align="aligncenter" width="400"][![u-turn(lili)](http://www.whidy.net/wp-content/uploads/2014/01/u-turn-400x232.jpg)](http://www.whidy.net/wp-content/uploads/2014/01/u-turn.jpg) 来自电影<<我很好,别担心>>插曲[/caption]
+![u-turn(lili)](http://www.whidy.net/wp-content/uploads/2014/01/u-turn-400x232.jpg)
 
 这是一首不错的抒情,略带伤感的歌曲,也是我在一部很不错的电影听到,这里其实算是推荐音乐和电影两重惊喜了哦~
 

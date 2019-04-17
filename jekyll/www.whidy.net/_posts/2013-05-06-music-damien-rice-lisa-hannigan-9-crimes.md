@@ -90,6 +90,6 @@ No…
 
 突然对爱尔兰的音乐了有了莫名的好感...就这样喜欢上了.
 
-[caption id="attachment_1673" align="aligncenter" width="400"][![歌曲9 Crimes专辑封面](http://www.whidy.net/wp-content/uploads/2013/05/9.jpg)](http://www.whidy.net/wp-content/uploads/2013/05/9.jpg) 歌曲9 Crimes专辑封面[/caption]
+![歌曲9 Crimes专辑封面](http://www.whidy.net/wp-content/uploads/2013/05/9.jpg)
 
 

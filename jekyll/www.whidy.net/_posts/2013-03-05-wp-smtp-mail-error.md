@@ -19,12 +19,12 @@ tags:
 
 后来我又换了个后台经过同样的设置,总算弄好了,其实没有什么设置上的变化,但是为什么一个是好的一个是坏的呢?我没有进行更为详细的测试,不过根据猜测,原因是**因为我在之前WP版本下安装了WP SMTP可以正常,后来更新了WP,导致WP SMTP出现问题**,所以我这次弄好了的方法是:**停用WP SMTP并清除原有设置,重新启用WP SMTP,并进行设置即可**.我的配置如下:
 
-[caption id="attachment_1637" align="aligncenter" width="400"][![WP SMTP设置图](http://www.whidy.net/wp-content/uploads/2013/03/WP-SMTP-400x321.jpg)](http://www.whidy.net/wp-content/uploads/2013/03/WP-SMTP.jpg) 解决无法发送邮件问题[/caption]
+![WP SMTP设置图](http://www.whidy.net/wp-content/uploads/2013/03/WP-SMTP-400x321.jpg)
 
 很遗憾,后来测试发现还是有问题...........当然不排除按照我这个方法解决问题的可能性!
 
 3月13日再次更新:我这样设置又可以用了...我觉得就是QQ SMTP有问题,时好时坏...如下图
 
-[caption id="attachment_1642" align="aligncenter" width="400"][![再次设置成功的配置方法](http://www.whidy.net/wp-content/uploads/2013/03/QQ-SMTP-400x346.jpg)](http://www.whidy.net/wp-content/uploads/2013/03/QQ-SMTP.jpg) 再次设置成功的配置方法[/caption]
+![再次设置成功的配置方法](http://www.whidy.net/wp-content/uploads/2013/03/QQ-SMTP-400x346.jpg)
 
 

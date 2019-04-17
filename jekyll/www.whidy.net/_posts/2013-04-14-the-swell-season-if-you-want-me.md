@@ -64,6 +64,6 @@ If you want me satisfy me
 
 感染力!!!当然前提可能是要了解剧情的.
 
-[caption id="attachment_1651" align="aligncenter" width="400"][![The Swell Season - If you want me](http://www.whidy.net/wp-content/uploads/2013/04/once-cover-400x400.jpg)](http://www.whidy.net/wp-content/uploads/2013/04/once-cover.jpg) The Swell Season - If you want me[/caption]
+![The Swell Season - If you want me](http://www.whidy.net/wp-content/uploads/2013/04/once-cover-400x400.jpg)
 
 
