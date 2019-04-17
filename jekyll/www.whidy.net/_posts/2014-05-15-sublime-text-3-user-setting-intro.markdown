@@ -24,8 +24,8 @@ tags:
 
 接下来大家根据需要拷贝过去进行修改吧...
 
-    
-    <code class="json">{
+    ```javascripton
+    {
     "auto_complete_selector": "source,text", //用到snippet的话加此行,否则请无视我
     "font_size": 16, //不用多说,字体大小,同样可以按住CTRL+'+'或者'-'或者'鼠标滚轮'调整
     "ignored_packages":
@@ -43,7 +43,6 @@ tags:
     "show_tab_close_buttons": false //不显示TAB标签上的关闭图标(个人认为没用,文件多了不小心切换的时候关了更麻烦,真的需要关闭某个标签的时候,可以在左侧栏已打开的文件中点叉叉,当然个人更加推荐使用快捷键CTRL+W)
     //注释 BY WHIDY 2014年5月15日...
     }
-    </code>
-
+    ```
 
 PS: 经过几日测试,我发现焦点失去自动保存功能并不好用,大家看情况来使用吧,原因:从外部快速切换到sublime text时,代码块会滚动一下,影响查找刚才编辑的位置,另外,如果是GBK编码格式,有时不小心乱码了,比较麻烦(2014年5月21日)

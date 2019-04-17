@@ -26,7 +26,9 @@ tags:
 我先来说说这个问题怎么处理吧.经过大量查找研究得出的结论...用了一行这个命令:
 
     
-    <code class="">npm config set msvs_version 2012 --global</code>
+    ```bash
+    npm config set msvs_version 2012 --global
+    ```
 
 
 参考资料:
@@ -83,10 +85,11 @@ tags:
 如果提示这些错误信息
 
 
-    
-    <code>MSBUILD : error MSB3428: 未能加载 Visual C++ 组件“VCBuild.exe”。要解决此问题，1) 安装 .NET Framework 2.0 SDK；2) 安装 Microso
+    ```
+    MSBUILD : error MSB3428: 未能加载 Visual C++ 组件“VCBuild.exe”。要解决此问题，1) 安装 .NET Framework 2.0 SDK；2) 安装 Microso
     ft Visual Studio 200
-    5；或 3) 如果将该组件安装到了其他位置，请将其位置添加到系统路径中。 [D:\Webs\infinite-scroll-vuejs\node_modules\node-sass\build\binding.sln]</code>
+    5；或 3) 如果将该组件安装到了其他位置，请将其位置添加到系统路径中。 [D:\Webs\infinite-scroll-vuejs\node_modules\node-sass\build\binding.sln]
+    ```
 
 
 
@@ -96,8 +99,8 @@ tags:
 
 附上**MSVSVersion**版本说明：
 
-    
-    <code class="js">versions = {
+    ```javascript
+    versions = {
       '2017': VisualStudioVersion(
         '2017',
         'Visual Studio 2017',
@@ -226,7 +229,7 @@ tags:
         (sdk_based = sdk_based)
       )
     };
-    </code>
+    ```
 
 
 参考：https://chromium.googlesource.com/external/gyp/+/master/pylib/gyp/MSVSVersion.py#259

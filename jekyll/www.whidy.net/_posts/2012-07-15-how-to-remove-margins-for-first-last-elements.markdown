@@ -27,8 +27,8 @@ tags:
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -68,9 +68,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </ul>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 当然你也可以利用:first-child伪类和:last-child伪类(当然这种效果IE6完全不支持,IE7,IE8部分支持,其中IE7和IE8效果相同,不支持:last-child),比如:
 
@@ -79,8 +77,8 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -120,9 +118,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </ul>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 [caption id="attachment_892" align="aligncenter" width="400"][![](/wp-content/uploads/2012/07/E2-400x285.jpg)](/wp-content/uploads/2012/07/E2.jpg) IE6,IE7,IE8都不能完好支持first-child和last-child伪类[/caption]
 
@@ -133,8 +129,8 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -169,9 +165,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </ul>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 当然这个在IE8以下包括IE8的版本都是不被支持的 8O !
 

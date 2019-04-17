@@ -30,9 +30,9 @@ tags:
   1. body里加个onload="killwumii()"就成了
 
 
-    
-    <code class="javascript"><body onload="killwumii()">
-    </code>
+    ```javascript
+    <body onload="killwumii()">
+    ```
 
 
 
@@ -42,8 +42,7 @@ tags:
   2. 添加一段js,我还是写在末尾了
 
 
-    
-    <code class="javascript"><script type="text/javascript">
+    ```javascript
     function killwumii() {
     $(".wumii-image-block").attr({ style: "border:none;display: block;float: left;text-decoration: initial;border-bottom-style:none;cursor: pointer;position: relative;padding: 10px;width: 126px;text-align: left;outline: none;background-image: none;"});
     $(".wumii-image").attr({ style: "padding:1px;border: 1px solid #CCC;background-image: none;visibility: visible;padding: 1px;width: 120px;height: 120px;clip: rect(0px 120px 120px 0px);"});
@@ -51,8 +50,7 @@ tags:
     $("#wumiiBtnDiv").remove();
     $(".wumii-image-border").remove();
     }
-    </script>
-    </code>
+    ```
 
 
 
@@ -62,13 +60,13 @@ tags:
   3. 因为有几个经常变动的css我还是写到了外部CSS样式里..不过加了!important...
 
 
-    
-    <code class="css">/* wumii 稀烂插件 */
+    ```css
+    /* wumii 稀烂插件 */
     .wumii-related-items-div {padding:0 20px !important;}
     .wumii-image-row {height:200px!important;}
     .wumii-image-title {color:#888 !important;}
     .wumii-widget-title {padding:20px 0 5px 10px !important;}
-    </code>
+    ```
 
 
 

@@ -19,8 +19,8 @@ tags:
 这是我的终极方案了...其实这个最简单IE6,7的中文双引号,蛋疼!这个方案从代码和易于理解的角度来看是最好的,缺点就是要外部引用两个东东,如果网速不好就杯具了.这次也不多少了,用到一个**伪类选择器**(为了兼容IE6,IE7引入了一个JS文件),用到上次说的外部引用**google font**.那就直接上代码和[DEMO测试页](http://www.whidy.net/demos/quote/quote_text_final.html)
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>大双引号文字段自适应DEMO</title>
@@ -43,9 +43,7 @@ tags:
         </div>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 之前的几种方法,参考:
 [一个小小的双引号引发的思考-XP内IE下的字体(上)](http://www.whidy.net/ie6-arial-double-quote.html)

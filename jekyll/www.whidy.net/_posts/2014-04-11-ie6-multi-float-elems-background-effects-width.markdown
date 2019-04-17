@@ -25,8 +25,8 @@ tags:
 
 <!-- more -->
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>关于IE6行内多个元素浮动背景图对宽度影响</title>
@@ -92,8 +92,6 @@ tags:
     </div>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 大家可以自己注意注释部分,我也不多说了,毕竟我也不清楚原理...不过图上那个小手没有是因为超过高度隐藏了,如果不限制每个li的高度,会发现小手已经下去了.

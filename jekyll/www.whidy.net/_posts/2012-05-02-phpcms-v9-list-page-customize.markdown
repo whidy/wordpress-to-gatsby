@@ -17,21 +17,18 @@ tags:
 
 在用PHPCMS V9的过程中,可能一般人都不会在意分页功能,因为调用他实在是很简单,需要修改的估计也就是分页功能的样式了,拿系统自带的模板来看
 
-
-    
-    <code class="php"><div id="pages" class="text-c">{$pages}</div>
-    </code>
+    ```php
+    <div id="pages" class="text-c">{$pages}</div>
+    ```
 
 
 
 我们可以修改class来自定义样式,当然有人会说,这个只能修改DIV的样式,无法修改里面的内容的样式,其实之需要看一下这段代码解析出来的实际代码就知道了,而这里的样式可以直接通过head部分内读取的CSS来代替,我就可以在CSS里面添加这样一段,为了方便测试,我直接写在head标签内:
 
-
-    
-    <code class="css">
+    ```css
     .text-c {margin:10px 0;}
     .text-c a {padding:5px;margin:0 8px;border:1px solid #ccc;background-color:#eee;}
-    </code>
+    ```
 
 
 
@@ -47,22 +44,20 @@ tags:
 
 首先打开**system.lang.php**,找到29行LANG['next'] = '下一页';处,你可以在下面插入自定义的内容,比如向后翻,向前翻,整理效果应该是这样的,添加完后保存可以关闭了.
 
-
-    
-    <code class="php">$LANG['page_item'] = '条';
+    ```php
+    $LANG['page_item'] = '条';
     $LANG['previous'] = '上一页';
     $LANG['next'] = '下一页';
     $LANG['page_item_my'] = '篇';			//自定义
     $LANG['previous_my'] = '向前翻';		//自定义
     $LANG['next_my'] = '向后翻';				//自定义
     ......
-    </code>
+    ```
     
     然后打开<strong>global.func.php</strong>,搜索<strong>分页函数</strong>找到找到<span style="color: #ff0000;">function pages...</span>,在这个函数后复制原函数并修改添加自己想要定义的函数,例如:
-    
-    
-    
-    <code class="php">//自定义分页函数
+
+    ```php
+    //自定义分页函数
     function pages_my($num, $curr_page, $perpage = 20, $urlrule = '', $array = array(),$setpages = 10) {
     	if(defined('URLRULE') && $urlrule == '') {
     		$urlrule = URLRULE;
@@ -124,46 +119,45 @@ tags:
     	}
     	return $multipage;
     }
-    </code>
+    ```
 
 
 
 最后打开**template_cache.class.php**,找到
 
-    
-    <code class="php">$str .= '$pages = pages($'.$op.'_total, $page, $pagesize, $urlrule);';</code>
+    ```php
+    $str .= '$pages = pages($'.$op.'_total, $page, $pagesize, $urlrule);';
+    ```
 
 
 处,在下面添加:
 
-
-    
-    <code class="php">$str .= '$pages_my= pages_my($'.$op.'_total, $page, $pagesize, $urlrule);';
-    </code>
+    ```php
+    $str .= '$pages_my= pages_my($'.$op.'_total, $page, $pagesize, $urlrule);';
+    ```
 
 
 
 当然如果使用过程中，发现SQL分页的不能正常使用，再在
 
-    
-    <code class="php">$str .= '$r = $get_db->sql_query("'.$sql.'");$s = $get_db->fetch_next();$pages=pages($s[\'count\'], $page, $pagesize, $urlrule);';</code>
+    ```php
+    $str .= '$r = $get_db->sql_query("'.$sql.'");$s = $get_db->fetch_next();$pages=pages($s[\'count\'], $page, $pagesize, $urlrule);';
+    ```
 
 
 添加这段代码:
 
-
-    
-    <code class="php">$str .= '$r = $get_db->sql_query("'.$sql.'");$s = $get_db->fetch_next();$pages_my=pages_my($s[\'count\'], $page, $pagesize, $urlrule);';
-    </code>
+    ```php
+    $str .= '$r = $get_db->sql_query("'.$sql.'");$s = $get_db->fetch_next();$pages_my=pages_my($s[\'count\'], $page, $pagesize, $urlrule);';
+    ```
 
 
 
 至此大功告成,接下来,你只用在你想要的模板的分页出使用就可以了,例如开头的格式
 
-
-    
-    <code class="php"><div id="pages" class="myListPage">{$pages_my}</div>
-    </code>
+    ```php
+    <div id="pages" class="myListPage">{$pages_my}</div>
+    ```
 
 
 

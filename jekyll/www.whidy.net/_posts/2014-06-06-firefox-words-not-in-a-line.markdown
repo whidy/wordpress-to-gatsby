@@ -24,8 +24,8 @@ tags:
 事实上,并不顺利~我将其代码片段弄下来做了个demo,大家测试一下(说明:chrome版本34, firefox版本29,IE6可以尝试测试word-wrap:break-word;同时对其进行hasLayout测试观察变化).
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     	<title>关于FF和CHROME在行内文字换行测试(附IE6测试)</title>
@@ -43,7 +43,7 @@ tags:
     </div>
     </body>
     </html>
-    </code>
+    ```
 
 
 
@@ -62,8 +62,8 @@ tags:
 在Bob的提醒下,的确是这个问题,加一个**white-space:nowrap;**即可,不过你属性名敲掉了个字母哦~最后献上解决方案:
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
         <title>关于FF和CHROME在行内文字换行测试(附IE6测试)-解决!</title>
@@ -81,7 +81,7 @@ tags:
     </div>
     </body>
     </html>
-    </code>
+    ```
 
 
 

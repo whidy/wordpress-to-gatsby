@@ -19,8 +19,9 @@ tags:
 
 很多东西都是有时效性的啦...正巧我又遇到一个设计做的10px汉字,来翻以前写的东西,实际上发现这个还是有作用的,给需要设置10px的标签加上这个就ok啦,至少chrome 39是OK的啦~
 
-    
-    <code class="css">-webkit-text-size-adjust:none;font-size:10px;</code>
+    ```css
+    -webkit-text-size-adjust:none;font-size:10px;
+    ```
 
 
 ps: 2015年1月23日
@@ -49,8 +50,8 @@ ps: 2015年1月23日
 
 似乎我用了这个不管用,也不知道是几年前的方法了.那怎么办还是找google靠谱些吧.于是找到这篇文章[Font-size <12px doesn't have effect in Google Chrome](http://stackoverflow.com/questions/2295095/font-size-12px-doesnt-have-effect-in-google-chrome)有个人的回复大家可以自己看看,我尝试了一下,还是有一些问题.具体是修改一个选项文件内容如下:
 
-    
-    <code class="json">"webkit": {
+    ```javascripton
+    "webkit": {
           "webprefs": {
              "default_fixed_font_size": 11,
              "default_font_size": 12,
@@ -62,20 +63,22 @@ ps: 2015年1月23日
              "standard_font_is_serif": false,
              "text_areas_are_resizable": true
           }
-      	}</code>
+      	}
+    ```
 
 
 但是似乎这个是适应国外英文网站的,我经过无数次的调试测验,终于可以正常使用了,在不影响中文文字大小的情况下,最小的设置为8px,我想应该没有什么网站会设置更小的字体了吧.那么我是这样改得:
 
-    
-    <code class="json">"webkit": {
+    ```javascripton
+    "webkit": {
           "webprefs": {
              "uses_universal_detector": true,
              "minimum_font_size": 8,
              "standard_font_is_serif": false,
              "text_areas_are_resizable": true
           }
-      	}</code>
+      	}
+    ```
 
 
 大家可以试试,目前来说是可以在chrome 30的版本下正常使用的, 好像说了半天没有说是修改那个文件,其实就是chrome安装目录里,以我的电脑(WIN 8.1)举例:

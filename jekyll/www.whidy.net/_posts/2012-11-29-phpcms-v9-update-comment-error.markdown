@@ -29,24 +29,18 @@ tags:
   2. 找到第33行
 
 
-    
-    <code class="php">	$.get('?m=comment&c=check&a=ajax_checks&id='+id+'&type='+type+'&commentid='+commentid+'&'+Math.random(), function(data){if(data!=1){if(data==0){alert('<?php echo L('illegal_parameters')?>')}else{alert(data)}}else{$('#tbody_'+id).remove();
-    
+    ```php
+    	$.get('?m=comment&c=check&a=ajax_checks&id='+id+'&type='+type+'&commentid='+commentid+'&'+Math.random(), function(data){if(data!=1){if(data==0){alert('<?php echo L('illegal_parameters')?>')}else{alert(data)}}else{$('#tbody_'+id).remove();
     	$.getJSON('?m=comment&c=check&a=public_get_one&'+Math.random(), function(data){
-    </code>
-
-
+    ```
 
 修改成
 
 
-    
-    <code class="php">	$.get('?m=comment&c=check&a=ajax_checks&id='+id+'&type='+type+'&commentid='+commentid+'&pc_hash='+pc_hash+'&'+Math.random(), function(data){if(data!=1){if(data==0){alert('<?php echo L('illegal_parameters')?>')}else{alert(data)}}else{$('#tbody_'+id).remove();
-    
+    ```php
+    	$.get('?m=comment&c=check&a=ajax_checks&id='+id+'&type='+type+'&commentid='+commentid+'&pc_hash='+pc_hash+'&'+Math.random(), function(data){if(data!=1){if(data==0){alert('<?php echo L('illegal_parameters')?>')}else{alert(data)}}else{$('#tbody_'+id).remove();
     	$.getJSON('?m=comment&c=check&a=public_get_one&'+'&pc_hash='+pc_hash+Math.random(), function(data){
-    </code>
-
-
+    ```
 
 保存,然后进入后台进行测试,评论审核问题基本完美解决!(其实还有个BUG,就是除了管理员账户,其他权限账户还是报错- -...好吧那么就只有等待官方解决了.)
 

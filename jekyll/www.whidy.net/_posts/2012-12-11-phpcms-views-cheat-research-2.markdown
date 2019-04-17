@@ -27,8 +27,8 @@ tags:
 由此我开始想办法找到通过JS调用出点击率的方法.于是找到PHPCMS V9安装目录的**api目录**,可以看到一个**count.php**文件,这就是个点击统计的输出代码.我先上我修改后的文件代码:
 
 
-    
-    <code class="php"><?php
+    ```php
+    <?php
     defined('IN_PHPCMS') or exit('No permission resources.'); 
     /**
      * 点击统计
@@ -90,7 +90,7 @@ tags:
     
     ?>
     $('#hits').html('<?php echo $views*9 + rand (1,4)?>');
-    </code>
+    ```
 
 
 

@@ -24,9 +24,9 @@ tags:
 你可以通过给某个样式前面加个_:root_,例如:
 
 
-    
-    <code class="css">:root #element { font-size: 24px; } /* IE9 */
-    </code>
+    ```css
+    :root #element { font-size: 24px; } /* IE9 */
+    ```
 
 
 
@@ -35,8 +35,8 @@ tags:
 最后献上我经过反复测试的源码,大家也可以试试,不过注意css书写的顺序,免得出现问题.
 
 
-    
-    <code class="html"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    ```html
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -75,7 +75,7 @@ tags:
     </div>
     </body>
     </html>
-    </code>
+    ```
 
 
 

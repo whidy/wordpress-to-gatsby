@@ -26,9 +26,9 @@ tags:
 看后大家觉得这个很简单的,其实说简单也简单说有点麻烦也的确有点麻烦.首先我要说的是,调用系统默认的表情是需要在适当的位置添加下面一行代码:
 
 
-    
-    <code class="php"><?php if ( function_exists(cs_print_smilies) ) {cs_print_smilies();} ?>
-    </code>
+    ```php
+    <?php if ( function_exists(cs_print_smilies) ) {cs_print_smilies();} ?>
+    ```
 
 
 
@@ -37,17 +37,17 @@ tags:
 可能回事修改主题的comments.php模板文件,但是当你找到评论区表单部分的时候,你发现居然只有短短的一句话:
 
 
-    
-    <code class="php"><?php comment_form(); ?>
-    </code>
+    ```php
+    <?php comment_form(); ?>
+    ```
 
 
 
 于是这个要么就出现在了整个评论表单区域的前面要么出现在了最底部,这并不美观,更不是我们想要的.所以修改comments.php是做不到的...那么就需要研究一下comment_form();这个函数了,可能是我比较笨,我首先想到的依然是主题目录下的functions.php文件里面修改,恰巧我也找到了,不过略不相同,抱着试试的态度,搜索到了comment_form_default_fields,具体完整代码如下:
 
 
-    
-    <code class="php">add_filter('comment_form_default_fields','MxS_fields');
+    ```php
+    add_filter('comment_form_default_fields','MxS_fields');
     /** -----------------------------------------------
     	 * custom comments
     */ 
@@ -67,34 +67,34 @@ tags:
     <div class="cmt_text"><?php comment_text(); ?></div>
     </div><!-- #comment-##  -->	
     <?php }}
-    </code>
+    ```
 
 
 
 当然这个函数之前的语句是与这个函数没有什么关系的.看这个函数,写的是已评论的表单结构.貌似也不对,其中有一句**$GLOBALS['comment'] = $comment;**目测好像是调用系统全局评论变量,具体是啥意思,我这PHP外行也不大明白...改来改去还是没该成功,于是想到会不会是跟系统函数模块有关.于是继续查找...找到了wp-includes/comment_template.php打开一看,仍然搜索comment_form,在1510行,找到了好长一段...耐心读下去..一直看到<?php if ( comments_open() ) : ?>字面上意思是,如果评论功能开启,则执行以下语句,接着看,就发现跟表单相关了.找到
 
 
-    
-    <code class="php"><?php echo $args['comment_notes_after']; ?>
+    ```php
+    <?php echo $args['comment_notes_after']; ?>
     <p class="form-submit">
       <input name="submit" type="submit" id="<?php echo esc_attr( $args['id_submit'] ); ?>" value="<?php echo esc_attr( $args['label_submit'] ); ?>" />
       <?php comment_id_fields( $post_id ); ?>
     </p>
-    </code>
+    ```
 
 
 
 其实也就看出来了,我不正是要在submit之前添加表情么?果断在form-submit前面加一行之前提到的表情调用代码,修改如下:
 
 
-    
-    <code class="php"><?php echo $args['comment_notes_after']; ?>
+    ```php
+    <?php echo $args['comment_notes_after']; ?>
     <?php if ( function_exists(cs_print_smilies) ) {cs_print_smilies();} ?>
     <p class="form-submit">
       <input name="submit" type="submit" id="<?php echo esc_attr( $args['id_submit'] ); ?>" value="<?php echo esc_attr( $args['label_submit'] ); ?>" />
       <?php comment_id_fields( $post_id ); ?>
     </p>
-    </code>
+    ```
 
 
 

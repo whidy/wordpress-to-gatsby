@@ -28,8 +28,9 @@ tags:
 
 官方说在HTML内添加:<a href="你的g+地址"?rel="author">Google</a>(可能是这样的,我不记得了...)但是这样做页面就会多出来个google,那么我只好通过删掉内容,放一个空标签进去了.这样似乎可以解决,但是我不喜欢空标签,我看了Examples里面有一个这样写的:
 
-    
-    <code class="html"><link rel="author" href="https://plus.google.com/107770226485624482093" /></code>
+    ```html
+    <link rel="author" href="https://plus.google.com/107770226485624482093" />
+    ```
 
 
 [caption id="attachment_1997" align="aligncenter" width="400"][![author](http://www.whidy.net/wp-content/uploads/2014/04/author-400x173.jpg)](http://www.whidy.net/wp-content/uploads/2014/04/author.jpg) Missing: author错误提示解决办法图[/caption]

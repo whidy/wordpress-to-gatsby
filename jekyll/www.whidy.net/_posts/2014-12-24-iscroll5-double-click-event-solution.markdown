@@ -45,8 +45,8 @@ https://github.com/cubiq/iscroll/issues/547
 
 其次,iscroll内的的click事件处理,默认是false,这在ios系统的手机上会出现click执行两次,也就无效的情况,需要改成true,所以需要对创建的示例增加参数.但是问题在于兼容了ios后,android各个版本会出现同样的问题.解决方案,对不同的安卓设备采取不同的click属性值处理,但是经过大量机器测试,依然可能出现无法兼容的情况(实际上是通过一个正则处理的,见代码)
 
-    
-    <code class="js">function iScrollClick(){ //设备识别来控制iscroll的click真假
+    ```javascript
+    function iScrollClick(){ //设备识别来控制iscroll的click真假
         if (/iPhone|iPad|iPod|Macintosh/i.test(UA)) return true;
         if (/Chrome/i.test(UA)) return (/Android/i.test(UA));
         if (/Silk/i.test(UA)) return false;
@@ -54,7 +54,8 @@ https://github.com/cubiq/iscroll/issues/547
             var s = UA.match(/Android [\d+.]{1,5}/)[0].replace('Android ','');
             return parseFloat(s[0]+s[2]+s[4]) <= 442 && parseFloat(s[0]+s[2]+s[4]) > 430 ? true : false;
         } //测试大量机器总结的规律,可能会有极小部分机器在选择功能上依然出现问题
-    }</code>
+    }
+    ```
 
 
 其实官方文档中有一个options.preventDefault的属性可以配置,但是不知道是哪里出了问题,经过反复测试都没起到作用.于是这个问题折腾了很久...直到有一天...
@@ -79,13 +80,14 @@ https://github.com/cubiq/iscroll/issues/547
 
 也就是说,在魅族原生浏览器下,需要设置为click : true才能正常运作,魅族原生浏览器如果false则会出现两次点击,而产生意外情况.而chrome则是当false时,整个iscroll容器内的事件全部被阻止了..没有办法只得打补丁了.于是加了以下代码...
 
-    
-    <code class="js">var clickBoolean = false;
+    ```javascript
+    var clickBoolean = false;
     if (/Chrome/i.test(UA)) clickBoolean = true;
     if (/534.30/i.test(UA)) {
         if (/UCBrowser/i.test(UA)) clickBoolean = false; //覆盖同版本
         else clickBoolean = true; //魅族原生?
-    }</code>
+    }
+    ```
 
 
 我本来想通过UA标识来区分魅族浏览器,因为我这个写了534.30来区分魅族的方法风险太大因为UC也是这个版本,所以又加了一条如果是uc还是要用false,想在魅族的UA上处理,但是魅族原生浏览器真的很坑,UA上面根本无法下手.只能临时采用下策了.

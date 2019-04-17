@@ -18,8 +18,8 @@ tags:
 本来是想简单的reset一下,并且做测试,希望所有元素都为块级元素,于是**给*加了个display:block属性值结果发现居然就无法正常解析style了**...想去搜一下是怎么回事呢,却找不到,本想多测试几个属性,试试这个通配符是否还有其他属性无法使用,结果也没试出来,就此抛下疑问?难道不能这样写
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>css * cannot use display property</title>
@@ -34,7 +34,8 @@ tags:
     <img src="#" width="300" height="300" />
     <a href="#">all blocks now?!</a>
     </body>
-    </html></code>
+    </html>
+    ```
 
 
 

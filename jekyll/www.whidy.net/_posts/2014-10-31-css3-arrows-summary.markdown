@@ -19,8 +19,8 @@ tags:
 
 最近在做wap方面工作,对html5和css3的相关知识又学习了些许,近期对于这种箭头" > "的CSS3制作方法进行了简单的总结,如果以后有想到其他更好的,也会不间断更新.闲话少说,直接上代码:
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -73,7 +73,8 @@ tags:
     <p class="notes">参考网站:<strong>http://www.w3cplus.com/content/css3-transform</strong></p>
     <p class="updated-time">更新日期:2014年10月31日</p>
     </body>
-    </html></code>
+    </html>
+    ```
     
 
 

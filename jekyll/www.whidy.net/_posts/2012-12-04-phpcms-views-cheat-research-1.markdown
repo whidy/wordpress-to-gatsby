@@ -38,9 +38,9 @@ tags:
 用户可以修改phpcms的数据库hits表,我这里使用的是phpmyadmin,找到数据库v9_hits表,可以看到跟点击数相关的字段views, yesterdayviews, dayviews, weekviews, monthviews,分别代表总访问量,昨日访问量,今日访问量,本周访问量,本月访问量.这里我也把sql命令写出,此段命令是直接将点击数乘以10的方法:
 
 
-    
-    <code class="sql">UPDATE 'v9_hits' SET 'views'=views*10,'yesterdayviews'=yesterdayviews*10,'dayviews'=dayviews*10,'weekviews'=weekviews*10,'monthviews'=monthviews*10 WHERE 1
-    </code>
+    ```sql
+    UPDATE 'v9_hits' SET 'views'=views*10,'yesterdayviews'=yesterdayviews*10,'dayviews'=dayviews*10,'weekviews'=weekviews*10,'monthviews'=monthviews*10 WHERE 1
+    ```
 
 
 

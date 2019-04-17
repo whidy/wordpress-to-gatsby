@@ -36,15 +36,12 @@ tags:
 
 在Nunjucks中使用正则表达式的示例：
 
-
-
-
-    
-    <code class="html">{% set regExp = r/^foo.*/g %}
+    ```html
+    {% set regExp = r/^foo.*/g %}
     {% if regExp.test('foo') %}
       Foo in the house!
     {% endif %}
-    </code>
+    ```
 
 
 
@@ -52,17 +49,11 @@ tags:
 
 那么这个就会被正常显示。其他的表达式也是可以的。例如：
 
+    ```html
+    <!-- 有个后台存储的未验证的手机号码(mobile)在前端显示，如果格式正确则显示，不正确则显示“暂无” -->
+    {% set regExp = r/^\d{1
 
-
-
-    
-    <code class="html"><!-- 有个后台存储的未验证的手机号码(mobile)在前端显示，如果格式正确则显示，不正确则显示“暂无” -->
-    {% set regExp = r/^\d{11}$/g %}
-    <span>号码：{{mobile if regExp.test(mobile) else '暂无'}}</span>
-    </code>
-
-
-
+    ```html
 
 
 这两个例子应该看得懂吧。正则这块我并没有看源码，因为搜索出来了，我这里参考的[regex exmaple?](https://github.com/mozilla/nunjucks/issues/891)

@@ -19,8 +19,8 @@ tags:
 也不知道公司网站上的评论排行列表怎么写的,无奈不想做大的改动.先不谈调用数据,就说这个HTML和CSS还有调用数据的方式,,,不禁汗颜,有兴趣的可以研究下,先把这个原始的放出来大家看一下.
 
 
-    
-    <code class="php"><ul class="hifi_List2">
+    ```php
+    <ul class="hifi_List2">
       {php $i=0}
         {pc:comment action="bang" siteid="$siteid" num="1000"}
           {loop $data $b}
@@ -44,7 +44,7 @@ tags:
         {/pc}
       <div class="bk"></div>
     </ul>
-    </code>
+    ```
 
 
 
@@ -53,15 +53,15 @@ tags:
 一次性调用1000条判断到15跳出?不知道这样到底读了1000条没,还有li元素给.li样式的?反正这个我都准备作废了,就不管了,但是调用评论数并关联排行等方法比较复杂,苦逼百度..找到这样一文[<<phpcms v9 实现调用指定栏目下按评论数排序的新闻列表>>](http://blog.feshine.net/technology/767.html),在此感谢作者贡献,好像很好用的样子,不过样式比较简陋,我就进行了部分修改.先看我的改后的(基于原作者第一个,调用指定ID):
 
 
-    
-    <code class="html"><ul class="hifi_List2">
+    ```html
+    <ul class="hifi_List2">
       {pc:get sql="select * from phpcms_comment where commentid like 'content_$catid%' order by total desc" num="15" return="data"}
         {loop $data $b}
         <li class="li"><a href="{$b[url]}" title="{$b[title]}">{str_cut($b[title],60,'')}</a><span class="fr hits">{$b['total']}</span></li>
         {/loop}
       {/pc}
     </ul>
-    </code>
+    ```
 
 
 

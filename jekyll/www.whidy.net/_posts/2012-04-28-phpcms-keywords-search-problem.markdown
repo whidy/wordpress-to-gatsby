@@ -30,13 +30,13 @@ tags:
 第一个很简单,直接查看模块配置,如果没有选中全站搜索的果断选中,这样可以避免一些搜索不到信息的情况,后面两个我也选中是了,至于选不选,看个人需要了.提交之后建议重建索引,这里需要提到的是,有时候重建索引出错,出错内容大致是这样的
 
 
-    
-    <code class="sql">MySQL Query : DELETE FROM 'phpcmsv9'.'v9_search' WHERE 'siteid' = '1'
+    ```sql
+    MySQL Query : DELETE FROM 'phpcmsv9'.'v9_search' WHERE 'siteid' = '1'
     MySQL Error : Incorrect key file for table '.\phpcmsv9\v9_search.MYI'; try to repair it
     MySQL Errno : 126
     Message : Incorrect key file for table '.\phpcmsv9\v9_search.MYI'; try to repair it
     Need Help?
-    </code>
+    ```
 
 
 

@@ -46,8 +46,8 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -71,7 +71,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     <p>而IE8+,CHROME正常,其他杯具- -!</p>
     </body>
     </html>
-    </code>
+    ```
 
 
 

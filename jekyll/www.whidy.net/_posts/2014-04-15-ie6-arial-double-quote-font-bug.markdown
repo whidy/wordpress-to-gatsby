@@ -30,8 +30,8 @@ tags:
 对于上次我做的两个DEMO,我后来思前想后,觉得实在不妥,于是做了一个终极方案,我想恐怕我也再想不出来更好的办法了.这个方案的代码量比较少,hack内容也不多,因为字体是从google font内调用出来的,而找到这样的字体也是花了时间一个个测试的,这样的成本太高.我闲话少说,还是上[demo页面](http://www.whidy.net/demos/quote/quote_text_gg.html)和代码吧:
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>大双引号文字段自适应DEMO</title>
@@ -51,7 +51,7 @@ tags:
         </div>
     </body>
     </html>
-    </code>
+    ```
 
 
 

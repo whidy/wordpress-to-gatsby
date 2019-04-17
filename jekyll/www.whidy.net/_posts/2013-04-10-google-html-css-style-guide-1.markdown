@@ -62,22 +62,22 @@ _ Append a contact (username or mailing list) in parentheses as with the formatÂ
 Append action items after a colon as inÂ `TODO: action item`._
 
 
-    
-    <code class="html">{# TODO(john.doe): revisit centering #}
+    ```html
+    {# TODO(john.doe): revisit centering #}
     <center>Test</center>
-    </code>
+    ```
 
 
 
 
 
-    
-    <code class="html"><!-- TODO: remove optional tags -->
+    ```html
+    <!-- TODO: remove optional tags -->
     <ul>
       <li>Apples</li>
       <li>Oranges</li>
     </ul>
-    </code>
+    ```
 
 
 

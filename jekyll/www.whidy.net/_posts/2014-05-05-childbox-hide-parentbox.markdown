@@ -20,8 +20,8 @@ tags:
 关于这个需求在网站制作上还是经常遇到的(例如白色边框覆盖其他边框的障眼法),做到全兼容似乎只有这个方法最好,特分享出来.这里坚决不用z-index,更加不用绝对定位!查看[DEMO](http://whidy.net/demos/childbox-hide-parentbox.html)
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>childBox and parentBox overlay relationship</title>
@@ -48,7 +48,7 @@ tags:
      </div>
     </body>
     </html>
-    </code>
+    ```
 
 
 

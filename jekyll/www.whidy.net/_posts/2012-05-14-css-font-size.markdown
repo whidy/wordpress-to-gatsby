@@ -24,11 +24,11 @@ tags:
 其实,如果经常访问英文网站的朋友应该不难发现一个特点,他们页面的字体都是用的em作为单位,比如:
 
 
-    
-    <code class="css">body { font: normal 100% Helvetica, Arial, sans-serif; } /* 字体大小是页面默认大小的100%,即16像素. */
+    ```css
+    body { font: normal 100% Helvetica, Arial, sans-serif; } /* 字体大小是页面默认大小的100%,即16像素. */
     h1 { font-size: 1.5em; } /* h1的大小是默认大小的1.5倍,即24像素(24/16=1.5). */
     small { font-size: 0.875em; } /*  small元素的大小是默认大小的0.875倍,即14像素(14/16=0.875). */
-    </code>
+    ```
 
 
 
@@ -40,8 +40,8 @@ tags:
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -61,7 +61,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
       <p>This is a reseach by <em>Whidy</em></p>
     </body>
     </html>
-    </code>
+    ```
 
 
 
@@ -72,8 +72,8 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -93,7 +93,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
       <p>This is a reseach by <em>Whidy</em></p>
     </body>
     </html>
-    </code>
+    ```
 
 
 

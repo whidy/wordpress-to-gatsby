@@ -21,8 +21,8 @@ tags:
 正在表达式这个在计算机语言有着极其重要的作用,那么这次还是用它.先看看下面这段代码:
 
 
-    
-    <code class="php"><ul>
+    ```php
+    <ul>
       {pc:get  sql="SELECT * FROM v9_news WHERE title regexp binary '^Whidy\\.' ORDER BY id DESC" num="3" return="data"}
       {loop $data $v}
       <li>
@@ -32,7 +32,7 @@ tags:
       {/loop}
       {/pc}
     </ul>
-    </code>
+    ```
 
 
 

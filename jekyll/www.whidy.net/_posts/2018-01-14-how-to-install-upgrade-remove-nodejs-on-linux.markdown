@@ -21,19 +21,25 @@ tags:
 我的操作系统是CentOS 6 64 Bit的，我查阅了[Nodejs官方升级文档](https://nodejs.org/en/download/package-manager/)（包含各种可支持的系统），针对我的系统需要分别执行以下几条命令：
 
     
-    <code class="bash hljs">curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -</code>
+    ```bash
+    curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+    ```
 
 
 
     
-    <code class="bash hljs">sudo yum -y install nodejs</code>
+    ```bash
+    sudo yum -y install nodejs
+    ```
 
 
 当然你也许需要通过以下命令额外安装构建工具：
 
     
-    <code class="bash hljs">sudo yum install gcc-c++ make
-    # or: sudo yum groupinstall 'Development Tools'</code>
+    ```bash
+    sudo yum install gcc-c++ make
+    # or: sudo yum groupinstall 'Development Tools'
+    ```
 
 
 如果其他系统则可以参考文档中其他内容。
@@ -45,20 +51,24 @@ tags:
 如果是仅手动安装Nodejs8.x，执行以下命令：
 
     
-    <code class="bash hljs">yum install gcc-c++ openssl-devel
+    ```bash
+    yum install gcc-c++ openssl-devel
     cd /usr/local/src
     wget http://nodejs.org/dist/v8.9.4/node-v8.9.4.tar.gz
     tar zxvf node-v8.9.4.tar.gz
     (cd into extracted folder: ex "cd node-v8.9.4.tar.gz")
     ./configure
     make
-    make install</code>
+    make install
+    ```
 
 
 顺利的话应该不会有什么问题，大概会过一段时间，稍微有点长，就提示安装好了，可以执行
 
     
-    <code class="bash hljs">node -v</code>
+    ```bash
+    node -v
+    ```
 
 
 来查看是否是8.x，如果好了，基本上关于安装部分就大功告成了。如果没好，太惨了，跟Python有关系的话，请查看Linux下[Python安装升级心得](http://www.whidy.net/linux-install-upgrade-python-2-7.html)。
@@ -66,7 +76,9 @@ tags:
 接着我们来看看删除，因为你已经安装了一个低版本，需要升级，那就是要先删除旧版本了，<del>nodejs应该是向下兼容的，所以我就没有去研究可能闲着蛋疼才会去研究如果保存多个版本nodejs，</del>当然在新版中可能会存在部分旧的功能废除而造成异常，虽然一般来说升级利大于弊，不过还是要考虑老项目环境是否要升级！如果你是闲着蛋疼的人，必有理由说服我，请在下方留言。差点跑题，删除命令简直是太简单了。
 
     
-    <code class="bash hljs">sudo yum remove nodejs</code>
+    ```bash
+    sudo yum remove nodejs
+    ```
 
 
 然后按提示输入y，回车后很快就删了。一切删除操作都是令人兴奋的。。。
@@ -74,10 +86,12 @@ tags:
 其实，我在安装过程中远没有那么轻松，否则也不会折腾几天了，一个是版本错误，一个是Python升级。版本问题，后来差了很多资料才发现，原来是yum缓存问题导致。如果遇到和我类似的问题，请尝试以下命令：
 
     
-    <code class="bash hljs">rm -f /etc/yum.repos.d/nodesource-el.repo
+    ```bash
+    rm -f /etc/yum.repos.d/nodesource-el.repo
     yum clean all
     yum -y remove nodejs
-    yum -y install nodejs</code>
+    yum -y install nodejs
+    ```
 
 
 汇总下本文参阅的相关文章：

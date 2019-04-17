@@ -33,8 +33,8 @@ tags:
 <del>http://jsfiddle.net/kingterrors/QkaB2/embedded/result,html,css,js/light</del>
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <meta name="Author" content="whidy">
@@ -101,7 +101,7 @@ tags:
     </script>
     </body>
     </html>
-    </code>
+    ```
 
 
 

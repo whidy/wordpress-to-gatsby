@@ -27,8 +27,8 @@ tags:
 说到这个效果,唯独WIN7以上的系统,IE8以上版本才能很好不需要图片展示出来,为了兼容IE6,7,,,ZHENSHIKUBI!经过数小时测试,只好采用背景图.为了自适应而做的一个**大双引号文字段自适应DEMO**,其实我感觉这个后来改的版本并不好,用了大量hack以及IE判断.我写出来也只是研究一下,希望以后能想到更好的方法.看代码(或打开此[demo页面](http://www.whidy.net/demos/quote/quote_text_icon.html)):
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>大双引号文字段自适应DEMO</title>
@@ -48,15 +48,15 @@ tags:
     	</div>
     </body>
     </html>
-    </code>
+    ```
 
 
 
 看着很不爽的一个DEMO,当然这里还有另外一个相对简单多了的DEMO,不过建议在WIN7下的IETESTER测试,似乎虚拟机版本XP是不行的.查看代码(或打开此[DEMO页面](http://www.whidy.net/demos/quote/quote_text.html)):
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>大双引号文字段自适应DEMO</title>
@@ -75,7 +75,7 @@ tags:
         </div>
     </body>
     </html>
-    </code>
+    ```
 
 
 

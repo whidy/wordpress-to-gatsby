@@ -24,27 +24,23 @@ tags:
 2. 修改**X:\wamp\bin\apache\Apache2.2.21\conf\extra\httpd-vhosts.conf**文件,删除不必要的虚拟域名配置例如:
 
 
-    
-    <code><VirtualHost *:80>
+    ```
+    <VirtualHost *:80>
     ServerAdmin whidy@p.com
     DocumentRoot “E:/wamp/www/phpcms/”
     ServerName “p.com”
     ErrorLog “E:/wamp/www/phpcms/error.log”
     CustomLog “logs/dummy-host2.appservnetwork.com-access_log” common
     </VirtualHost>
-    </code>
-
-
+    ```
 
 3.修改**X:\wamp\bin\apache\Apache2.2.21\conf\httpd.conf**文件内的
 
 
-    
-    <code>LoadModule vhost_alias_module modules/mod_vhost_alias.so
+    ```
+    LoadModule vhost_alias_module modules/mod_vhost_alias.so
     Include conf/extra/httpd-vhosts.conf
-    </code>
-
-
+    ```
 
 前面都加个**#**号
 
@@ -57,33 +53,29 @@ tags:
 将
 
 
-    
-    <code><Directory "X:/wampx64/apps/phpmyadmin3.4.10.1/">
+    ```
+    <Directory "X:/wampx64/apps/phpmyadmin3.4.10.1/">
     Options Indexes FollowSymLinks MultiViews
     AllowOverride all
     Order Deny,Allow
     Deny from all
     Allow from 127.0.0.1
     </Directory>
-    </code>
-
-
+    ```
 
 改成
 
 <!-- more -->
 
 
-    
-    <code><Directory "X:/wampx64/apps/phpmyadmin3.4.10.1/">
+    ```
+    <Directory "X:/wampx64/apps/phpmyadmin3.4.10.1/">
     Options Indexes FollowSymLinks MultiViews
     AllowOverride all
     Order Deny,Allow
     Allow from all
     Allow from 127.0.0.1
     </Directory>
-    </code>
-
-
+    ```
 
 好了再次重启服务器,一切安好! :o

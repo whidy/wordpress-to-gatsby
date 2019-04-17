@@ -25,15 +25,15 @@ webpackDevServer服务器启动正常,进行localhost:9000访问正常,但是用
 
 我本来的webpack.config.js文件内的webpackDevServer配置如下
 
-    
-    <code class="js">devServer: {
+    ```javascript
+    devServer: {
         contentBase: __dirname,
         compress: true,
         port: 9000,
         inline: true,
         host: '0.0.0.0'
     }
-    </code>
+    ```
 
 
 有人说要加一个
@@ -44,8 +44,8 @@ disableHostCheck: true
 
 又查到说加了一个public参数,试了下就好了.所以就分享下.完整的效果是
 
-    
-    <code class="js">devServer: {
+    ```javascript
+    devServer: {
         contentBase: __dirname,
         compress: true,
         port: 9000,
@@ -53,7 +53,8 @@ disableHostCheck: true
         host: '0.0.0.0',
         disableHostCheck: true,
         public: '192.168.1.107'
-    }</code>
+    }
+    ```
 
 
 PS:后来发现用disableHostCheck: true其实也行了,大概是缓存原因没有及时看到效果,不论怎么样...出现这种问题的朋友都可以试试咯~

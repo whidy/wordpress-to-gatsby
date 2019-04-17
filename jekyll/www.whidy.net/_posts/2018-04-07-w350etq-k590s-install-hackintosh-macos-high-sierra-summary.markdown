@@ -73,8 +73,8 @@ tags:
 
 
 
-    
-    <code>处理器名称: Mobile QuadCore Intel Core i7-3612QM, 3000 MHz (30 x 100)
+    ```
+    处理器名称: Mobile QuadCore Intel Core i7-3612QM, 3000 MHz (30 x 100)
     主板名称: Clevo W35_37ET
     主板芯片组: Intel Panther Point HM77, Intel Ivy Bridge
     系统内存: 8084 MB (4 GB * 2 DDR3-1600)
@@ -97,7 +97,7 @@ tags:
     USB 设备: TouchStrip Fingerprint Sensor (WBF advanced mode)
     DMI 系统制造商: CLEVO CO.
     DMI 系统产品: W35_37ET
-    </code>
+    ```
 
 
 

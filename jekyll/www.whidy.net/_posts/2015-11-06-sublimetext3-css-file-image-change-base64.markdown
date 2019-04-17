@@ -21,9 +21,9 @@ tags:
 
 在你做的css文件中,起初背景图都是直接引用目录的切好的图片.如下:
 
-    
-    <code class="css">.icons {background-image:url(../images/icon.png);}
-    </code>
+    ```css
+    .icons {background-image:url(../images/icon.png);}
+    ```
 
 
 那么在做移动端页面的时候,有时我们需要将小图直接转换成base64格式,一般只能借助第三方工具.

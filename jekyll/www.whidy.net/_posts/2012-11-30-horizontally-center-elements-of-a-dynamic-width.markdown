@@ -27,8 +27,8 @@ tags:
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -50,9 +50,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </ul>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 如果点了CSS查看,大家会发现这里用了display: table;这个估计很少会有人用,而且它有个很大的问题,就是这种居中的方式仅仅支持IE8+,那么IE7-不是悲剧了.因此,这里又提供一个更好的方案:
 
@@ -61,8 +59,8 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -86,9 +84,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </ul>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 这里有几点需要说明的是,块级元素前面已经提到是可以直接用text-align:center;居中的,而内联的也就是含有浮动的块级元素怎么处理呢,IE7对这个内联块级支持仍然不是很好.那么我们还要给li元素增加一个inline-block. zoom: 1;这样IE7就能很好的工作了.IE6好像还有点问题,那么就让IE 6 去shit吧.
 

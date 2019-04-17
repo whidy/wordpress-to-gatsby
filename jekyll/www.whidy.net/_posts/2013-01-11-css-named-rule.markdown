@@ -28,13 +28,13 @@ tags:
   * **class="fixed" fixed这个class几乎出现在没个样式文件中,用在为包含浮动子元素的容器元素清除浮动,样式如下:**
 
 
-    
-    <code class="css">.fixed:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+    ```css
+    .fixed:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
     .fixed{display:block;}
     /* \*/
     .fixed{min-height:1%;}
     * html .fixed{height:1%;}
-    </code>
+    ```
 
 
 
@@ -43,13 +43,13 @@ tags:
 <!-- more -->
 
 
-    
-    <code class="html"><ul class="fixed">
+    ```html
+    <ul class="fixed">
     <li><img src="images/img_01.jpg" alt="First Thumb" /></li>
     <li><img src="images/img_02.jpg" alt="Second Thumb" />
     ...</li>
     </ul>
-    </code>
+    ```
 
 
 
@@ -59,10 +59,10 @@ tags:
   * **class="alt"  alt是"alternative"(交替)的简称,这个class用在有一组样式一样的元素,需要为其中的某几个设定特别的样式,比如一组向左浮动的图片中需要有一张是向右浮动,可以这样:**
 
 
-    
-    <code class="css">#content img{float:left;display:inline;margin-right:10px;border:1px solid #ccc;padding:1em 0;background:#fff;}
+    ```css
+    #content img{float:left;display:inline;margin-right:10px;border:1px solid #ccc;padding:1em 0;background:#fff;}
     #content img.alt{float:right;margin-right:0;margin-left:10px;}
-    </code>
+    ```
 
 
 
@@ -72,14 +72,14 @@ tags:
   * **class="selected"  这个比较常见了,一般用于事件触发的样式,例如mouseover或选中元素的效果.**
 
 
-    
-    <code class="html"><li class="selected"><a href="/about">About Us</a></li>
+    ```html
+    <li class="selected"><a href="/about">About Us</a></li>
     <!-- 选项卡制作的时: -->
     <dl>
     <dt class="selected">Tag Cloud</dt>
     ...
     </dl>
-    </code>
+    ```
 
 
 
@@ -95,11 +95,11 @@ tags:
   * **class="section"  一般用在为指定内容中特定部分添加特定的样式:**
 
 
-    
-    <code class="html"><div class="section">
+    ```html
+    <div class="section">
     content here...
     </div>
-    </code>
+    ```
 
 
 

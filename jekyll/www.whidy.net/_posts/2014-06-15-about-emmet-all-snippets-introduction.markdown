@@ -31,8 +31,8 @@ tags:
 
 其实emmet给我的感觉就是一个写好了的snippet,方便大家使用,如果你想自己修改,似乎也是可以的,不过对于我这样的菜鸟,目前的代码片段足够我使用了.其他方面还有更多强大的功能,例如快速生成html代码等等,网上的资料就更多了,我也就不一一示例了.建议大家去看一下官方文档,那里说的很全面了.详见[**Emmet Documentation**](http://docs.emmet.io/),我顺便也说下除了前面提到的snippets.json可以改,preferences.json和syntaxProfiles.json也是可以自定义的,有兴趣自己研究下吧~本文的主要目的是希望大家更加快速全面的掌握emmet自带的代码片段,更高效的做好工作了~
 
-    
-    <code class="json">{
+    ```javascripton
+    {
     	"variables": {
     		"lang": "en",
     		"locale": "en-US",
@@ -916,4 +916,4 @@ tags:
     		"extends": "stylus"
     	}
     }
-    </code>
+    ```

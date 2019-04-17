@@ -26,18 +26,20 @@ tags:
 
 方案一（JS）：
 
-    
-    <code class="html"><input type="text" value="test" onfocus="this.blur()" readonly="readonly"></code>
+    ```html
+    <input type="text" value="test" onfocus="this.blur()" readonly="readonly">
+    ```
 
 
 这个很好理解就是进入的时候自动跳出。但是缺点是一方面js处理没有css好，二是如果需要在该元素上绑定其他事件，其他人开发不留意可能会造成事件覆盖。
 
 方案二（CSS）：
 
-    
-    <code class="css">[readonly="readonly"] {
+    ```css
+    [readonly="readonly"] {
       user-select: none;
-    }</code>
+    }
+    ```
 
 
 这是个新的实验性属性，具体说明及兼容性可参考[user-select MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/user-select)
@@ -45,10 +47,11 @@ tags:
 
 方案三（CSS）：
 
-    
-    <code class="css">[readonly="readonly"] {
+    ```css
+    [readonly="readonly"] {
       pointer-events: none;
-    }</code>
+    }
+    ```
 
 
 这个是我感觉比较适合我的，因此最后我采纳了该方案，当然也是有弊端的，绑定在只读表单元素的所有事件将无法生效。除此之外都表现完美，就我目前需求来看，也不需要什么事件。因此采用了~

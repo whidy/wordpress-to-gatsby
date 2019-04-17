@@ -22,8 +22,8 @@ tags:
 
 先来看看这个来着作者lisatisfy的方法:
 
-    
-    <code class="js">function getAbsPoint(e) {
+    ```javascript
+    function getAbsPoint(e) {
         //再封装个函数吧。传进来的e可以是字符串类型（即id）,也可以是htmlElement对象。觉得getEL是个累赘的话，就把它删除掉。
         e = getEL(e);
         var x = e.offsetLeft;
@@ -47,7 +47,7 @@ tags:
         }
         return id;
     }
-    </code>
+    ```
 
 
 这个的确不错,但是有一些缺陷.我也给作者留言了.并指出了可能出现的问题(当父级多个为相对定位时计算会出现问题,,,以及元素本身的边框值无法计算进去).不过思路是很好的,通过计算与父级层的距离不断计算叠加高度获取最终值.我的表达可能不够清晰,建议自己用这个js写个demo测试.
@@ -56,8 +56,8 @@ tags:
 
 基于这个思想,我完善了一个demo,见源码
 
-    
-    <code class="html"><html lang="en">
+    ```html
+    <html lang="en">
     <head>
         <meta charset="UTF-8">
         <title>the distance to top</title>
@@ -93,7 +93,7 @@ tags:
     </script>
     </body>
     </html>
-    </code>
+    ```
 
 
 同时以上代码的**[DEMO测试页](http://www.whidy.net/demos/distanceToTop.html)**,你可以拷贝代码测试删除div的position:relative样式计算值依然相同.

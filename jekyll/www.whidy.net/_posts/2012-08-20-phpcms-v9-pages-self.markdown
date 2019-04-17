@@ -23,8 +23,8 @@ tags:
 找到文件\phpcms\libs\functions\global.func.php并打开,搜索分页函数,大概在580行,修改这个注释下面的函数(修改前请备份该文件):
 
 
-    
-    <code class="php">function pages($num, $curr_page, $perpage = 20, $urlrule = '', $array = array(),$setpages = 10) {
+    ```php
+    function pages($num, $curr_page, $perpage = 20, $urlrule = '', $array = array(),$setpages = 10) {
       if(defined('URLRULE') && $urlrule == '') {
         $urlrule = URLRULE;
         $array = $GLOBALS['URL_ARRAY'];
@@ -85,9 +85,7 @@ tags:
       }
       return $multipage;
     }
-    </code>
-
-
+    ```
 
 其实就是在a标签内添加了一个target="_self"而已.保存,问题就解决了.
 
@@ -98,8 +96,8 @@ tags:
 看着就感觉很诡异...打开它,代码不多,修改成这个样子:
 
 
-    
-    <code class="php"><?php
+    ```php
+    <?php
     /**
      * 分页函数
      * 
@@ -159,9 +157,7 @@ tags:
     	return $multipage;
     }
     ?>
-    </code>
-
-
+    ```
 
 保存,更新一下后台缓存,问题解决,经测试成功!
 

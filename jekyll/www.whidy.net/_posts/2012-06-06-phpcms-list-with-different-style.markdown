@@ -25,8 +25,8 @@ tags:
 那么我这张图清晰的告诉大家,这个列表分为三个部分,而我将采用两个PC标签完成它(之所以用两个PC标签输出,目的在于温习[phpcms嵌套循环](/phpcms-speciallist-with-subarticle-loop.html)内容输出,当然你完全可以通过我的方法用一个PC标签搞定),因为CSS样式已经做好,这里大家只用看程序部分即可,先上代码部分:
 
 
-    
-    <code class="html"><div class="hifi_PubArea">
+    ```html
+    <div class="hifi_PubArea">
       <div class="MainTitle">
         <div class="classTitle">
           <div><a href="{APP_PATH}cydiy/">创意DIY&nbsp;</a></div>
@@ -73,7 +73,7 @@ tags:
       </ul>
       {/pc}
     </div>
-    </code>
+    ```
 
 
 

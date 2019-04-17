@@ -26,8 +26,8 @@ tags:
 
 请看下面代码，或者查看在线[demo](https://jsfiddle.net/kingterrors/2adzh8us/)调试，看起来兼容性都是OK的。大家可以自己试试。
 
-    
-    <code class="html"><html lang="en">
+    ```html
+    <html lang="en">
     <head>
         <meta charset="UTF-8">
         <title>the distance to top</title>
@@ -65,7 +65,7 @@ tags:
     </script>
     </body>
     </html>
-    </code>
+    ```
 
 
 参考资料: [Element.getBoundingClientRect() - Web API 接口 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Element.getBoundingClientRect)

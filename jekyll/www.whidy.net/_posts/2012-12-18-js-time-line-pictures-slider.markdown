@@ -25,8 +25,8 @@ tags:
 <!-- more -->
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
@@ -377,7 +377,7 @@ tags:
     </script>
     </body>
     </html>
-    </code>
+    ```
 
 
 

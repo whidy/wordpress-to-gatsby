@@ -21,8 +21,7 @@ tags:
 
 先来看看一段错误的(天真的代码):
 
-    
-    <code class="html">
+    ```html
     <%@ page language="java" contentType="text/html; charset=gbk"
      pageEncoding="GBK"%>
     <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -54,15 +53,14 @@ tags:
     -->
     </body>
     </html>
-    </code>
+    ```
 
 
 当然上面肯定不能输出成功的.根本**不能**在c:set内创建一个含有变量的变量名**<del>var="p${vs.count}"</del>**!
 
 所以我只好改成下面这段:
 
-    
-    <code class="html">
+    ```html
     <%@ page language="java" contentType="text/html; charset=gbk"
      pageEncoding="GBK"%>
     <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -97,7 +95,7 @@ tags:
     ${p1}${p2}${p3}
     </body>
     </html>
-    </code>
+    ```
 
 
 那么很显然这段代码很臃肿,而且适用条件很有限,我认为在循环次数小于或等于3的情况下或许可以考虑,若是有5条甚至更多的时候,那么写这么多判断不如直接给每个变量进行赋值,那么我最近问了一些朋友,却找不出来更好的解决办法.今天的思考暂时告一段落.下次我来分享一些关于jstl的资料吧.

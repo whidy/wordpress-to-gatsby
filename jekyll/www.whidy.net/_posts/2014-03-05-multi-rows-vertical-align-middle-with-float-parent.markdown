@@ -36,8 +36,8 @@ tags:
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -91,9 +91,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </div>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 就目前来说是基本上都兼容的,我这里主要考虑居中问题不考虑水平位移,需要调整的自行优化.
 
@@ -104,8 +102,8 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现将之前所有jsfiddle预览去除,不过你仍然可将以上地址拷贝到浏览器预览,或选择尝试以下代码:
 
 
-    
-    <code class="html"><!doctype html>
+    ```html
+    <!doctype html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -172,9 +170,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
     </div>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 大概就是这样,总之兼容性好像基本没问题,关键是有个定位是**static**!!!请注意!
 

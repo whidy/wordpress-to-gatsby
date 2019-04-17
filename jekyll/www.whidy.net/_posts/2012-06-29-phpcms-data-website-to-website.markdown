@@ -31,12 +31,12 @@ tags:
 2.公共配置区域,**名称**可以随便写了,只要你自己看得懂,**输出方式**,这个比较复杂,如果对动态脚本不熟悉的同学,我建议使用**js**,我今天也已js为例给大家说一下,选中js后,弹出**选择模板**,这里我分享一下我得模板,
 
 
-    
-    <code class="html"><h3>最新行业动态</h3>
+    ```html
+    <h3>最新行业动态</h3>
     {loop $data $k $v}
         <li>· <a href="{$v[url]}">{$v[title]}</a></li>
     {/loop}
-    </code>
+    ```
 
 
 
@@ -47,19 +47,19 @@ tags:
 打开论坛系统安装目录的模板目录,一般在安装根目录下的templates文件夹内的某个模板文件夹,我这里修改的是**discuz.htm**文件,此段代码我插入到
 
 
-    
-    <code class="html"><!--{else}-->
+    ```html
+    <!--{else}-->
     <div id="ad_text"></div>
     <!--{/if}-->
-    </code>
+    ```
 
 
 
 我进行简单修改如下:
 
 
-    
-    <code class="html"><div id="ad_text"></div>
+    ```html
+    <div id="ad_text"></div>
     <!--{/if}-->
     <style>
     .linkBox {
@@ -91,7 +91,7 @@ tags:
         <script type="text/javascript" src="http://h.net/index.php?m=dbsource&c=call&a=get&id=1"></script>
       </ul>
     </div>
-    </code>
+    ```
 
 
 

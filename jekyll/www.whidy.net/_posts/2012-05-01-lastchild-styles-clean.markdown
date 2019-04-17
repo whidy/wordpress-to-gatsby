@@ -23,8 +23,8 @@ tags:
 例如: 导航上每个**栏目标题(li)**右侧可能会用竖线分隔每个栏目标题,于是最后一个栏目右侧也出现了不想要的竖线,但是这些同级的**li**都是循环出来的 ,我们无法单独给最后一个元素添加特殊的样式,本来有个很简单的方法,那就是使用**CSS3的:first和:last选择器**,但是当IE6和IE7不支持:first和:last选择器的,有个简单的方法,通过Js(本文用的jQuery)去除或修改列表或循环内容的第一个和最后一个节点的样式,可以兼容所有浏览器,是比较方便的,其实用js可以轻松实现,但是我后来发现,jQuery来处理或许更加轻松些,也是正好我最近在学习jQuery,的确很好用.在body内最后加上一小段就可以了,比如下面这个简单的例子:
 
 
-    
-    <code class="html"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    ```html
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -53,7 +53,7 @@ tags:
     	$("#mainContent ul.nav li:last-child").css("border-right", "none")
     </script>
     </html>
-    </code>
+    ```
 
 
 
@@ -62,45 +62,43 @@ tags:
 当然我也在网上看到有这样的javascript写法,不过相对较为复杂,内容如下:
 
 
-    
-    <code class="javascript"><script language="javascript" type="text/javascript">
-      function addClassName(tag,classname){
-       if(!tag.className){
-        tag.className=classname;
-       }else{
-        tag.className+=" "+classname;
-       }
-      }
-    
-      function addFirstChild(){
-       var olitems=document.getElementsByTagName("ol");
-       var ulitems=document.getElementsByTagName("ul");
-    
-       for(var i=0;i<olitems.length;i++){
-        addClassName(olitems[i].getElementsByTagName("li")["0"],"first-child");
-       }
-       for(var i=0;i<ulitems.length;i++){
-        addClassName(ulitems[i].getElementsByTagName("li")["0"],"first-child");
-       }
-      }
-      function addLastChild(){
-       var olitems=document.getElementsByTagName("ol");
-       var ulitems=document.getElementsByTagName("ul");
-    
-       for(var i=0;i<olitems.length;i++){
-        addClassName(olitems[i].getElementsByTagName("li")[olitems[i].children.length-1],"last-child");
-       }
-       for(var i=0;i<ulitems.length;i++){
-        addClassName(ulitems[i].getElementsByTagName("li")[ulitems[i].children.length-1],"last-child");
-       }
-      }
-    
-      if(document.all && !window.opera){
-       window.onload=addFirstChild;
-       window.onload=addLastChild;
-      }
-     </script>
-    </code>
+    ```javascript
+    function addClassName(tag,classname){
+    if(!tag.className){
+    tag.className=classname;
+    }else{
+    tag.className+=" "+classname;
+    }
+    }
+
+    function addFirstChild(){
+    var olitems=document.getElementsByTagName("ol");
+    var ulitems=document.getElementsByTagName("ul");
+
+    for(var i=0;i<olitems.length;i++){
+    addClassName(olitems[i].getElementsByTagName("li")["0"],"first-child");
+    }
+    for(var i=0;i<ulitems.length;i++){
+    addClassName(ulitems[i].getElementsByTagName("li")["0"],"first-child");
+    }
+    }
+    function addLastChild(){
+    var olitems=document.getElementsByTagName("ol");
+    var ulitems=document.getElementsByTagName("ul");
+
+    for(var i=0;i<olitems.length;i++){
+    addClassName(olitems[i].getElementsByTagName("li")[olitems[i].children.length-1],"last-child");
+    }
+    for(var i=0;i<ulitems.length;i++){
+    addClassName(ulitems[i].getElementsByTagName("li")[ulitems[i].children.length-1],"last-child");
+    }
+    }
+
+    if(document.all && !window.opera){
+    window.onload=addFirstChild;
+    window.onload=addLastChild;
+    }
+    ```
 
 
 

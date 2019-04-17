@@ -24,8 +24,8 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
 <!-- more -->可以看到有很多差异,当然我今天主要讨论的是边距问题,大家可忽略这很多不同的差异,大家只需要记住图片和代码.那么图一的代码如下:
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>the two side distance normal!</title>
@@ -47,7 +47,7 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
     <div class="extra">Extra infomations Here, Demo test by whidy!</div>
     </body>
     </html>
-    </code>
+    ```
 
 
 
@@ -68,8 +68,8 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
 我很奇怪,类名为text元素的下边距哪里去了,理应方法二清除浮动,他会重新计算内部整体高度,可是事实并非如此,先上我这个错误代码:
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>Do not hasLayout!</title>
@@ -91,7 +91,7 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
     <div class="extra">Extra infomations Here, Demo test by whidy!</div>
     </body>
     </html>
-    </code>
+    ```
 
 
 
@@ -100,8 +100,8 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
 **问题就出在.text-list的样式上**.删掉就好.另外,清浮必须采用**给extra元素加clear:both;**这是唯一方法,至于宽度问题,让它auto就好吧...最终应该正确的代码:
 
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html>
     <head>
     <title>looks good</title>
@@ -123,7 +123,7 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
     <div class="extra">Extra infomations Here, Demo test by whidy!</div>
     </body>
     </html>
-    </code>
+    ```
 
 
 

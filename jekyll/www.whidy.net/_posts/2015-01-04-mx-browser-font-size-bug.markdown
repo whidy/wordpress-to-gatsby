@@ -23,8 +23,8 @@ tags:
 
 今天要说的是我才发现的一个BUG.关于魅族手机MX2,MX3(其他机型未测试),固件版本均为3.7.3A稳定版原生浏览器,在测试页面的字体大小样式时无效,如果你的魅族手机有遇到类似问题,可以试试这个[demo](http://www.whidy.net/demos/mx_font_size_test/fz1.html)测试一下,顺便看下源码:
 
-    
-    <code class="html"><!DOCTYPE html>
+    ```html
+    <!DOCTYPE html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -41,8 +41,8 @@ tags:
         <strong style="font-size:60px;">strong tag with a font-size 60px style!</strong>
         <a href="#" style="font-size:60px;">a tag with a font-size 60px style!</a>
     </body>
-    </html></code>
-
+    </html>
+    ```
 
 从这个代码中可以看出,所有元素应该都是60px字体大小.
 

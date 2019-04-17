@@ -30,8 +30,8 @@ tags:
 
 
 
-    
-    <code class="json">[
+    ```javascripton
+    [
         { "keys": ["f12"],
         "command": "side_bar_open_in_browser" ,
         "args":{"paths":[], "type":"testing", "browser":""}
@@ -48,7 +48,8 @@ tags:
         "keys": ["f2"],
         "command": "side_bar_rename"
         },
-    ]</code>
+    ]
+    ```
 
 
 其实很简单,将上面内容复制到

@@ -23,20 +23,19 @@ tags:
 
 HTML:
 
-    
-    <code class="html"><video class="video" id="video" width="640" height="480" preload="auto" poster="https://github.com/whidy/video-player/blob/master/src/poster.png?raw=true">
+    ```html
+    <video class="video" id="video" width="640" height="480" preload="auto" poster="https://github.com/whidy/video-player/blob/master/src/poster.png?raw=true">
       <source src="http://ie.microsoft.com/testdrive/ieblog/2011/nov/pp4_blog_demo.mp4" type="video/mp4">
       <p>Your browser doesn't support HTML5 video. YOU ARE BAD!</p>
       <track kind="subtitles" src="./subtitles.vtt" srclang="en" default>
     </video>
     <a href="javascript:;" id="btnCapSwitcher">Subtitle On/Off</a>
-    </code>
-
+    ```
 
 JAVASCRIPT:
 
-    
-    <code class="javascript">var video = document.getElementById('video'),
+    ```javascript
+    var video = document.getElementById('video'),
       btnCapSwitcher = document.getElementById('btnCapSwitcher');
     // 字幕开关(注意在本次demo测试中只有一个字幕因此可以这样处理,如果存在多个字幕需可能需要修改)
     btnCapSwitcher.addEventListener('click', function () {
@@ -46,8 +45,7 @@ JAVASCRIPT:
         video.textTracks[0].mode = 'hidden';
       }
     }, 'false');
-    </code>
-
+    ```
 
 参考 [Toggling Closed Caption in HTML5 video and disabling default video controls](https://stackoverflow.com/questions/14916914/toggling-closed-caption-in-html5-video-and-disabling-default-video-controls)
 

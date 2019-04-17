@@ -23,8 +23,9 @@ tags:
 
 首先,百度肯定是搜不到的.然后去用谷歌找.谷歌是万能的,找到如下内容:
 
-    
-    <code class="json">{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }</code>
+    ```javascripton
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+    ```
 
 
 这下添加到自定义keymap,问题解决.参考:[Quick Switch Project shortcut doesn’t work anymore](https://forum.sublimetext.com/t/quick-switch-project-shortcut-doesnt-work-anymore/17261)(当然,他好像说3098版本就去掉了,我并未注意到可能我一直在使用更旧的版本.而changelog里面似乎也没看到3098)
@@ -35,8 +36,8 @@ tags:
 
 总结下来我的自定义快捷键是这样的.
 
-    
-    <code class="json">[
+    ```javascripton
+    [
         { "keys": ["f12"],
             "command": "side_bar_open_in_browser" ,
             "args":{"paths":[], "type":"testing", "browser":""}
@@ -53,7 +54,8 @@ tags:
             "keys": ["ctrl+alt+p"],
             "command": "prompt_select_workspace"
         }
-    ]</code>
+    ]
+    ```
 
 
 最后来说说为啥我笨死了.其实关于这个command,我找不到的话,我直接找旧版本的sublime text的default keymap查一下就好了嘛...笨笨笨...........还费了老大功夫.其他朋友有遇到类似问题也可举一反三,自行配置一个好用的sublime text咯~~~~

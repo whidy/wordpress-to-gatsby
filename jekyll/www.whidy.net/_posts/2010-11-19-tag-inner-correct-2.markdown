@@ -19,8 +19,8 @@ tags:
 经过彻夜和一上午的研究,现在总算是把最终效果弄出来了,我先上代码,老鸟不要笑话(这么简单的东西琢磨半天...),没办法,没有系统学习过这个玩意,很多东西都出问题.代码如下:
 
 
-    
-    <code><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    ```
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -48,9 +48,7 @@ tags:
     </form>
     </body>
     </html>
-    </code>
-
-
+    ```
 
 当然这只是一个简单的示例,效果也很简单.那段JS也不难理解,这里并没有用到之前所想的用setAttribute()来解决,而后来的多次测试,不知道是不是我代码不对还是其他原因,通过这个方法无法达到目的.总之,通过这个简单的东西我总结出了几个需要注意的问题:
 
@@ -70,8 +68,8 @@ tags:
 	
   * 看这个就知道了(除了IE6不行,我测试过IE8和chrome都是没有问题的,我想其他的比如FF,OPERA应该也没有问题吧)
 
-    
-    <code><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    ```
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -86,13 +84,8 @@ tags:
     <input type="text" />
     </body>
     </html>
-    </code>
+    ```
 
-
-
-
-
-	
   * 另外还有许多其他的效果,比如跟这个类似的,并非样式变化,而是当光标焦点处于输入框时,输入框默认value改变,比如,默认value="请在此处输入用户名",当焦点在此时,value=""等待用户输入,,等等效果,这里不一一列举,为了方便大家学习,我顺便将其打包,部分代码摘自互联网,版权的话,我也找不到了,反正大家学习嘛,我想这小东西不会还说我侵权吧...z当然以上我自己总结的东西,大家尽管拿去,有什么疑问也可以发邮箱与我联系交流.
 
 	

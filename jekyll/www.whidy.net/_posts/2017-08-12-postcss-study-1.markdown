@@ -157,8 +157,8 @@ CSS语法检查
 
 我们先来创建一个项目目录，结构如下：（style0*.css作为我测试的文件，后面可能增加）
 
-    
-    <code>|– dist
+    ```
+    |– dist
     |– src
     | |– images
     | | |– postcss-00.png
@@ -169,7 +169,7 @@ CSS语法检查
     |– postcss.config.js
     |– webpack.config.js
     |– package.json
-    </code>
+    ```
 
 
 接下来安装依赖包：

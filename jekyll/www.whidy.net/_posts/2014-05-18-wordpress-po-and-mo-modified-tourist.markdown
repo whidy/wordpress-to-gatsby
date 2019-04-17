@@ -33,8 +33,8 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
 找到这一段,也就是上面一张图的框内输出部分
 
 
-    
-    <code class="php"><?php
+    ```php
+    <?php
       $metadata = wp_get_attachment_metadata();
       printf( __( '<span class="meta-prep meta-prep-entry-date">Published </span> <span class="entry-date"><time class="entry-date" datetime="%1$s">%2$s</time></span> at <a href="%3$s" title="Link to full-size image">%4$s &times; %5$s</a> in <a href="%6$s" title="Return to %7$s" rel="gallery">%8$s</a>.', 'twentytwelve' ),
         esc_attr( get_the_date( 'c' ) ),
@@ -47,28 +47,28 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
         get_the_title( $post->post_parent )
       );
     ?>
-    </code>
+    ```
 
 
 
 具体什么意思我就不说明了.上面有8个**%*$s**,其中*****代表**数字**,分别对应下面的8条(有点像C语言的printf,难道PHP也是这样的!?),我不知道如何用专有名字,姑且就这样描述了.然后我们将作者部分直接弄过来,我是直接调用主题的[functions.php](http://www.whidy.net/google-web-tool-structured-data-errors.html)的这一部分:
 
 
-    
-    <code class="php">$author = sprintf( '<span class="author vcard"><a class="url fn n" href="%1$s" title="%2$s" rel="author">%3$s</a></span>',
+    ```php
+    $author = sprintf( '<span class="author vcard"><a class="url fn n" href="%1$s" title="%2$s" rel="author">%3$s</a></span>',
       esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) ),
       esc_attr( sprintf( __( 'View all posts by %s', 'twentytwelve' ), get_the_author() ) ),
       get_the_author()
     );
-    </code>
+    ```
 
 
 
 将他们合并起来就成了:
 
 
-    
-    <code class="php"><?php
+    ```php
+    <?php
       $metadata = wp_get_attachment_metadata();
       printf( __( '<span class="author vcard">Author <a class="url fn n" href="%9$s" title="%10$s" rel="author">%11$s</a></span> <span class="meta-prep meta-prep-entry-date">Published </span> <span class="entry-date"><time class="entry-date updated" datetime="%1$s">%2$s</time></span> at <a href="%3$s" title="Link to full-size image">%4$s &times; %5$s</a> in <a href="%6$s" title="Return to %7$s" rel="gallery">%8$s</a>.', 'twentytwelve' ),
         esc_attr( get_the_date( 'c' ) ),
@@ -84,7 +84,7 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
         get_the_author()
       );
     ?>
-    </code>
+    ```
 
 
 
@@ -99,8 +99,8 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
 接下来用这个笨却很实用的方法,搜索整个wordpress目录内"发布于"关键字,可以找到,原来这个转换部分存在这个文件内:**..\wp-content\languages\themes\twentytwelve-zh_CN.po**,找到约280行,我们可以看到如下信息:
 
 
-    
-    <code class="html">#: image.php:26
+    ```html
+    #: image.php:26
     msgid ""
     "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
     "\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
@@ -112,15 +112,15 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
     "\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
     "span>，尺寸为<a href=\"%3$s\" title=\"到全尺寸图像的链接\">%4$s &times; "
     "%5$s</a>，属于<a href=\"%6$s\" title=\"回到%7$s\" rel=\"gallery\">%8$s</a>。"
-    </code>
+    ```
 
 
 
 看到这里似乎明白了些什么,msgid和msgstr应该是对应关系,那么就开始动手修改这处,这里注意**转义字符**就可以了,如下:
 
 
-    
-    <code class="html">#: image.php:26
+    ```html
+    #: image.php:26
     msgid ""
     "<span class=\"author vcard\">Author <a class=\"url fn n\" href=\"%9$s\" "
     "title=\"%10$s\" rel=\"author\">%11$s</a></span> <span class=\"meta-prep meta-"
@@ -135,7 +135,7 @@ wordpress这个程序虽然强大,但是有时候根据自己需求不同,需要
     "class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span>，尺寸为<a href="
     "\"%3$s\" title=\"到全尺寸图像的链接\">%4$s &times; %5$s</a>，属于<a href="
     "\"%6$s\" title=\"回到%7$s\" rel=\"gallery\">%8$s</a>。"
-    </code>
+    ```
 
 
 

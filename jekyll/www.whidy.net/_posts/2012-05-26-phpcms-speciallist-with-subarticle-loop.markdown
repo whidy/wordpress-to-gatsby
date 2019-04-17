@@ -41,8 +41,8 @@ tags:
 **实现方法:**由于这个站展示在公司网站上了,所以就不写CSS出来了,大家只需要理解了,可以自己想怎么用就怎么用.我的代码是这样写的:
 
 
-    
-    <code class="php"><div class="hifi_PubArea">
+    ```php
+    <div class="hifi_PubArea">
       <!--嵌套循环输出专题及专题内文章By小白-->
       {pc:get sql="SELECT * FROM v9_special ORDER BY createtime DESC" num="10" return="data"}
       <ul class="hifi_ListPage_MainList">
@@ -74,7 +74,7 @@ tags:
       <div id="pages">{$pages}</div>
       {/pc}
     </div>
-    </code>
+    ```
 
 
 

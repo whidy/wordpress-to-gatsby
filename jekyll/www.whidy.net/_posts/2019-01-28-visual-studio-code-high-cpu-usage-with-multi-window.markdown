@@ -55,8 +55,8 @@ tags:
 
 
 
-    
-    <code>P750TM:~ whidy$ code --status
+    ```
+    P750TM:~ whidy$ code --status
     
     Version:          Code 1.30.2 (61122f88f0bf01e2ac16bdb9e1bc4571755f5bd8, 2019-01-07T22:48:31.260Z)
     OS Version:       Darwin x64 17.7.0
@@ -107,11 +107,7 @@ tags:
     |    Folder (mpa-stat-sdk): 21 files
     |      File types: js(13) md(3) json(2) zip(2) gitignore(1)
     |      Conf files: gulp.js(1) package.json(1)
-    </code>
-
-
-
-
+    ```
 
 ## 故障现象
 
