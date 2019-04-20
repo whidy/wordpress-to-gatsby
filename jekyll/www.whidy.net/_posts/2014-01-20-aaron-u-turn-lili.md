@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-01-20 00:58:30+00:00
-layout: post
+template: post
 link: http://www.whidy.net/aaron-u-turn-lili.html
-slug: aaron-u-turn-lili
+slug: /aaron-u-turn-lili
 title: '[好歌推荐]AaRON – U-Turn (Lili)'
 wordpress_id: 1855
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

@@ -3,15 +3,12 @@ author: whidy
 comments: true
 date: 2017-09-28 02:38:41+00:00
 excerpt: 在做移动端页面，表单内的部分元素如果设置了readonly="readonly"，CHROME模拟移动端是看不出问题的。而手机上虽然表单元素不能编辑内容，但是会出现闪动的光标以及页面底部有一条系统自带的控制bar。这样的体验很差，于是我总结了几个方案。
-layout: post
+template: post
 link: http://www.whidy.net/form-input-readonly-focus-cursor-forbidden.html
-slug: form-input-readonly-focus-cursor-forbidden
+slug: /form-input-readonly-focus-cursor-forbidden
 title: 表单中readonly的input等标签，禁止光标进入（focus）的几种方式
 wordpress_id: 2994
-categories:
-- CSS
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

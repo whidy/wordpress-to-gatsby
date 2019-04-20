@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-12-30 05:18:27+00:00
-layout: post
+template: post
 link: http://www.whidy.net/web-updating-2.html
-slug: web-updating-2
+slug: /web-updating-2
 title: 新年总得有些变化,新衣裳筹备中...
 wordpress_id: 601
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 网站
 ---

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-09-10 02:51:41+00:00
-layout: post
+template: post
 link: http://www.whidy.net/whidy-moving.html
-slug: whidy-moving
+slug: /whidy-moving
 title: Whidy即将转入大陆,网站备案在即...敬请关注
 wordpress_id: 1013
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 网站
 ---

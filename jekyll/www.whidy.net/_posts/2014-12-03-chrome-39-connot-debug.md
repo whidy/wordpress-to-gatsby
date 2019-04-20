@@ -4,14 +4,12 @@ comments: true
 date: 2014-12-03 13:37:39+00:00
 excerpt: 这几天做东西发现chrome 39的多个版本上,在带有参数的url链接上出现无法调试的情况,而且相当频繁,实在是让人恼火又着急.本机的是版本 39.0.2171.71
   m,包括办公室的另一个chrome 39也这鸟样...
-layout: post
+template: post
 link: http://www.whidy.net/chrome-39-connot-debug.html
-slug: chrome-39-connot-debug
+slug: /chrome-39-connot-debug
 title: chrome 39 有时候出现无法调试?
 wordpress_id: 2644
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

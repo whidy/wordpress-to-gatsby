@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2016-03-15 13:48:51+00:00
 excerpt: 那部Nikon D5000沉睡了太久了.因为年代已久,似乎我已不爱它了.曾经有一段时间,我每次带着D5000满怀希望的外出,希望能找到令人惊喜的照片,可是多少次带回来的是失望.可是后来我觉得这部单反还是很不错的.通过重新学习和认识D5000,来提高自己摄影水平,尼康单反摄影优化校准相关学习!
-layout: post
+template: post
 link: http://www.whidy.net/nikon-dc-picture-control-study.html
-slug: nikon-dc-picture-control-study
+slug: /nikon-dc-picture-control-study
 title: 尼康单反摄影优化校准相关学习
 wordpress_id: 2865
-categories:
-- 兴趣
-- 摄影
+category: '摄影'
 tags:
 - photoshop
 - 教程

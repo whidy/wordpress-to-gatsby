@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-09-20 13:52:20+00:00
-layout: post
+template: post
 link: http://www.whidy.net/whidy-reborn.html
-slug: whidy-reborn
+slug: /whidy-reborn
 title: 历经千辛万苦,备案成功.正式转入大陆!
 wordpress_id: 1020
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 网站
 ---

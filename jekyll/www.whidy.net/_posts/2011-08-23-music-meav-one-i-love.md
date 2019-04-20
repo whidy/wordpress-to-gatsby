@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-08-23 14:00:52+00:00
-layout: post
+template: post
 link: http://www.whidy.net/music-meav-one-i-love.html
-slug: music-meav-one-i-love
+slug: /music-meav-one-i-love
 title: '[好歌推荐]Meav - One I Love'
 wordpress_id: 548
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

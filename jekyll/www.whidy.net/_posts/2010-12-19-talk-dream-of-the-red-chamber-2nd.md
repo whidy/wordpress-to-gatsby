@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-19 16:32:43+00:00
-layout: post
+template: post
 link: http://www.whidy.net/talk-dream-of-the-red-chamber-2nd.html
-slug: talk-dream-of-the-red-chamber-2nd
+slug: /talk-dream-of-the-red-chamber-2nd
 title: 赏新红楼梦后说(二)
 wordpress_id: 347
-categories:
-- 其它
-- 杂谈
-- 爱情
+category: '随想'
 tags:
 - 感想
 ---

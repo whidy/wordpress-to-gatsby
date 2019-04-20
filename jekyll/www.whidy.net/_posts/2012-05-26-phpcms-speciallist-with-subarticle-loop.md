@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-26 03:28:35+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-speciallist-with-subarticle-loop.html
-slug: phpcms-speciallist-with-subarticle-loop
+slug: /phpcms-speciallist-with-subarticle-loop
 title: PHPCMS页面专题汇总列表内调用该专题内文章方法
 wordpress_id: 782
-categories:
-- IT技术
-- Phpcms
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

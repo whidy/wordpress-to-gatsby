@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-08-11 14:57:59+00:00
-layout: post
+template: post
 link: http://www.whidy.net/web-updating.html
-slug: web-updating
+slug: /web-updating
 title: 网站更新中...
 wordpress_id: 519
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - wordpress
 - 网站

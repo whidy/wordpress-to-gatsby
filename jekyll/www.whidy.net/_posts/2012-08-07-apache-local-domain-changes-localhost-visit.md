@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-07 15:04:25+00:00
-layout: post
+template: post
 link: http://www.whidy.net/apache-local-domain-changes-localhost-visit.html
-slug: apache-local-domain-changes-localhost-visit
+slug: /apache-local-domain-changes-localhost-visit
 title: 将做好的Apache本地域名的服务器还原成默认localhost访问方法
 wordpress_id: 941
-categories:
-- IT技术
-- 设计相关
+category: '开发'
 tags:
 - 技术
 - 网站

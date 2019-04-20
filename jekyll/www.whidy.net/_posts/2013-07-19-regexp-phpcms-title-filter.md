@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2013-07-19 03:01:20+00:00
-layout: post
+template: post
 link: http://www.whidy.net/regexp-phpcms-title-filter.html
-slug: regexp-phpcms-title-filter
+slug: /regexp-phpcms-title-filter
 title: 利用MYSQL正则表达式-PHPCMS标题筛选文章
 wordpress_id: 1724
-categories:
-- IT技术
-- Phpcms
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

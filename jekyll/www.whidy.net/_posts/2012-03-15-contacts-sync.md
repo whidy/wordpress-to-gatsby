@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-03-15 13:50:06+00:00
-layout: post
+template: post
 link: http://www.whidy.net/contacts-sync.html
-slug: contacts-sync
+slug: /contacts-sync
 title: WP联系人同步技巧
 wordpress_id: 643
-categories:
-- IT技术
-- 兴趣
-- 技术分享
+category: '开发'
 tags:
 - 手机
 - 技术

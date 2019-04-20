@@ -3,15 +3,12 @@ author: Adtango
 comments: true
 date: 2010-09-18 16:09:14+00:00
 excerpt: 光的传播特性质 对焦模式 偏振光
-layout: post
+template: post
 link: http://www.whidy.net/photography-tips-1.html
-slug: photography-tips-1
+slug: /photography-tips-1
 title: 摄影小知识（1）
 wordpress_id: 92
-categories:
-- 摄影
-- 精彩分享
-- 转载收藏
+category: '摄影'
 tags:
 - 教程
 - 风景

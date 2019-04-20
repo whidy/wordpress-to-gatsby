@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2013-06-19 13:48:46+00:00
-layout: post
+template: post
 link: http://www.whidy.net/guangdong-tourist-feeling.html
-slug: guangdong-tourist-feeling
+slug: /guangdong-tourist-feeling
 title: 广东出游感受
 wordpress_id: 1695
-categories:
-- 其它
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 - 感想

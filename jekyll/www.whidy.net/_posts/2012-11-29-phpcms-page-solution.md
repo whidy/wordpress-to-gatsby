@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2012-11-29 05:46:30+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-page-solution.html
-slug: phpcms-page-solution
+slug: /phpcms-page-solution
 title: phpcms单页面模板获取栏目数据翻页无效解决办法
 wordpress_id: 1144
-categories:
-- IT技术
-- Javascript
-- jQuery
-- Phpcms
+category: '开发'
 tags:
 - 技术
 - 网站

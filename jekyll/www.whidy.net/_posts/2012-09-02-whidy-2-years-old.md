@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-09-02 15:08:13+00:00
-layout: post
+template: post
 link: http://www.whidy.net/whidy-2-years-old.html
-slug: whidy-2-years-old
+slug: /whidy-2-years-old
 title: Whidy二周岁纪念.
 wordpress_id: 1009
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 感想
 - 网站

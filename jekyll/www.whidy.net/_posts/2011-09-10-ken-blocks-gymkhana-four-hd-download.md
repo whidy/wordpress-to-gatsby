@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-09-10 15:52:02+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ken-blocks-gymkhana-four-hd-download.html
-slug: ken-blocks-gymkhana-four-hd-download
+slug: /ken-blocks-gymkhana-four-hd-download
 title: KEN BLOCK'S GYMKHANA FOUR HD 高清下载
 wordpress_id: 565
-categories:
-- 精彩分享
-- 视频精选
+category: '视频'
 tags:
 - 下载
 ---

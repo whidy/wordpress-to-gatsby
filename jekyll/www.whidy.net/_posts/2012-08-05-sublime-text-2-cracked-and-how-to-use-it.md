@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-05 14:09:08+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-2-cracked-and-how-to-use-it.html
-slug: sublime-text-2-cracked-and-how-to-use-it
+slug: /sublime-text-2-cracked-and-how-to-use-it
 title: Sublime Text 2 注册激活办法以及简单的使用介绍
 wordpress_id: 937
-categories:
-- IT技术
-- Javascript
+category: '开发'
 tags:
 - sublime text
 - 技术

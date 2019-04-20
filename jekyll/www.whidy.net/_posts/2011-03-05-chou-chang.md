@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-03-05 15:42:28+00:00
-layout: post
+template: post
 link: http://www.whidy.net/chou-chang.html
-slug: chou-chang
+slug: /chou-chang
 title: 愁唱
 wordpress_id: 418
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

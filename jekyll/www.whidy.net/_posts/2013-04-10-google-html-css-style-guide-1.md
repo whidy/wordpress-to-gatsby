@@ -2,18 +2,12 @@
 author: whidy
 comments: true
 date: 2013-04-10 07:32:12+00:00
-layout: post
+template: post
 link: http://www.whidy.net/google-html-css-style-guide-1.html
-slug: google-html-css-style-guide-1
+slug: /google-html-css-style-guide-1
 title: 谷歌HTML/CSS书写规范总结一(Google HTML/CSS Style Guide)
 wordpress_id: 1646
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
-- 技术前沿
-- 精彩分享
+category: '音乐'
 tags:
 - 技术
 - 网站

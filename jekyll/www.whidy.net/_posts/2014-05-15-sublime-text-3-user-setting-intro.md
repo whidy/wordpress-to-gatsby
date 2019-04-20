@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-05-15 15:18:37+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-3-user-setting-intro.html
-slug: sublime-text-3-user-setting-intro
+slug: /sublime-text-3-user-setting-intro
 title: Sublime Text 3常用用户自定义配置推荐
 wordpress_id: 2071
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-12 06:25:06+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-3-plug-in-package.html
-slug: sublime-text-3-plug-in-package
+slug: /sublime-text-3-plug-in-package
 title: Sublime Text 3近期使用总结(常用插件篇)
 wordpress_id: 1895
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

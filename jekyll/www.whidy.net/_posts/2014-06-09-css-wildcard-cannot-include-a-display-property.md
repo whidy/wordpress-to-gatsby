@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-09 13:57:18+00:00
-layout: post
+template: post
 link: http://www.whidy.net/css-wildcard-cannot-include-a-display-property.html
-slug: css-wildcard-cannot-include-a-display-property
+slug: /css-wildcard-cannot-include-a-display-property
 title: CSS的通配符*内不能用display属性?
 wordpress_id: 2424
-categories:
-- CSS
-- HTML
-- IT技术
+category: '开发'
 tags:
 - 技术
 ---

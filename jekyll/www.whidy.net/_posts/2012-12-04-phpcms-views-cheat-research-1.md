@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-04 03:31:56+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-views-cheat-research-1.html
-slug: phpcms-views-cheat-research-1
+slug: /phpcms-views-cheat-research-1
 title: phpcms点击数作弊深度研究(上)
 wordpress_id: 1266
-categories:
-- IT技术
-- Phpcms
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

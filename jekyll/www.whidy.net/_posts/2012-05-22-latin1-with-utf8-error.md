@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-22 09:59:18+00:00
-layout: post
+template: post
 link: http://www.whidy.net/latin1-with-utf8-error.html
-slug: latin1-with-utf8-error
+slug: /latin1-with-utf8-error
 title: 搭建latin1与utf-8的PHP环境想不乱码都不行的艰苦日子
 wordpress_id: 780
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

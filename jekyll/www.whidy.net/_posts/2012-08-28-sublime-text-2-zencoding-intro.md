@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-28 13:52:41+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-2-zencoding-intro.html
-slug: sublime-text-2-zencoding-intro
+slug: /sublime-text-2-zencoding-intro
 title: Sublime Text 2下使用ZenCoding简介
 wordpress_id: 990
-categories:
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

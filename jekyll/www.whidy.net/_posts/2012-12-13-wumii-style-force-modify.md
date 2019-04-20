@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-13 07:22:04+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wumii-style-force-modify.html
-slug: wumii-style-force-modify
+slug: /wumii-style-force-modify
 title: wumii相关文章插件样式暴力修改
 wordpress_id: 1475
-categories:
-- IT技术
-- jQuery
-- Phpcms
+category: '开发'
 tags:
 - 技术
 - 网站

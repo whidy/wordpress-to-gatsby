@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-07-10 15:35:44+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-released-and-update.html
-slug: wordpress-released-and-update
+slug: /wordpress-released-and-update
 title: Wordpress 3.2 发布及更新方法
 wordpress_id: 470
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

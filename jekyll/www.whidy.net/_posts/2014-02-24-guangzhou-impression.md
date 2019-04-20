@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2014-02-24 16:39:26+00:00
-layout: post
+template: post
 link: http://www.whidy.net/guangzhou-impression.html
-slug: guangzhou-impression
+slug: /guangzhou-impression
 title: 广州初印象
 wordpress_id: 1865
-categories:
-- 其它
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 感想
 - 风景

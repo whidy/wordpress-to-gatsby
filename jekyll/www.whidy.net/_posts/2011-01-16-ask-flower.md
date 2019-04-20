@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-01-16 15:38:33+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ask-flower.html
-slug: ask-flower
+slug: /ask-flower
 title: 问花
 wordpress_id: 389
-categories:
-- 兴趣
-- 摄影
+category: '摄影'
 tags:
 - 心情
 - 风景

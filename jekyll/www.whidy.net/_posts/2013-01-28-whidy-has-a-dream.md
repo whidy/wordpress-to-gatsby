@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-01-28 08:46:13+00:00
-layout: post
+template: post
 link: http://www.whidy.net/whidy-has-a-dream.html
-slug: whidy-has-a-dream
+slug: /whidy-has-a-dream
 title: whidy也想逆袭
 wordpress_id: 1553
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 感想
 - 网站

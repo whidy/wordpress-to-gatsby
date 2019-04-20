@@ -3,16 +3,12 @@ author: whidy
 comments: true
 date: 2017-11-10 03:52:15+00:00
 excerpt: 我的G500服役三年多了，终于也出现了一些问题。这里介绍一下G系列，比如我的G500鼠标USB频繁丢失故障分析解决办法
-layout: post
+template: post
 link: http://www.whidy.net/logitech-g500-usb-disconnect-fix.html
-slug: logitech-g500-usb-disconnect-fix
+slug: /logitech-g500-usb-disconnect-fix
 title: 关于罗技G系列(G500)鼠标USB频繁丢失故障分析解决
 wordpress_id: 2873
-categories:
-- 兴趣
-- 其它
-- 杂谈
-- 评测
+category: '评测'
 tags:
 - 评测
 ---

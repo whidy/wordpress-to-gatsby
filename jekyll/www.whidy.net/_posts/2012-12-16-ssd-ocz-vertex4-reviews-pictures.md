@@ -2,17 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-16 12:45:21+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ssd-ocz-vertex4-reviews-pictures.html
-slug: ssd-ocz-vertex4-reviews-pictures
+slug: /ssd-ocz-vertex4-reviews-pictures
 title: 固态硬盘OCZ Vertex4评测之开箱篇
 wordpress_id: 1480
-categories:
-- IT技术
-- 兴趣
-- 技术分享
-- 摄影
-- 评测
+category: '评测'
 tags:
 - 技术
 ---

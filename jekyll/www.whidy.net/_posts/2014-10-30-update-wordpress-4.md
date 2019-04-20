@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-10-30 15:06:48+00:00
-layout: post
+template: post
 link: http://www.whidy.net/update-wordpress-4.html
-slug: update-wordpress-4
+slug: /update-wordpress-4
 title: 更新至Wordpress 4.0
 wordpress_id: 2609
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - wordpress
 - 网站

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-29 01:14:55+00:00
-layout: post
+template: post
 link: http://www.whidy.net/vimeo-sublime-text-2-zencoding-video-download.html
-slug: vimeo-sublime-text-2-zencoding-video-download
+slug: /vimeo-sublime-text-2-zencoding-video-download
 title: Vimeo的关于Sublime Text 2插件Zencoding用法演示视频下载
 wordpress_id: 999
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

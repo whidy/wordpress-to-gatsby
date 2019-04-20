@@ -2,17 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-01 13:59:30+00:00
-layout: post
+template: post
 link: http://www.whidy.net/lastchild-styles-clean.html
-slug: lastchild-styles-clean
+slug: /lastchild-styles-clean
 title: 列表中最后一个元素样式清除修改方法(jQuery)
 wordpress_id: 707
-categories:
-- CSS
-- HTML
-- IT技术
-- Javascript
-- jQuery
+category: '开发'
 tags:
 - 技术
 - 网站

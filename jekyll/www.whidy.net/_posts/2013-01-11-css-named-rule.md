@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2013-01-11 06:55:25+00:00
-layout: post
+template: post
 link: http://www.whidy.net/css-named-rule.html
-slug: css-named-rule
+slug: /css-named-rule
 title: CSS命名规则经验之常用的CSS类名举例
 wordpress_id: 1549
-categories:
-- CSS
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-01-29 07:55:49+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-comment-qq-mail-notification.html
-slug: wordpress-comment-qq-mail-notification
+slug: /wordpress-comment-qq-mail-notification
 title: wordpress评论后QQ邮箱提示再谈
 wordpress_id: 1622
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

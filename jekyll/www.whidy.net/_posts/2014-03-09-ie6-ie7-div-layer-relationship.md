@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-03-09 14:40:00+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ie6-ie7-div-layer-relationship.html
-slug: ie6-ie7-div-layer-relationship
+slug: /ie6-ie7-div-layer-relationship
 title: ie6,7下相邻div叠加层级关系问题
 wordpress_id: 1878
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

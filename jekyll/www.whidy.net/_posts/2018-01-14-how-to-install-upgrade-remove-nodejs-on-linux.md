@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2018-01-14 09:44:38+00:00
 excerpt: Linux(CentOS6)下安装Nodejs,删除Nodejs,升级Nodejs遇到的一些问题,以及相关解决方案的介绍
-layout: post
+template: post
 link: http://www.whidy.net/how-to-install-upgrade-remove-nodejs-on-linux.html
-slug: how-to-install-upgrade-remove-nodejs-on-linux
+slug: /how-to-install-upgrade-remove-nodejs-on-linux
 title: Linux下无法正常安装（升级）和删除Nodejs的解决方法
 wordpress_id: 3061
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

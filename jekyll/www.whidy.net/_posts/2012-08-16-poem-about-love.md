@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-16 13:55:45+00:00
-layout: post
+template: post
 link: http://www.whidy.net/poem-about-love.html
-slug: poem-about-love
+slug: /poem-about-love
 title: 泰戈尔,徐志摩经典语录诗词欣赏
 wordpress_id: 955
-categories:
-- 文学
-- 杂谈
-- 爱情
+category: '分享'
 tags:
 - 心情
 ---

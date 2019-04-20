@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2015-10-04 10:43:15+00:00
 excerpt: 更新wordpress 3.4.1和Twenty Fifteen
-layout: post
+template: post
 link: http://www.whidy.net/update-to-wordpress-341-and-twenty-fifteen-theme.html
-slug: update-to-wordpress-341-and-twenty-fifteen-theme
+slug: /update-to-wordpress-341-and-twenty-fifteen-theme
 title: 更新wordpress 3.4.1和Twenty Fifteen
 wordpress_id: 2816
-categories:
-- 其它
-- 杂谈
+category: '生活'
 ---
 
 实在是看不惯后台的更新提示...

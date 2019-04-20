@@ -2,17 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-07 10:00:33+00:00
-layout: post
+template: post
 link: http://www.whidy.net/absolute-element-scroll-without-blink.html
-slug: absolute-element-scroll-without-blink
+slug: /absolute-element-scroll-without-blink
 title: 绝对定位元素随滚动条滑动无延时不闪烁的解决办法!
 wordpress_id: 1884
-categories:
-- CSS
-- HTML
-- IT技术
-- Javascript
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

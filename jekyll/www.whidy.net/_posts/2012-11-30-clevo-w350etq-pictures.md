@@ -2,17 +2,12 @@
 author: whidy
 comments: true
 date: 2012-11-30 14:35:22+00:00
-layout: post
+template: post
 link: http://www.whidy.net/clevo-w350etq-pictures.html
-slug: clevo-w350etq-pictures
+slug: /clevo-w350etq-pictures
 title: Clevo W350ETQ 评测之外观欣赏
 wordpress_id: 1174
-categories:
-- IT技术
-- 兴趣
-- 技术分享
-- 摄影
-- 评测
+category: '评测'
 tags:
 - 技术
 ---

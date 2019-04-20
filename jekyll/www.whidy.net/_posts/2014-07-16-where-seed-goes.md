@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-07-16 15:32:10+00:00
-layout: post
+template: post
 link: http://www.whidy.net/where-seed-goes.html
-slug: where-seed-goes
+slug: /where-seed-goes
 title: 迷茫的蒲公英种子
 wordpress_id: 2568
-categories:
-- 其它
-- 文学
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

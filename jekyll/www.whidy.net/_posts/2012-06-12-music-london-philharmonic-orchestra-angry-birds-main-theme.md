@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-06-12 13:03:33+00:00
-layout: post
+template: post
 link: http://www.whidy.net/music-london-philharmonic-orchestra-angry-birds-main-theme.html
-slug: music-london-philharmonic-orchestra-angry-birds-main-theme
+slug: /music-london-philharmonic-orchestra-angry-birds-main-theme
 title: '[好歌推荐]London Philharmonic Orchestra – Angry Birds: Main Theme'
 wordpress_id: 808
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-22 14:20:53+00:00
-layout: post
+template: post
 link: http://www.whidy.net/the-end-of-world-the-last-one-77.html
-slug: the-end-of-world-the-last-one-77
+slug: /the-end-of-world-the-last-one-77
 title: 如果今年是世界末日,那这不就是生命的最后一个七夕
 wordpress_id: 975
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 - 感想

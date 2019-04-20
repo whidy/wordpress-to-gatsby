@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-07-25 11:46:15+00:00
-layout: post
+template: post
 link: http://www.whidy.net/pal5q-dlc-end.html
-slug: pal5q-dlc-end
+slug: /pal5q-dlc-end
 title: 仙剑奇侠传五前传DLC之梦华幻斗之通关感言
 wordpress_id: 1743
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 感想
 ---

@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2010-08-19 13:38:48+00:00
-layout: post
+template: post
 link: http://www.whidy.net/correcting-exposure-with-the-shadows-highlights-tool-1.html
-slug: correcting-exposure-with-the-shadows-highlights-tool-1
+slug: /correcting-exposure-with-the-shadows-highlights-tool-1
 title: 通过photoshop的阴影/高光工具调整相片曝光问题(上)
 wordpress_id: 46
-categories:
-- 原创翻译
-- 精彩分享
-- 设计相关
+category: '软件'
 tags:
 - photoshop
 - 教程

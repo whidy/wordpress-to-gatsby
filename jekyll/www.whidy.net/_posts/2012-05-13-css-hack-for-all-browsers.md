@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-13 12:28:43+00:00
-layout: post
+template: post
 link: http://www.whidy.net/css-hack-for-all-browsers.html
-slug: css-hack-for-all-browsers
+slug: /css-hack-for-all-browsers
 title: 主浏览器CSS HACK(IE6,IE7,IE8,IE9,Chrome,FF)
 wordpress_id: 671
-categories:
-- CSS
-- HTML
-- IT技术
+category: '开发'
 tags:
 - 技术
 ---

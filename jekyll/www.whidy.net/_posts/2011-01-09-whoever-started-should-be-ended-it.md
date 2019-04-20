@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2011-01-09 16:24:57+00:00
-layout: post
+template: post
 link: http://www.whidy.net/whoever-started-should-be-ended-it.html
-slug: whoever-started-should-be-ended-it
+slug: /whoever-started-should-be-ended-it
 title: 解铃还须系铃人
 wordpress_id: 383
-categories:
-- 其它
-- 文学
-- 杂谈
+category: '生活'
 tags:
 - 心情
 ---

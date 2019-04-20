@@ -7,15 +7,12 @@ excerpt: 'dota2启动报错解决
   CAppSystemDict::LoadSystemAndDependecies():
 
   AppSystemDict: Error in init() of interface ''RenderDeviceMgr001''!'
-layout: post
+template: post
 link: http://www.whidy.net/dota2-startup-cappsystemdict-renderdevicemgr001.html
-slug: dota2-startup-cappsystemdict-renderdevicemgr001
+slug: /dota2-startup-cappsystemdict-renderdevicemgr001
 title: dota2启动报错解决办法(CAppSystemDict::...RenderDeviceMgr001)
 wordpress_id: 2833
-categories:
-- 兴趣
-- 其它
-- 精彩分享
+category: '音乐'
 tags:
 - 技术
 - 教程

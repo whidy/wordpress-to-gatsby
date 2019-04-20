@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-20 16:34:25+00:00
-layout: post
+template: post
 link: http://www.whidy.net/leave-stay.html
-slug: leave-stay
+slug: /leave-stay
 title: 来来去去,散散聚聚.
 wordpress_id: 355
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

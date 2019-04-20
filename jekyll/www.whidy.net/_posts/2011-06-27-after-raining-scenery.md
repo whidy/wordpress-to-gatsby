@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-06-27 14:52:49+00:00
-layout: post
+template: post
 link: http://www.whidy.net/after-raining-scenery.html
-slug: after-raining-scenery
+slug: /after-raining-scenery
 title: 雨后景致
 wordpress_id: 458
-categories:
-- 兴趣
-- 摄影
+category: '摄影'
 tags:
 - 风景
 ---

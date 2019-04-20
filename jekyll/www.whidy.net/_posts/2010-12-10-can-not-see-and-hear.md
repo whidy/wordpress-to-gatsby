@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-10 13:31:51+00:00
-layout: post
+template: post
 link: http://www.whidy.net/can-not-see-and-hear.html
-slug: can-not-see-and-hear
+slug: /can-not-see-and-hear
 title: 看不懂的风吹草动,听不见的轻声细语.
 wordpress_id: 232
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

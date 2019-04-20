@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-03-05 03:12:54+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wp-smtp-mail-error.html
-slug: wp-smtp-mail-error
+slug: /wp-smtp-mail-error
 title: WP SMTP邮件转发出错解决
 wordpress_id: 1636
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

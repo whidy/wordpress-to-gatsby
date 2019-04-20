@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-08-03 08:07:58+00:00
-layout: post
+template: post
 link: http://www.whidy.net/the-raining-day-of-summer.html
-slug: the-raining-day-of-summer
+slug: /the-raining-day-of-summer
 title: 夏季的雨天
 wordpress_id: 520
-categories:
-- 杂谈
-- 爱情
+category: '爱情'
 tags:
 - 心情
 ---

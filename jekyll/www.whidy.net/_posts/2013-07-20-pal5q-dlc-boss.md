@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-07-20 09:54:54+00:00
-layout: post
+template: post
 link: http://www.whidy.net/pal5q-dlc-boss.html
-slug: pal5q-dlc-boss
+slug: /pal5q-dlc-boss
 title: 仙剑奇侠传五前传DLC之梦华幻斗之虹芝岛过关小攻略
 wordpress_id: 1732
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 教程
 ---

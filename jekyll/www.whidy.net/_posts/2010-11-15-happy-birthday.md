@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-11-15 14:38:07+00:00
-layout: post
+template: post
 link: http://www.whidy.net/happy-birthday.html
-slug: happy-birthday
+slug: /happy-birthday
 title: 生日快乐
 wordpress_id: 154
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

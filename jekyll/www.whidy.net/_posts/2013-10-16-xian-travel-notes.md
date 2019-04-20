@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-10-16 12:17:50+00:00
-layout: post
+template: post
 link: http://www.whidy.net/xian-travel-notes.html
-slug: xian-travel-notes
+slug: /xian-travel-notes
 title: 西安半月游记
 wordpress_id: 1757
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 - 感想

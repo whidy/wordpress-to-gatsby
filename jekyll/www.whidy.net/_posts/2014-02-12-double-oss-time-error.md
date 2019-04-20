@@ -2,15 +2,12 @@
 author: amo
 comments: true
 date: 2014-02-12 14:20:35+00:00
-layout: post
+template: post
 link: http://www.whidy.net/double-oss-time-error.html
-slug: double-oss-time-error
+slug: /double-oss-time-error
 title: 'ubuntu和win7双系统时间错误  '
 wordpress_id: 1863
-categories:
-- IT技术
-- 其它
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

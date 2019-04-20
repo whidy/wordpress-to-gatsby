@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-10-30 02:23:52+00:00
-layout: post
+template: post
 link: http://www.whidy.net/bf4-directx-function-error-solution.html
-slug: bf4-directx-function-error-solution
+slug: /bf4-directx-function-error-solution
 title: 战地4运行提示directX function错误解决方案
 wordpress_id: 1817
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 技术
 ---

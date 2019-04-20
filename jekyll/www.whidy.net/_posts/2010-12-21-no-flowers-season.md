@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-21 16:38:50+00:00
-layout: post
+template: post
 link: http://www.whidy.net/no-flowers-season.html
-slug: no-flowers-season
+slug: /no-flowers-season
 title: 未见花开的季节
 wordpress_id: 360
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

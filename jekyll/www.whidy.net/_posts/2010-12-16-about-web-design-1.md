@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-16 15:28:17+00:00
-layout: post
+template: post
 link: http://www.whidy.net/about-web-design-1.html
-slug: about-web-design-1
+slug: /about-web-design-1
 title: 网页设计略谈(一)
 wordpress_id: 338
-categories:
-- IT技术
-- 技术分享
-- 设计相关
+category: '设计'
 tags:
 - photoshop
 ---

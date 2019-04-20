@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2013-11-29 02:27:44+00:00
-layout: post
+template: post
 link: http://www.whidy.net/nightingale-yanni%e5%a4%9c%e8%8e%ba-%e9%9b%85%e5%b0%bc.html
-slug: nightingale-yanni%e5%a4%9c%e8%8e%ba-%e9%9b%85%e5%b0%bc
+slug: /nightingale-yanni
 title: Nightingale-Yanni(夜莺-雅尼)
 wordpress_id: 1826
-categories:
-- 好歌推荐
-- 精彩分享
-- 转载收藏
+category: '音乐'
 tags:
 - 好歌
 - 心情

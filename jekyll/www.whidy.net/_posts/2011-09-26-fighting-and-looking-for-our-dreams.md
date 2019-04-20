@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-09-26 16:01:06+00:00
-layout: post
+template: post
 link: http://www.whidy.net/fighting-and-looking-for-our-dreams.html
-slug: fighting-and-looking-for-our-dreams
+slug: /fighting-and-looking-for-our-dreams
 title: 努力去寻找它的标题吧
 wordpress_id: 592
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 心情
 - 感想

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-02 08:54:37+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-v9-list-page-customize.html
-slug: phpcms-v9-list-page-customize
+slug: /phpcms-v9-list-page-customize
 title: PHPCMS V9 自定义列表分页功能实现方法
 wordpress_id: 733
-categories:
-- IT技术
-- Phpcms
+category: '开发'
 tags:
 - 技术
 - 网站

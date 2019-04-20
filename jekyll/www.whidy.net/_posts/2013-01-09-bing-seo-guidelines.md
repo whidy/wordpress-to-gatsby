@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-01-09 01:13:09+00:00
-layout: post
+template: post
 link: http://www.whidy.net/bing-seo-guidelines.html
-slug: bing-seo-guidelines
+slug: /bing-seo-guidelines
 title: Bing官方搜索优化指南：Bing SEO Guidelines
 wordpress_id: 1531
-categories:
-- 技术前沿
-- 精彩分享
+category: '音乐'
 tags:
 - 技术
 - 网站

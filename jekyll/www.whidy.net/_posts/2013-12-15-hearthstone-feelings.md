@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-12-15 10:58:43+00:00
-layout: post
+template: post
 link: http://www.whidy.net/hearthstone-feelings.html
-slug: hearthstone-feelings
+slug: /hearthstone-feelings
 title: 玩近一个月有感
 wordpress_id: 1844
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 感想
 ---

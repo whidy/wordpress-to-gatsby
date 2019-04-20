@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2015-01-18 09:47:42+00:00
 excerpt: 有个bug只会在ios的safari浏览器上出现,就是无法禁止底部浏览器自带区域的touchmove事件,这究竟是怎么回事呢
-layout: post
+template: post
 link: http://www.whidy.net/ios-safari-bug-touchmove.html
-slug: ios-safari-bug-touchmove
+slug: /ios-safari-bug-touchmove
 title: ios safari浏览器底部touchmove事件无效的BUG?
 wordpress_id: 2696
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-05-08 10:40:13+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-select-name-faster.html
-slug: sublime-text-select-name-faster
+slug: /sublime-text-select-name-faster
 title: sublime text快速选择带有横线(连接符)的类名或ID名等
 wordpress_id: 2062
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

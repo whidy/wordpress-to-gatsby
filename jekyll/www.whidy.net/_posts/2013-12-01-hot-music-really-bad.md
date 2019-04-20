@@ -2,18 +2,12 @@
 author: whidy
 comments: true
 date: 2013-12-01 12:03:55+00:00
-layout: post
+template: post
 link: http://www.whidy.net/hot-music-really-bad.html
-slug: hot-music-really-bad
+slug: /hot-music-really-bad
 title: 发烧唱片真的发烧么?
 wordpress_id: 1834
-categories:
-- 兴趣
-- 其它
-- 杂谈
-- 精彩分享
-- 阅文有感
-- 音乐
+category: '音乐'
 tags:
 - 感想
 ---

@@ -3,16 +3,12 @@ author: whidy
 comments: true
 date: 2014-11-04 03:59:08+00:00
 excerpt: 前阵子做一个项目,做到了一个效果,关于一个导航条跟随屏幕滚动保持在页面顶端的效果,其中有一部分js需要计算导航条距离网页顶部值,当时想不出好的解决方案,根据特定的页面结构写了个不是很好的方法,然而不能适应各种情况,因此今天就研究了一下.
-layout: post
+template: post
 link: http://www.whidy.net/distance-of-element-to-site-top-value.html
-slug: distance-of-element-to-site-top-value
+slug: /distance-of-element-to-site-top-value
 title: 元素到网页顶部距离计算方法
 wordpress_id: 2618
-categories:
-- HTML
-- IT技术
-- Javascript
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

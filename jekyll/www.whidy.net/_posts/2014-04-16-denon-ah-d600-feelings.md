@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-16 13:59:35+00:00
-layout: post
+template: post
 link: http://www.whidy.net/denon-ah-d600-feelings.html
-slug: denon-ah-d600-feelings
+slug: /denon-ah-d600-feelings
 title: 天龙AH-D600使用感受小谈
 wordpress_id: 1928
-categories:
-- 兴趣
-- 其它
-- 杂谈
-- 评测
+category: '评测'
 tags:
 - 感想
 ---

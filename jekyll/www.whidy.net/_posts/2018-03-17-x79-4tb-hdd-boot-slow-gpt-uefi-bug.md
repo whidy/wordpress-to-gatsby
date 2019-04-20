@@ -4,15 +4,12 @@ comments: true
 date: 2018-03-17 03:13:37+00:00
 excerpt: 自从坑爹的3TB希捷ST3000DM001突然暴毙，电脑上就只有一个480G的SSD了，这怎么能行呢。SSD肯定是不能做仓库盘的，毕竟还有很多不常用数据不适合放在SSD上，比如下载的电影，音乐，照片，视频教程之类。于是，鉴于历史的教训，我决定买故障率最低的东芝监控盘MD04ABA400V，
   回来装上后发现开机奇慢。于是又折腾了几天几夜。。。
-layout: post
+template: post
 link: http://www.whidy.net/x79-4tb-hdd-boot-slow-gpt-uefi-bug.html
-slug: x79-4tb-hdd-boot-slow-gpt-uefi-bug
+slug: /x79-4tb-hdd-boot-slow-gpt-uefi-bug
 title: X79SR主板安装4TB大容量硬盘后开机奇慢折腾数日小结
 wordpress_id: 3126
-categories:
-- 其它
-- 技术分享
-- 杂谈
+category: '生活'
 ---
 
 自从坑爹的3TB希捷ST3000DM001突然暴毙，电脑上就只有一个480G的SSD了，这怎么能行呢。SSD肯定是不能做仓库盘的，毕竟还有很多不常用数据不适合放在SSD上，比如下载的电影，音乐，照片，视频教程之类。于是，鉴于历史的教训，我决定买故障率最低的东芝监控盘MD04ABA400V， 回来装上后发现开机奇慢。于是又折腾了几天几夜。。。

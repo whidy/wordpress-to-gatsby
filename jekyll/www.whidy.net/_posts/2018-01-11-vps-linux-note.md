@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2018-01-11 01:15:08+00:00
 excerpt: 近日购买了个美国的VPS，为了愉快的查阅资料和关注一些不错的视频，搭了个梯子，自己种番茄，也从此走上了不归路，这是我近期玩VPS的一点点小感想~
-layout: post
+template: post
 link: http://www.whidy.net/vps-linux-note.html
-slug: vps-linux-note
+slug: /vps-linux-note
 title: 购买VPS后折腾小记
 wordpress_id: 3063
-categories:
-- 兴趣
-- 学习日记
+category: '开发'
 tags:
 - 网站
 ---

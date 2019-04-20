@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2016-03-07 03:37:26+00:00
 excerpt: 关于sublime text 3(3103)版本Ctrl+Alt+P无法正常使用,自定义快捷键的设置command实际上就是prompt_select_workspace,解决了此问题
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-3-3103-ctrl-alt-p-cannot-use.html
-slug: sublime-text-3-3103-ctrl-alt-p-cannot-use
+slug: /sublime-text-3-3103-ctrl-alt-p-cannot-use
 title: 关于sublime text 3(3103)版本Ctrl+Alt+P无法正常使用解决办法
 wordpress_id: 2852
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

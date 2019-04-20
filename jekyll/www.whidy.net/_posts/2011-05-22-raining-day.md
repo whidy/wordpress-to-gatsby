@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-05-22 10:34:22+00:00
-layout: post
+template: post
 link: http://www.whidy.net/raining-day.html
-slug: raining-day
+slug: /raining-day
 title: 雨天
 wordpress_id: 427
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

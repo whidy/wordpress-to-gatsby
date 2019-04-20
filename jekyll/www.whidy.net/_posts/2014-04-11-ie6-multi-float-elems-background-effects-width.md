@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-11 13:16:29+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ie6-multi-float-elems-background-effects-width.html
-slug: ie6-multi-float-elems-background-effects-width
+slug: /ie6-multi-float-elems-background-effects-width
 title: 关于IE6行内多个元素浮动背景图对宽度影响
 wordpress_id: 1914
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

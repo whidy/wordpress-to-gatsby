@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2013-04-27 03:31:21+00:00
-layout: post
+template: post
 link: http://www.whidy.net/what-is-friend-and-friendship.html
-slug: what-is-friend-and-friendship
+slug: /what-is-friend-and-friendship
 title: '"论朋友"与大家分享该文,摘自'
 wordpress_id: 1666
-categories:
-- 其它
-- 杂谈
-- 精彩分享
-- 转载收藏
+category: '随想'
 tags:
 - 感想
 ---

@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2010-11-16 14:28:34+00:00
-layout: post
+template: post
 link: http://www.whidy.net/funny-hair.html
-slug: funny-hair
+slug: /funny-hair
 title: ^_^ 卷卷的头发 *_* ---自恋
 wordpress_id: 159
-categories:
-- 兴趣
-- 摄影
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 - 风景

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-15 14:28:27+00:00
-layout: post
+template: post
 link: http://www.whidy.net/snow-photos.html
-slug: snow-photos
+slug: /snow-photos
 title: 雪-随拍
 wordpress_id: 319
-categories:
-- 兴趣
-- 摄影
+category: '摄影'
 tags:
 - 风景
 ---

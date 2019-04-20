@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-11-20 05:51:33+00:00
-layout: post
+template: post
 link: http://www.whidy.net/a-mood-from-trash.html
-slug: a-mood-from-trash
+slug: /a-mood-from-trash
 title: 垃圾桶里捡回来的心情
 wordpress_id: 1024
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 心情
 ---

@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2011-06-24 14:59:23+00:00
-layout: post
+template: post
 link: http://www.whidy.net/listen-to-your-heart-1.html
-slug: listen-to-your-heart-1
+slug: /listen-to-your-heart-1
 title: 听心(一)
 wordpress_id: 449
-categories:
-- 兴趣
-- 其它
-- 杂谈
-- 音乐
+category: '音乐'
 tags:
 - 心情
 ---

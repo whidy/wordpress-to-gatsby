@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-15 02:54:15+00:00
-layout: post
+template: post
 link: http://www.whidy.net/do-not-waste-time.html
-slug: do-not-waste-time
+slug: /do-not-waste-time
 title: 长大了,不要像孩子一样.儿时的回忆之"We are wasting time here."
 wordpress_id: 949
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 心情
 ---

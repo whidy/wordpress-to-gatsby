@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2014-12-24 15:27:42+00:00
 excerpt: 前阵子做WAP端的项目,用到了iScroll插件,结果发现有很多问题,起初并未用多个设备进行测试,以为并没有什么问题,结果进入项目尾声进行测试的时候,竟被这个插件折腾了好几天简直让人抓狂.
-layout: post
+template: post
 link: http://www.whidy.net/iscroll5-double-click-event-solution.html
-slug: iscroll5-double-click-event-solution
+slug: /iscroll5-double-click-event-solution
 title: IScroll的click单击事件变为双击多次触发解决
 wordpress_id: 2628
-categories:
-- IT技术
-- Javascript
+category: '开发'
 tags:
 - 技术
 - 教程

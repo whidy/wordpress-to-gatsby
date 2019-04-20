@@ -2,13 +2,12 @@
 author: whidy
 comments: true
 date: 2014-01-18 14:14:37+00:00
-layout: post
+template: post
 link: http://www.whidy.net/thinking-in-silent-night.html
-slug: thinking-in-silent-night
+slug: /thinking-in-silent-night
 title: 安静之时,难免思考.
 wordpress_id: 1853
-categories:
-- 其它
+category: '其它'
 tags:
 - 心情
 ---

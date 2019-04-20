@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2010-11-26 16:40:24+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-3-1-beta-1-previews.html
-slug: wordpress-3-1-beta-1-previews
+slug: /wordpress-3-1-beta-1-previews
 title: WordPress 3.1 Beta 1 发布
 wordpress_id: 191
-categories:
-- 原创翻译
-- 技术前沿
-- 精彩分享
+category: '新闻'
 tags:
 - wordpress
 - 网站

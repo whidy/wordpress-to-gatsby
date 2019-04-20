@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-08-17 15:05:18+00:00
-layout: post
+template: post
 link: http://www.whidy.net/photography-note-1th.html
-slug: photography-note-1th
+slug: /photography-note-1th
 title: 摄影入门笔记(一)
 wordpress_id: 35
-categories:
-- 兴趣
-- 摄影
+category: '摄影'
 tags:
 - 教程
 ---

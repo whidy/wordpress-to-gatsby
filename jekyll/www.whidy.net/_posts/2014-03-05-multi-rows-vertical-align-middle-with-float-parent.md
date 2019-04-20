@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-03-05 14:57:49+00:00
-layout: post
+template: post
 link: http://www.whidy.net/multi-rows-vertical-align-middle-with-float-parent.html
-slug: multi-rows-vertical-align-middle-with-float-parent
+slug: /multi-rows-vertical-align-middle-with-float-parent
 title: 父级带有浮动的多行文字垂直居中
 wordpress_id: 1869
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

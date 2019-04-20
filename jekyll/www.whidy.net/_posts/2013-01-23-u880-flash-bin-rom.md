@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-01-23 05:49:52+00:00
-layout: post
+template: post
 link: http://www.whidy.net/u880-flash-bin-rom.html
-slug: u880-flash-bin-rom
+slug: /u880-flash-bin-rom
 title: U880线刷bin包的正确顺序
 wordpress_id: 1556
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 手机
 - 技术

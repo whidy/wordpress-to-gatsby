@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-02-22 13:55:41+00:00
-layout: post
+template: post
 link: http://www.whidy.net/my-meizu-mx2-reviews.html
-slug: my-meizu-mx2-reviews
+slug: /my-meizu-mx2-reviews
 title: 我的魅族MX2使用感受
 wordpress_id: 1630
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 手机
 - 技术

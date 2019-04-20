@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-07-28 03:24:33+00:00
-layout: post
+template: post
 link: http://www.whidy.net/train-crash-of-china.html
-slug: train-crash-of-china
+slug: /train-crash-of-china
 title: 动车追尾事件一谈
 wordpress_id: 512
-categories:
-- 其它
-- 杂谈
+category: '随想'
 tags:
 - 感想
 ---

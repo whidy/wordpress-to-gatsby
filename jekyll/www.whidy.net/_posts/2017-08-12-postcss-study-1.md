@@ -3,16 +3,12 @@ author: whidy
 comments: true
 date: 2017-08-12 08:02:13+00:00
 excerpt: 关于我最近学习PostCSS的一些相关心得和总结
-layout: post
+template: post
 link: http://www.whidy.net/postcss-study-1.html
-slug: postcss-study-1
+slug: /postcss-study-1
 title: PostCSS学习指南（一）
 wordpress_id: 2956
-categories:
-- IT技术
-- 技术分享
-- 技术前沿
-- 精彩分享
+category: '音乐'
 tags:
 - nodejs
 - 技术

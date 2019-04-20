@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-18 01:09:50+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-highlight-js-intro.html
-slug: wordpress-highlight-js-intro
+slug: /wordpress-highlight-js-intro
 title: wordpress高亮插件Highlight.js手动添加及使用说明
 wordpress_id: 2429
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

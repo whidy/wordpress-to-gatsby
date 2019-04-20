@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-05-06 13:05:00+00:00
-layout: post
+template: post
 link: http://www.whidy.net/w350etq-k590s-pch-final-easy-cool.html
-slug: w350etq-k590s-pch-final-easy-cool
+slug: /w350etq-k590s-pch-final-easy-cool
 title: W350ETQ(K590S)装双硬盘南桥(PCH)终极简易散热方法
 wordpress_id: 2059
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-05 13:53:08+00:00
-layout: post
+template: post
 link: http://www.whidy.net/google-disconnected.html
-slug: google-disconnected
+slug: /google-disconnected
 title: wordpress默认主题引用google fonts导致访问速度过慢解决
 wordpress_id: 2411
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

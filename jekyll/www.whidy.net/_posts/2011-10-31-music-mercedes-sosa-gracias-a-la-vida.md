@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-10-31 11:00:45+00:00
-layout: post
+template: post
 link: http://www.whidy.net/music-mercedes-sosa-gracias-a-la-vida.html
-slug: music-mercedes-sosa-gracias-a-la-vida
+slug: /music-mercedes-sosa-gracias-a-la-vida
 title: '[好歌推荐]Mercedes Sosa - Gracias A La Vida'
 wordpress_id: 594
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

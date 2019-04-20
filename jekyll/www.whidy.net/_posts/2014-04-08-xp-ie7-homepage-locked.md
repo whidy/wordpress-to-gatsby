@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-08 13:15:19+00:00
-layout: post
+template: post
 link: http://www.whidy.net/xp-ie7-homepage-locked.html
-slug: xp-ie7-homepage-locked
+slug: /xp-ie7-homepage-locked
 title: XP下IE7浏览器主页总是微软网站无法锁定无法修改!!!
 wordpress_id: 1892
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

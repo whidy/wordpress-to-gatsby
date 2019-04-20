@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-12 07:30:29+00:00
-layout: post
+template: post
 link: http://www.whidy.net/home-before.html
-slug: home-before
+slug: /home-before
 title: 家ed
 wordpress_id: 253
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

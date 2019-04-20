@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-07-14 11:11:45+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-comments-area-add-smilies-ico.html
-slug: wordpress-comments-area-add-smilies-ico
+slug: /wordpress-comments-area-add-smilies-ico
 title: wordpress评论区域下方添加表情图标方法
 wordpress_id: 888
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

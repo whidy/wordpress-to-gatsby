@@ -2,13 +2,12 @@
 author: whidy
 comments: true
 date: 2014-11-13 15:13:23+00:00
-layout: post
+template: post
 link: http://www.whidy.net/css-css3-selector-summary.html
-slug: css-css3-selector-summary
+slug: /css-css3-selector-summary
 title: 是时候总结一下常用css选择器(包含CSS3)
 wordpress_id: 2608
-categories:
-- IT技术
+category: '开发'
 ---
 
 发觉CSS选择器用的实在是太平凡了...一直犹豫国内大量使用IE,致使很多初级前端开发人员对于很多CSS3的选择器比较陌生,这里我参考各方的文档及相关经验来总结一下CSS选择器的相关知识.

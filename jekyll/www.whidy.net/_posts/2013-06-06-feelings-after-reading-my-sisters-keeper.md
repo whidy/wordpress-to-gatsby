@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-06-06 02:40:05+00:00
-layout: post
+template: post
 link: http://www.whidy.net/feelings-after-reading-my-sisters-keeper.html
-slug: feelings-after-reading-my-sisters-keeper
+slug: /feelings-after-reading-my-sisters-keeper
 title: 读有感
 wordpress_id: 1690
-categories:
-- 文学
-- 杂谈
+category: '生活'
 tags:
 - 感想
 ---

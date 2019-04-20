@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-01 13:03:16+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ken-blocks-gymkhana-5-hd-1080p.html
-slug: ken-blocks-gymkhana-5-hd-1080p
+slug: /ken-blocks-gymkhana-5-hd-1080p
 title: KEN BLOCK'S GYMKHANA FIVE 玩转旧金山漂移高清视频分享HD
 wordpress_id: 1239
-categories:
-- 精彩分享
-- 视频精选
+category: '视频'
 tags:
 - 下载
 ---

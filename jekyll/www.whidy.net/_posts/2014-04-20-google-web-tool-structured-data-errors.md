@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-20 05:34:08+00:00
-layout: post
+template: post
 link: http://www.whidy.net/google-web-tool-structured-data-errors.html
-slug: google-web-tool-structured-data-errors
+slug: /google-web-tool-structured-data-errors
 title: 谷歌站长工具结构化数据错误提示修正方法
 wordpress_id: 1995
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 教程

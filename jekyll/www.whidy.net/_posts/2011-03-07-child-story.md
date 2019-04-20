@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2011-03-07 16:08:51+00:00
-layout: post
+template: post
 link: http://www.whidy.net/child-story.html
-slug: child-story
+slug: /child-story
 title: 童画
 wordpress_id: 422
-categories:
-- 杂谈
-- 爱情
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

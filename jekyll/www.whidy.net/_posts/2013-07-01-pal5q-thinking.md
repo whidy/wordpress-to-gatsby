@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-07-01 02:40:49+00:00
-layout: post
+template: post
 link: http://www.whidy.net/pal5q-thinking.html
-slug: pal5q-thinking
+slug: /pal5q-thinking
 title: 仙剑奇侠传五前传之感想
 wordpress_id: 1717
-categories:
-- 其它
-- 杂谈
+category: '游戏'
 tags:
 - 心情
 - 感想

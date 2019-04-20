@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-05-05 15:04:40+00:00
-layout: post
+template: post
 link: http://www.whidy.net/childbox-hide-parentbox.html
-slug: childbox-hide-parentbox
+slug: /childbox-hide-parentbox
 title: 子级元素如何覆盖父级元素之边框颜色的遮盖应用
 wordpress_id: 2046
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

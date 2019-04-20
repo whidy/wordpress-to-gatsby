@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2018-07-31 01:13:33+00:00
 excerpt: 笔记本W350ET(K590S)无法正常启动，开机反复闪灯，随机时长开机，一开始挺快的只要几分钟，能忍，后来甚至要半小时才能开机，无奈去修。原来是刷BIOS就可以解决了。
-layout: post
+template: post
 link: http://www.whidy.net/w350et-k590s-can-not-boot-with-hdd-graphic-light-blink.html
-slug: w350et-k590s-can-not-boot-with-hdd-graphic-light-blink
+slug: /w350et-k590s-can-not-boot-with-hdd-graphic-light-blink
 title: W350ET(K590S)无法正常启动(显卡灯和硬盘灯交替闪烁)故障处理
 wordpress_id: 3185
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 感想
 - 技术

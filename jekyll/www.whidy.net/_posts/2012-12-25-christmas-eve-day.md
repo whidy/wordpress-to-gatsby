@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-25 02:37:58+00:00
-layout: post
+template: post
 link: http://www.whidy.net/christmas-eve-day.html
-slug: christmas-eve-day
+slug: /christmas-eve-day
 title: 平安夜,圣诞节的一天
 wordpress_id: 1516
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

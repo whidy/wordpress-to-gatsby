@@ -2,13 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-13 12:44:14+00:00
-layout: post
+template: post
 link: http://www.whidy.net/debugbar-without-key-without-limit.html
-slug: debugbar-without-key-without-limit
+slug: /debugbar-without-key-without-limit
 title: debugbar无需注册码无限使用办法
 wordpress_id: 1931
-categories:
-- 其它
+category: '软件'
 tags:
 - 技术
 - 教程

@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2014-07-26 16:35:07+00:00
-layout: post
+template: post
 link: http://www.whidy.net/night-mountain.html
-slug: night-mountain
+slug: /night-mountain
 title: 山夜
 wordpress_id: 2577
-categories:
-- 文学
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 - 感想

@@ -2,15 +2,12 @@
 author: whidy
 comments: false
 date: 2014-07-06 12:42:07+00:00
-layout: post
+template: post
 link: http://www.whidy.net/move-house.html
-slug: move-house
+slug: /move-house
 title: 搬家留念
 wordpress_id: 2560
-categories:
-- 其它
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

@@ -4,16 +4,12 @@ comments: true
 date: 2018-04-07 10:29:31+00:00
 excerpt: 作为一名爱瞎折腾的前端来说, 学会使用MacOSX, 或许是有必要的, 于是想着去买一台MBP, 可是无奈电脑太多, 不想再添置, 于是把我的神级Clevo W350ETQ(也是神舟后来出的K590S)忍痛的挂在了闲鱼上,
   自己一直保养很好, 后来怒加4G条子和SSD, 所以卖的比一般的二手贵, 无人识相, 遂继续自用.
-layout: post
+template: post
 link: http://www.whidy.net/w350etq-k590s-install-hackintosh-macos-high-sierra-summary.html
-slug: w350etq-k590s-install-hackintosh-macos-high-sierra-summary
+slug: /w350etq-k590s-install-hackintosh-macos-high-sierra-summary
 title: Clevo W350ETQ(神舟K590S)安装黑苹果10.13总结
 wordpress_id: 3133
-categories:
-- IT技术
-- 其它
-- 技术分享
-- 杂谈
+category: '生活'
 tags:
 - 下载
 - 技术

@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2014-12-15 14:34:52+00:00
 excerpt: 十月底终于狠心买了个kindle voyage电子阅读器,2000块钱的阅读器对我来说是很奢侈的.因为我压根并不是一个读书爱好者,只是出于期望自己不要像个文盲一样,以后能看更多书籍的初心,买了下来,
-layout: post
+template: post
 link: http://www.whidy.net/amazon-kindle-voyage-reviews.html
-slug: amazon-kindle-voyage-reviews
+slug: /amazon-kindle-voyage-reviews
 title: 国行KindleVoyage小玩有感
 wordpress_id: 2659
-categories:
-- 兴趣
-- 评测
+category: '评测'
 tags:
 - 技术
 ---

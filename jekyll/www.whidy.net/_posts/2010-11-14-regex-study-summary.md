@@ -2,15 +2,12 @@
 author: whidy
 comments: false
 date: 2010-11-14 09:11:03+00:00
-layout: post
+template: post
 link: http://www.whidy.net/regex-study-summary.html
-slug: regex-study-summary
+slug: /regex-study-summary
 title: 正则表达式学习总结(表单验证)
 wordpress_id: 128
-categories:
-- IT技术
-- Javascript
-- 技术分享
+category: '编程'
 tags:
 - 网站
 - 表单

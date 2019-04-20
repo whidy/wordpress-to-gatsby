@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-06-14 14:47:37+00:00
-layout: post
+template: post
 link: http://www.whidy.net/htpc-graphic-card-with-8-channel.html
-slug: htpc-graphic-card-with-8-channel
+slug: /htpc-graphic-card-with-8-channel
 title: HTPC显卡选购(HDMI接口支持TrueHD,LPCM等7.1声道等)
 wordpress_id: 819
-categories:
-- IT技术
-- 兴趣
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

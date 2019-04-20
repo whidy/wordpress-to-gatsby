@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-10 12:29:09+00:00
-layout: post
+template: post
 link: http://www.whidy.net/clevo-w350etq-bios-ec-flash.html
-slug: clevo-w350etq-bios-ec-flash
+slug: /clevo-w350etq-bios-ec-flash
 title: Clevo W350ETQ 刷BIOS和EC图文详细教程
 wordpress_id: 1427
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

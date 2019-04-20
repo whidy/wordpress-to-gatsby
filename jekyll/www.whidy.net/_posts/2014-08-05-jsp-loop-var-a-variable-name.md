@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-08-05 02:22:42+00:00
-layout: post
+template: post
 link: http://www.whidy.net/jsp-loop-var-a-variable-name.html
-slug: jsp-loop-var-a-variable-name
+slug: /jsp-loop-var-a-variable-name
 title: JSP循环中为变量名赋值一个变量名?
 wordpress_id: 2570
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - JSTL
 - 技术

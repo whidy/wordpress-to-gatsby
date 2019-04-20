@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-06-09 02:40:18+00:00
-layout: post
+template: post
 link: http://www.whidy.net/whidy-was-fooled.html
-slug: whidy-was-fooled
+slug: /whidy-was-fooled
 title: 初见网友小记
 wordpress_id: 1697
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 心情
 - 感想

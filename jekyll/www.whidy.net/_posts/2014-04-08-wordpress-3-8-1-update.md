@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-08 16:11:07+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-3-8-1-update.html
-slug: wordpress-3-8-1-update
+slug: /wordpress-3-8-1-update
 title: wordpress更新到了3.8.1,后台变化十分大!
 wordpress_id: 1908
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

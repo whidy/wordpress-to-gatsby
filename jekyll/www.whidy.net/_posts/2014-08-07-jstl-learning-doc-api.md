@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-08-07 02:09:07+00:00
-layout: post
+template: post
 link: http://www.whidy.net/jstl-learning-doc-api.html
-slug: jstl-learning-doc-api
+slug: /jstl-learning-doc-api
 title: JSTL相关资料手册打包学习及研究
 wordpress_id: 2581
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - JSTL
 - 下载

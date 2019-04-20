@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-05-31 01:46:03+00:00
-layout: post
+template: post
 link: http://www.whidy.net/cenda-m100-reviews.html
-slug: cenda-m100-reviews
+slug: /cenda-m100-reviews
 title: 力杰M100移动电源使用简单评测
 wordpress_id: 1686
-categories:
-- 兴趣
-- 评测
+category: '评测'
 tags:
 - 手机
 - 技术

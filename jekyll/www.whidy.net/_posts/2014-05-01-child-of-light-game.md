@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-05-01 15:15:38+00:00
-layout: post
+template: post
 link: http://www.whidy.net/child-of-light-game.html
-slug: child-of-light-game
+slug: /child-of-light-game
 title: 强烈推荐游戏一部
 wordpress_id: 2037
-categories:
-- 精彩分享
-- 转载收藏
+category: '游戏'
 tags:
 - 下载
 - 感想

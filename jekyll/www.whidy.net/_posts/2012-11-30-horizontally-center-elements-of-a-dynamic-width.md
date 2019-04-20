@@ -2,17 +2,12 @@
 author: whidy
 comments: true
 date: 2012-11-30 02:05:25+00:00
-layout: post
+template: post
 link: http://www.whidy.net/horizontally-center-elements-of-a-dynamic-width.html
-slug: horizontally-center-elements-of-a-dynamic-width
+slug: /horizontally-center-elements-of-a-dynamic-width
 title: 如何让元素水平居中于动态宽度页面或容器中
 wordpress_id: 1167
-categories:
-- CSS
-- HTML
-- IT技术
-- 原创翻译
-- 精彩分享
+category: '音乐'
 tags:
 - 技术
 - 教程

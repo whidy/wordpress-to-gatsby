@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-04-28 06:06:32+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-keywords-search-problem.html
-slug: phpcms-keywords-search-problem
+slug: /phpcms-keywords-search-problem
 title: PHPCMS无法搜索文章内容中的关键字解决
 wordpress_id: 679
-categories:
-- IT技术
-- Phpcms
-- 设计相关
+category: '开发'
 tags:
 - 技术
 - 网站

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-07-09 13:18:45+00:00
-layout: post
+template: post
 link: http://www.whidy.net/st-st3000dm001-cc4b-cc4h-fireware-update.html
-slug: st-st3000dm001-cc4b-cc4h-fireware-update
+slug: /st-st3000dm001-cc4b-cc4h-fireware-update
 title: 希捷3T硬盘ST3000DM001,CC4B升级固件至CC4H解决咔咔噪音办法
 wordpress_id: 875
-categories:
-- 兴趣
-- 评测
+category: '评测'
 tags:
 - 技术
 - 教程

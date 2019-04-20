@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-05-29 12:10:28+00:00
-layout: post
+template: post
 link: http://www.whidy.net/talk-about-what-is-web-designer.html
-slug: talk-about-what-is-web-designer
+slug: /talk-about-what-is-web-designer
 title: 何谓设计师略谈
 wordpress_id: 296
-categories:
-- 精彩分享
-- 转载收藏
+category: '随想'
 tags:
 - photoshop
 - 感想

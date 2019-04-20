@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-30 16:39:44+00:00
-layout: post
+template: post
 link: http://www.whidy.net/emotion-in-poem-1.html
-slug: emotion-in-poem-1
+slug: /emotion-in-poem-1
 title: 寄情于诗(一)
 wordpress_id: 373
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 心情
 ---

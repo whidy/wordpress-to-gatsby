@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2014-05-18 09:46:33+00:00
-layout: post
+template: post
 link: http://www.whidy.net/wordpress-po-and-mo-modified-tourist.html
-slug: wordpress-po-and-mo-modified-tourist
+slug: /wordpress-po-and-mo-modified-tourist
 title: WORDPRESS自定义模板后的PO文本翻译修改以及MO修改教程
 wordpress_id: 2186
-categories:
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2011-07-18 14:18:21+00:00
-layout: post
+template: post
 link: http://www.whidy.net/android-phone-optimize.html
-slug: android-phone-optimize
+slug: /android-phone-optimize
 title: android手机性能优化
 wordpress_id: 504
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 手机
 - 技术

@@ -2,14 +2,12 @@
 author: amo
 comments: true
 date: 2013-09-21 01:02:35+00:00
-layout: post
+template: post
 link: http://www.whidy.net/location-of-wordpress-functionprototype.html
-slug: location-of-wordpress-functionprototype
+slug: /location-of-wordpress-functionprototype
 title: wordpress函数原型的位置
 wordpress_id: 1762
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - wordpress
 - 技术

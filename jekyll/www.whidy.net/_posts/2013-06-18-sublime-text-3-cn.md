@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2013-06-18 08:39:14+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-3-cn.html
-slug: sublime-text-3-cn
+slug: /sublime-text-3-cn
 title: Sublime Text 3 中文优化版更新下载了(最后更新2014.9)
 wordpress_id: 1705
-categories:
-- 技术前沿
-- 精彩分享
-- 转载收藏
+category: '软件'
 tags:
 - sublime text
 - 下载

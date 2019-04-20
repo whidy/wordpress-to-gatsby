@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-12 13:44:36+00:00
-layout: post
+template: post
 link: http://www.whidy.net/jsfiddle-forbidden.html
-slug: jsfiddle-forbidden
+slug: /jsfiddle-forbidden
 title: jsfiddle网站被封,大量日志重新修改
 wordpress_id: 2446
-categories:
-- 其它
-- 杂谈
+category: '生活'
 tags:
 - 网站
 ---

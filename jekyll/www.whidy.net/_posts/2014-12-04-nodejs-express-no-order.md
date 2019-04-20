@@ -2,13 +2,12 @@
 author: amo
 comments: true
 date: 2014-12-04 13:50:29+00:00
-layout: post
+template: post
 link: http://www.whidy.net/nodejs-express-no-order.html
-slug: nodejs-express-no-order
+slug: /nodejs-express-no-order
 title: 安装express后验证显示没有相应命令
 wordpress_id: 2654
-categories:
-- Javascript
+category: '开发'
 ---
 
 要总结什么规律，想自己写点东西出来，但是java的东西，公司已经限定死了，不使用优秀的开源框架，前端的js是不限制的，发现nodejs可以使用来开发后台的东西，直接操作文件也是可以的，于是就想使用nodejs来写。

@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-10 15:04:26+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ie6-arial-double-quote.html
-slug: ie6-arial-double-quote
+slug: /ie6-arial-double-quote
 title: 一个小小的双引号引发的思考-XP内IE下的字体(上)
 wordpress_id: 1899
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

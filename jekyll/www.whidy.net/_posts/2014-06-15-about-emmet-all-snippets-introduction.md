@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-15 14:23:02+00:00
-layout: post
+template: post
 link: http://www.whidy.net/about-emmet-all-snippets-introduction.html
-slug: about-emmet-all-snippets-introduction
+slug: /about-emmet-all-snippets-introduction
 title: 关于Emmet自带的全部snippets简单介绍
 wordpress_id: 2432
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - 技术

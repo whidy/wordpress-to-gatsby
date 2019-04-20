@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-30 14:51:42+00:00
-layout: post
+template: post
 link: http://www.whidy.net/git-for-windows-github-synchronization.html
-slug: git-for-windows-github-synchronization
+slug: /git-for-windows-github-synchronization
 title: 如何使用git for windows与github同步数据
 wordpress_id: 2017
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

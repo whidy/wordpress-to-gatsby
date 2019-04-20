@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-10 06:29:19+00:00
-layout: post
+template: post
 link: http://www.whidy.net/jq-more-demo.html
-slug: jq-more-demo
+slug: /jq-more-demo
 title: 利用jQuery点击显示更多元素演示代码
 wordpress_id: 1431
-categories:
-- IT技术
-- jQuery
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

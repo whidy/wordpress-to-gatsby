@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-12-02 09:21:35+00:00
-layout: post
+template: post
 link: http://www.whidy.net/jason-mraz-im-yours.html
-slug: jason-mraz-im-yours
+slug: /jason-mraz-im-yours
 title: '[好歌推荐]Jason Mraz – I''m Yours'
 wordpress_id: 1838
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-28 15:27:31+00:00
-layout: post
+template: post
 link: http://www.whidy.net/g2-boot-movie.html
-slug: g2-boot-movie
+slug: /g2-boot-movie
 title: CM6.1-12-24刷机开机动画
 wordpress_id: 366
-categories:
-- 兴趣
-- 视频精选
+category: '分享'
 tags:
 - 手机
 ---

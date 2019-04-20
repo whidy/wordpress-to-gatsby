@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2014-10-31 03:46:49+00:00
-layout: post
+template: post
 link: http://www.whidy.net/css3-arrows-summary.html
-slug: css3-arrows-summary
+slug: /css3-arrows-summary
 title: 通过CSS3制作页面折角箭头的方法总结
 wordpress_id: 2611
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

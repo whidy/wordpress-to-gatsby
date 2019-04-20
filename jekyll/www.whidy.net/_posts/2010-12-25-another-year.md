@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2010-12-25 19:23:57+00:00
-layout: post
+template: post
 link: http://www.whidy.net/another-year.html
-slug: another-year
+slug: /another-year
 title: 又是一年
 wordpress_id: 364
-categories:
-- 其它
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 ---

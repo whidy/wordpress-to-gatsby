@@ -5,17 +5,12 @@ date: 2018-04-21 16:10:20+00:00
 excerpt: '看到一篇Implementing an Infinite Scroll with Vue.js, 觉得挺实用的就看了下, 顺便简单翻译了一下给需要的人参考.
 
   从这个项目中可以加深对Vue的生命周期的理解, 何时开始axios请求, 如何结合Vue使用原生js来写scroll事件等等, 我这里主要是对原文的重点提取和补充'
-layout: post
+template: post
 link: http://www.whidy.net/infinite-scroll-vuejs-demo.html
-slug: infinite-scroll-vuejs-demo
+slug: /infinite-scroll-vuejs-demo
 title: Vue下滚动到页面底部无限加载数据Demo
 wordpress_id: 3143
-categories:
-- IT技术
-- Javascript
-- 原创翻译
-- 技术分享
-- 精彩分享
+category: '音乐'
 tags:
 - VSCode
 - 技术

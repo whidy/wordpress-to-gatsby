@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-11-29 08:57:55+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-v9-update-comment-error.html
-slug: phpcms-v9-update-comment-error
+slug: /phpcms-v9-update-comment-error
 title: phpcms V9更新到最新后评论审核出错解决方法
 wordpress_id: 1148
-categories:
-- IT技术
-- Phpcms
+category: '开发'
 tags:
 - 网站
 ---

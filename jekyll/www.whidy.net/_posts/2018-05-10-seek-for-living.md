@@ -3,14 +3,12 @@ author: whidy
 comments: true
 date: 2018-05-10 14:19:59+00:00
 excerpt: 不要找中介。就算找一定不要留电话，打死不给。爱带看房不带！看完房他开了个价不接受就不要被他怂恿还能和业主谈谈了。没诚意！否则坑会越陷越深！
-layout: post
+template: post
 link: http://www.whidy.net/seek-for-living.html
-slug: seek-for-living
+slug: /seek-for-living
 title: 中介找房小记
 wordpress_id: 3148
-categories:
-- 杂谈
-- 生活
+category: '生活'
 tags:
 - 心情
 - 感想

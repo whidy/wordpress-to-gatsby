@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2013-10-19 12:14:03+00:00
-layout: post
+template: post
 link: http://www.whidy.net/les-miserables-2013-and-25th-concert.html
-slug: les-miserables-2013-and-25th-concert
+slug: /les-miserables-2013-and-25th-concert
 title: 悲惨世界电影及25周年纪念演唱会1080P资源分享
 wordpress_id: 1798
-categories:
-- 文学
-- 杂谈
-- 精彩分享
-- 视频精选
+category: '视频'
 tags:
 - 下载
 - 好歌

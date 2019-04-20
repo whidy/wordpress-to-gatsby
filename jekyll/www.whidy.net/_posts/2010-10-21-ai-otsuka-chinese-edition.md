@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-10-21 11:18:38+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ai-otsuka-chinese-edition.html
-slug: ai-otsuka-chinese-edition
+slug: /ai-otsuka-chinese-edition
 title: 大冢爱中文版
 wordpress_id: 115
-categories:
-- 兴趣
-- 音乐
+category: '音乐'
 tags:
 - 下载
 - 心情

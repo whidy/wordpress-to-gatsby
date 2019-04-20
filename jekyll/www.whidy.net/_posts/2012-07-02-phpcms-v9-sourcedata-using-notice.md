@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-07-02 03:26:21+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-v9-sourcedata-using-notice.html
-slug: phpcms-v9-sourcedata-using-notice
+slug: /phpcms-v9-sourcedata-using-notice
 title: PHPCMS数据源功能使用注意事项
 wordpress_id: 851
-categories:
-- IT技术
-- Phpcms
+category: '开发'
 tags:
 - 技术
 ---

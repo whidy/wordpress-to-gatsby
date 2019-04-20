@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-24 03:26:10+00:00
-layout: post
+template: post
 link: http://www.whidy.net/music-lisa-ekdahl-the-color-of-you.html
-slug: music-lisa-ekdahl-the-color-of-you
+slug: /music-lisa-ekdahl-the-color-of-you
 title: '[好歌推荐]Lisa Ekdahl – The Color Of You'
 wordpress_id: 984
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

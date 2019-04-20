@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-04-21 14:49:11+00:00
-layout: post
+template: post
 link: http://www.whidy.net/sublime-text-sftp-connection-timeout.html
-slug: sublime-text-sftp-connection-timeout
+slug: /sublime-text-sftp-connection-timeout
 title: sublime text的插件SFTP连接超时
 wordpress_id: 2000
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - sublime text
 - wordpress

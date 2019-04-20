@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-11 13:13:43+00:00
-layout: post
+template: post
 link: http://www.whidy.net/edifier-r1200tii-reviews.html
-slug: edifier-r1200tii-reviews
+slug: /edifier-r1200tii-reviews
 title: 漫步者R1200TII简评(EQ调节增强听感)
 wordpress_id: 2430
-categories:
-- 兴趣
-- 评测
+category: '评测'
 tags:
 - 技术
 - 教程

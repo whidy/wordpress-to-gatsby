@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-10-28 11:22:55+00:00
-layout: post
+template: post
 link: http://www.whidy.net/w350etq-bios-ec-download-share.html
-slug: w350etq-bios-ec-download-share
+slug: /w350etq-bios-ec-download-share
 title: W350ETQ最新BIOS和EC下载分享(2013.9)
 wordpress_id: 1810
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 下载
 - 技术

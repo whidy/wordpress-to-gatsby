@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2012-12-18 12:30:47+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ssd-ocz-vertex4-reviews-performance.html
-slug: ssd-ocz-vertex4-reviews-performance
+slug: /ssd-ocz-vertex4-reviews-performance
 title: 固态硬盘OCZ Vertex4评测之性能篇
 wordpress_id: 1510
-categories:
-- IT技术
-- 兴趣
-- 技术分享
-- 评测
+category: '评测'
 tags:
 - 技术
 ---

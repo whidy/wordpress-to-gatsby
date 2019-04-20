@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-14 14:21:59+00:00
-layout: post
+template: post
 link: http://www.whidy.net/css-font-size.html
-slug: css-font-size
+slug: /css-font-size
 title: 默认css字体大小单位及样式研究
 wordpress_id: 748
-categories:
-- CSS
-- IT技术
-- 设计相关
+category: '开发'
 tags:
 - 技术
 ---

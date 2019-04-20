@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2010-09-18 04:24:17+00:00
-layout: post
+template: post
 link: http://www.whidy.net/dreamweaver-cs5-new-features-introduce.html
-slug: dreamweaver-cs5-new-features-introduce
+slug: /dreamweaver-cs5-new-features-introduce
 title: Dreamweaver CS5 新功能学习有感
 wordpress_id: 76
-categories:
-- IT技术
-- 技术分享
+category: '软件'
 tags:
 - 技术
 - 网站

@@ -3,16 +3,12 @@ author: whidy
 comments: true
 date: 2015-01-04 13:37:56+00:00
 excerpt: 今天要说的是我才发现的一个BUG.关于魅族手机MX2,MX3(其他机型未测试),固件版本均为3.7.3A稳定版原生浏览器,在测试页面的字体大小样式时无效,
-layout: post
+template: post
 link: http://www.whidy.net/mx-browser-font-size-bug.html
-slug: mx-browser-font-size-bug
+slug: /mx-browser-font-size-bug
 title: 魅族手机MX2原生浏览器字体大小问题
 wordpress_id: 2679
-categories:
-- CSS
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 手机
 - 技术

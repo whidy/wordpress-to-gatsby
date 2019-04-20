@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-08-12 08:14:11+00:00
-layout: post
+template: post
 link: http://www.whidy.net/xianjian-ol-solution.html
-slug: xianjian-ol-solution
+slug: /xianjian-ol-solution
 title: 新仙剑OL网吧无法正常运行解决方法之一
 wordpress_id: 1751
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

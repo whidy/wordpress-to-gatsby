@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-05-16 14:22:39+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-installation-introduce-and-notice.html
-slug: phpcms-installation-introduce-and-notice
+slug: /phpcms-installation-introduce-and-notice
 title: PHPCMS V9安装步骤详细介绍及说明(有效避免乱码产生)
 wordpress_id: 769
-categories:
-- IT技术
-- Phpcms
+category: '开发'
 tags:
 - 技术
 - 网站

@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-02 01:40:22+00:00
-layout: post
+template: post
 link: http://www.whidy.net/music-matthew-barber-and-you-give.html
-slug: music-matthew-barber-and-you-give
+slug: /music-matthew-barber-and-you-give
 title: '[好歌推荐]Matthew Barber – And You Give'
 wordpress_id: 929
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

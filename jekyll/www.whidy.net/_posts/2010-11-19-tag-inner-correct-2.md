@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2010-11-19 12:23:46+00:00
-layout: post
+template: post
 link: http://www.whidy.net/tag-inner-correct-2.html
-slug: tag-inner-correct-2
+slug: /tag-inner-correct-2
 title: js修改标签内内容(下)
 wordpress_id: 170
-categories:
-- IT技术
-- Javascript
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

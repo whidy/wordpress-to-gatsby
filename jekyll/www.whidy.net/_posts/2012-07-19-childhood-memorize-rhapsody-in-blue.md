@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2012-07-19 11:20:22+00:00
-layout: post
+template: post
 link: http://www.whidy.net/childhood-memorize-rhapsody-in-blue.html
-slug: childhood-memorize-rhapsody-in-blue
+slug: /childhood-memorize-rhapsody-in-blue
 title: 儿时的回忆之格什温有感
 wordpress_id: 904
-categories:
-- 兴趣
-- 好歌推荐
-- 精彩分享
-- 音乐
+category: '音乐'
 tags:
 - 好歌
 - 心情

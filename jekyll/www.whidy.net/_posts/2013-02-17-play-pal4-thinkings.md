@@ -2,16 +2,12 @@
 author: whidy
 comments: true
 date: 2013-02-17 11:33:07+00:00
-layout: post
+template: post
 link: http://www.whidy.net/play-pal4-thinkings.html
-slug: play-pal4-thinkings
+slug: /play-pal4-thinkings
 title: 仙剑奇侠传四再次游戏有感
 wordpress_id: 1627
-categories:
-- 其它
-- 杂谈
-- 精彩分享
-- 转载收藏
+category: '游戏'
 tags:
 - 感想
 ---

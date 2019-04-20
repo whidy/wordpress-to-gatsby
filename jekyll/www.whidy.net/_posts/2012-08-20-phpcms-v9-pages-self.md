@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2012-08-20 08:49:42+00:00
-layout: post
+template: post
 link: http://www.whidy.net/phpcms-v9-pages-self.html
-slug: phpcms-v9-pages-self
+slug: /phpcms-v9-pages-self
 title: PHPCMS V9修改分页函数在当前页面翻页
 wordpress_id: 961
-categories:
-- IT技术
-- Phpcms
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 网站

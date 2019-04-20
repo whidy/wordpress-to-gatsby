@@ -3,17 +3,12 @@ author: whidy
 comments: true
 date: 2015-01-07 06:44:31+00:00
 excerpt: 之前写了一篇元素到网页顶部距离计算方法，其实分明有更好的方法，例如这个方法就不需要写那么复杂的循环了，这里再次总结一下。
-layout: post
+template: post
 link: http://www.whidy.net/%e9%a1%b5%e9%9d%a2%e5%86%85%e6%9f%90%e5%85%83%e7%b4%a0%e5%88%b0%e6%96%87%e6%a1%a3%e9%a1%b6%e9%83%a8%e7%9a%84%e8%b7%9d%e7%a6%bb%e8%ae%a1%e7%ae%97.html
-slug: '%e9%a1%b5%e9%9d%a2%e5%86%85%e6%9f%90%e5%85%83%e7%b4%a0%e5%88%b0%e6%96%87%e6%a1%a3%e9%a1%b6%e9%83%a8%e7%9a%84%e8%b7%9d%e7%a6%bb%e8%ae%a1%e7%ae%97'
+slug: /distance-of-element-to-site-top-value-2
 title: 页面内某元素到文档顶部的距离计算
 wordpress_id: 2693
-categories:
-- CSS
-- HTML
-- IT技术
-- Javascript
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程

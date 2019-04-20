@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-07-08 04:21:14+00:00
-layout: post
+template: post
 link: http://www.whidy.net/ssk-16g-usb3-reviews.html
-slug: ssk-16g-usb3-reviews
+slug: /ssk-16g-usb3-reviews
 title: 飚王SSK锐锋U盘(SFD201)16G详细评测
 wordpress_id: 858
-categories:
-- 兴趣
-- 评测
+category: '评测'
 tags:
 - 技术
 ---

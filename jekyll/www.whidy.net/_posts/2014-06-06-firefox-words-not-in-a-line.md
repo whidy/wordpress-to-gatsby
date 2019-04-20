@@ -2,15 +2,12 @@
 author: whidy
 comments: true
 date: 2014-06-06 03:10:29+00:00
-layout: post
+template: post
 link: http://www.whidy.net/firefox-words-not-in-a-line.html
-slug: firefox-words-not-in-a-line
+slug: /firefox-words-not-in-a-line
 title: 关于火狐的文字换行问题思考
 wordpress_id: 2418
-categories:
-- HTML
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 ---

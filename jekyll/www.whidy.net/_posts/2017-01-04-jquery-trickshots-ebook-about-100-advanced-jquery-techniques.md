@@ -2,17 +2,12 @@
 author: whidy
 comments: true
 date: 2017-01-04 05:57:28+00:00
-layout: post
+template: post
 link: http://www.whidy.net/jquery-trickshots-ebook-about-100-advanced-jquery-techniques.html
-slug: jquery-trickshots-ebook-about-100-advanced-jquery-techniques
+slug: /jquery-trickshots-ebook-about-100-advanced-jquery-techniques
 title: jQuery Trickshots来自Tutorialzine的一本关于100个高级jQuery技术书籍分享
 wordpress_id: 2898
-categories:
-- IT技术
-- jQuery
-- 技术分享
-- 精彩分享
-- 转载收藏
+category: '开发'
 tags:
 - 下载
 - 技术

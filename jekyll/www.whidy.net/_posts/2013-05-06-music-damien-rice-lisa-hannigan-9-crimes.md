@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2013-05-06 04:49:49+00:00
-layout: post
+template: post
 link: http://www.whidy.net/music-damien-rice-lisa-hannigan-9-crimes.html
-slug: music-damien-rice-lisa-hannigan-9-crimes
+slug: /music-damien-rice-lisa-hannigan-9-crimes
 title: '[好歌推荐]Damien Rice&Lisa Hannigan – 9 Crimes'
 wordpress_id: 1672
-categories:
-- 好歌推荐
-- 精彩分享
+category: '音乐'
 tags:
 - 好歌
 ---

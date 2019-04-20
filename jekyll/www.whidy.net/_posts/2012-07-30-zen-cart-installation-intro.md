@@ -2,14 +2,12 @@
 author: whidy
 comments: true
 date: 2012-07-30 06:16:18+00:00
-layout: post
+template: post
 link: http://www.whidy.net/zen-cart-installation-intro.html
-slug: zen-cart-installation-intro
+slug: /zen-cart-installation-intro
 title: Zen Cart 1.5 图文安装过程全说明
 wordpress_id: 907
-categories:
-- IT技术
-- 技术分享
+category: '开发'
 tags:
 - 技术
 - 教程
