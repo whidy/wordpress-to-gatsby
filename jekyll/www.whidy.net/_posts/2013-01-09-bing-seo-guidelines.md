@@ -17,7 +17,7 @@ tags:
 
 在大多数时候，我们都是以百度和Google作为搜索引擎优化对象的，根据bing官方的一篇博文"[Bing Webmaster Guidelines](http://www.bing.com/webmaster/help/webmaster-guidelines-30fba23a)"，我们可以知道，不管是针对哪一种搜索引擎，有90%以上的SEO优化操作过程都是一样的，而剩下的10%则是搜索引擎比较喜欢参考哪些网站资源而已了。
 
-![BING的搜索引擎优化](http://www.whidy.net/wp-content/uploads/2013/01/bing-400x238.jpg)
+![BING的搜索引擎优化](https://www.whidy.net/wp-content/uploads/2013/01/bing-400x238.jpg)
 
 <!-- more -->
 

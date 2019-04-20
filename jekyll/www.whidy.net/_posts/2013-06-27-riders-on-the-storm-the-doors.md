@@ -97,6 +97,6 @@ Riders on the storm
 
 这首歌已经有很多年的历史了,突然在听<<Guitar Heaven>>这张专辑不慎听到该曲,勾起了我对极品飞车8的记忆,8,9年前我热爱的游戏OST之一.
 
-![THE DOORS专辑封面](http://www.whidy.net/wp-content/uploads/2013/06/L.A.WOMAN_.jpg)
+![THE DOORS专辑封面](https://www.whidy.net/wp-content/uploads/2013/06/L.A.WOMAN_.jpg)
 
 

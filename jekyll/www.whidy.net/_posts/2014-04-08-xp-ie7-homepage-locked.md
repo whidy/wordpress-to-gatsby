@@ -34,6 +34,6 @@ tags:
 为什么IE6,7,8还不死,中国人死守XP,守吧守吧,追求不同.
 
 参考资料:
-[我用了正版ie后打开ie就变成http://go.microsoft.com/fwlink/?LinkId=74005这个网站了](http://zhidao.baidu.com/link?url=7bqEHps4rS9S2CCiRgi96lQeWLESt_iLX22EbM3ZqyXI1yjXuJS_XdQxkehhwKp8KxfCIRREqkRxw16b9wRH_a)(话说,IE还分正版盗版么= =!)
-[注册表里 First Home page 的值改不了怎么办?
-](http://zhidao.baidu.com/link?url=YxOuzSrAbqZz5PPnzuZASEbvixbBhYzF_KpAeBUaNgIp9WXlWd2-ktxuslg3OzYjUJMjZRwAYX8BkGULSpMP1q)[如何锁定主页](http://zhidao.baidu.com/link?url=4GfkKDiaCVxKfO4yGSrjseWSgYmMXVqBPvGRtkajscnqXZE1_2dfGWkzxRLZExbzRVzZm9-YWITp9_QPzwshAa)(需要锁定主页的可用)
+* [我用了正版ie后打开ie就变成http://go.microsoft.com/fwlink/?LinkId=74005这个网站了](http://zhidao.baidu.com/link?url=7bqEHps4rS9S2CCiRgi96lQeWLESt_iLX22EbM3ZqyXI1yjXuJS_XdQxkehhwKp8KxfCIRREqkRxw16b9wRH_a)(话说,IE还分正版盗版么= =!)
+* [注册表里 First Home page 的值改不了怎么办?](http://zhidao.baidu.com/link?url=YxOuzSrAbqZz5PPnzuZASEbvixbBhYzF_KpAeBUaNgIp9WXlWd2-ktxuslg3OzYjUJMjZRwAYX8BkGULSpMP1q)
+* [如何锁定主页](http://zhidao.baidu.com/link?url=4GfkKDiaCVxKfO4yGSrjseWSgYmMXVqBPvGRtkajscnqXZE1_2dfGWkzxRLZExbzRVzZm9-YWITp9_QPzwshAa)(需要锁定主页的可用)

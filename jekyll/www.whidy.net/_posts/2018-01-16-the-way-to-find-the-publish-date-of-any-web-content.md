@@ -38,7 +38,7 @@ tags:
 
 这个插件的工作原理，我暂时还不太清楚，官方并没有说明，不过根据我的观察，它获取发布日期的渠道之一，就是利用google搜索的收录（更新）日期来的，如果一篇文章没有明确的发布日期，那将以谷歌收录（更新）为准，相对来说已经算比较准确的了。如下图：
 
-[caption id="attachment_3092" align="aligncenter" width="400"][![](http://www.whidy.net/wp-content/uploads/2018/01/01-400x441.jpg)](http://www.whidy.net/wp-content/uploads/2018/01/01.jpg) 如果页面更新了。也许就不准确了[/caption]
+![如果页面更新了。也许就不准确了](https://www.whidy.net/wp-content/uploads/2018/01/01-400x441.jpg)
 
 如果没有收录的情况，或许该插件会去分析页面的代码，也就是把我要讲的下一条操作自动化了。
 
@@ -52,7 +52,7 @@ tags:
 
 还是以知乎为例，如下图
 
-[caption id="attachment_3093" align="aligncenter" width="400"][![](http://www.whidy.net/wp-content/uploads/2018/01/03-400x153.jpg)](http://www.whidy.net/wp-content/uploads/2018/01/03.jpg) 通过页面源码查询日期[/caption]
+![通过页面源码查询日期](https://www.whidy.net/wp-content/uploads/2018/01/03-400x153.jpg)
 
 
 ### 分析页面链接和已存在的评论
@@ -66,7 +66,7 @@ tags:
 
 国内百度用的比较多，那么就拿百度说吧，比如百度搜索“有哪些高级笑话只有具备了一定的专业知识才能听懂？”得出的结果，虽然很多相似的，不过就拿前面几个来看，找最有可能的就可以了，如下图：
 
-![百度结果查询日期](http://www.whidy.net/wp-content/uploads/2018/01/02-400x365.png)
+![百度结果查询日期](https://www.whidy.net/wp-content/uploads/2018/01/02-400x365.png)
 
 还有其他的google利用inurl:来查询，就不说了。
 

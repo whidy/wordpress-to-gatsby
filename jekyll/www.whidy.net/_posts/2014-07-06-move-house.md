@@ -20,8 +20,8 @@ tags:
 
 闲话不多说上图咯.
 
-![新房小全景](http://www.whidy.net/wp-content/uploads/2014/07/house_1-400x114.jpg)
+![新房小全景](https://www.whidy.net/wp-content/uploads/2014/07/house_1-400x114.jpg)
 
-![新房一角](http://www.whidy.net/wp-content/uploads/2014/07/house_2-400x300.jpg)
+![新房一角](https://www.whidy.net/wp-content/uploads/2014/07/house_2-400x300.jpg)
 
 想想还要买门帘,挂衣,衣柜,大量贴纸..........慢慢折腾吧...

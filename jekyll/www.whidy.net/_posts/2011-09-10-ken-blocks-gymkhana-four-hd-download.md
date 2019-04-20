@@ -18,14 +18,13 @@ tags:
 
 不过,经过多日的全球互联网的查找,我终于找到一个可以下载的地方,记得是来源一个日本域名的英文网站上找到的,我估计那个作者也是通过youtube下载下来的1080P和720P的版本,并提供下载,我毫不犹豫了选择了1080P,由于是国外网盘下载,所以相当不稳定,更要命的是,一旦断开就必须重新下载了,根本不知耻短线续传,就这样又是花了我N天的时间,失败下载了N次,才保持了将近3个小时连接正常的情况下载完成,并第一时间传到了我的skydriver网络硬盘上.希望能与国内喜欢类似视频的爱好者分享.
 
-[caption id="attachment_570" align="aligncenter" width="500"][![](/wp-content/uploads/2011/09/KEN-BLOCK-GYMKHANA-4-500x312.jpg)](/wp-content/uploads/2011/09/KEN-BLOCK-GYMKHANA-4.jpg) KEN BLOCK GYMKHANA 4[/caption]
+![KEN BLOCK GYMKHANA 4](https://www.whidy.net/wp-content/uploads/2011/09/KEN-BLOCK-GYMKHANA-4-500x312.jpg)
 
 不过,我也不知道这个行为是否合法,因此,在此声明,此视频仅供个人测试使用,请在下载后24小时内删除...囧~若有违背者,本站一律不承担任何法律责任.你懂得--!
 
 OK,上地址:
 在线观看:
-youtube各版本收看地址:[http://www.youtube.com/watch?v=btViXvIDsi0
-](http://www.youtube.com/watch?v=btViXvIDsi0)国内收看地址,比如:[http://www.tudou.com/programs/view/R4ZEbL8V3b4/](http://www.tudou.com/programs/view/R4ZEbL8V3b4/)
+youtube各版本收看地址:[http://www.youtube.com/watch?v=btViXvIDsi0](http://www.youtube.com/watch?v=btViXvIDsi0)国内收看地址,比如:[http://www.tudou.com/programs/view/R4ZEbL8V3b4/](http://www.tudou.com/programs/view/R4ZEbL8V3b4/)
 下载地址:[https://skydrive.live.com/?cid=3EB8EDFF1814D075&id=3EB8EDFF1814D075!600](https://skydrive.live.com/?cid=3EB8EDFF1814D075&id=3EB8EDFF1814D075!600)
 下载说明:
 

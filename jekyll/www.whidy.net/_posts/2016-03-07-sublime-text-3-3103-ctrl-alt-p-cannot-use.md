@@ -31,7 +31,7 @@ tags:
 
 当然这里还要提一点的是,如果一切设置好了发现还是不能用,那多半是快捷键冲突所致,比如输入法的全局快捷键等等,这里推荐一个虽然有点老,但是还不错的工具Windows Hotkey Explorer,大家自行安装后,可以查看系统全局被占用的快捷键,然后对应的关闭调整一下就好了.
 
-![windowsHotkeyExplorer软件界面](http://www.whidy.net/wp-content/uploads/2016/03/windowsHotkeyExplorer-400x383.png)
+![windowsHotkeyExplorer软件界面](https://www.whidy.net/wp-content/uploads/2016/03/windowsHotkeyExplorer-400x383.png)
 
 总结下来我的自定义快捷键是这样的.
 

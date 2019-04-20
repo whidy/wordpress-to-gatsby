@@ -16,15 +16,15 @@ tags:
 
 我们先来看看外观(其实外包装记得没错的话是个铁盒子,因为我老妈帮我收的,她后来把U盘给我我也没见到盒子):
 
-[![](/wp-content/uploads/2012/07/u_0-400x38.jpg)](/wp-content/uploads/2012/07/u_0.jpg)
+![](https://www.whidy.net/wp-content/uploads/2012/07/u_0-400x38.jpg)
 
-[![](/wp-content/uploads/2012/07/u_1.jpg)](/wp-content/uploads/2012/07/u_1.jpg)
+![](https://www.whidy.net/wp-content/uploads/2012/07/u_1.jpg)
 
-[![](/wp-content/uploads/2012/07/u_2.jpg)](/wp-content/uploads/2012/07/u_2.jpg)
+![](https://www.whidy.net/wp-content/uploads/2012/07/u_2.jpg)
 
-[![](/wp-content/uploads/2012/07/u_3.jpg)](/wp-content/uploads/2012/07/u_3.jpg)
+![](https://www.whidy.net/wp-content/uploads/2012/07/u_3.jpg)
 
-[![](/wp-content/uploads/2012/07/u_4.jpg)](/wp-content/uploads/2012/07/u_4.jpg)
+![](https://www.whidy.net/wp-content/uploads/2012/07/u_4.jpg)
 
 **在欣赏完这个产品外观后,下面开始精彩评测:首先我用的现在流行的以下磁盘测试软件,以及测试项目:**
 
@@ -63,15 +63,15 @@ CPU: AMD FX8120
 
 接下来看评测图:
 
-[caption id="attachment_869" align="aligncenter" width="400"][![](/wp-content/uploads/2012/07/usb2.0-info-400x310.jpg)](/wp-content/uploads/2012/07/usb2.0-info.jpg) 因为插入到USB3.0上看不到芯片信息,这是在另一台电脑2.0下测试的信息[/caption]
+![因为插入到USB3.0上看不到芯片信息,这是在另一台电脑2.0下测试的信息](https://www.whidy.net/wp-content/uploads/2012/07/usb2.0-info-400x310.jpg)
 
-[caption id="attachment_861" align="aligncenter" width="0"][![](/wp-content/uploads/2012/07/HDTACH.jpg)](/wp-content/uploads/2012/07/HDTACH.jpg) 左边是8MB区域快速基准测试,右上角是32MB区域快速基准测试,左上角是USB 3.0下U盘信息[/caption]
+![左边是8MB区域快速基准测试,右上角是32MB区域快速基准测试,左上角是USB 3.0下U盘信息](https://www.whidy.net/wp-content/uploads/2012/07/HDTACH.jpg)
 
 
 
-![SSK 16G U盘 软件测试成绩](/wp-content/uploads/2012/07/test_2.jpg)
+![SSK 16G U盘 软件测试成绩](https://www.whidy.net/wp-content/uploads/2012/07/test_2.jpg)
 
-![SSK 16G U盘 文件速度测试](/wp-content/uploads/2012/07/test_1.jpg)
+![SSK 16G U盘 文件速度测试](https://www.whidy.net/wp-content/uploads/2012/07/test_1.jpg)
 
 看了上面测试截图大致对这款产品有了了解,既然是文件测试当然要上超级准确的秒表测试结果~
 

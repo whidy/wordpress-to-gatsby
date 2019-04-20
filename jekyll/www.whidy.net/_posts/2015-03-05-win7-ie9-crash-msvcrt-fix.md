@@ -19,7 +19,7 @@ tags:
 
 可是百度搜出来的哪些解决方案,可用率大家也是知道了,基本上还没我懂- -...突然想到去查看**事件查看器**,那里对于崩溃原因有详细的说明.于是打开**管理工具**的**事件查看器**,找到**Windows 日志** > **应用程序**,找到ie报错的大红感叹号,,,看看咋说的.好像看不懂饿,不过有效信息是错误模块名称: msvcrt.dll,然后就是异常代码: 0xc0000005了...见图
 
-![IE crash error info](http://www.whidy.net/wp-content/uploads/2015/03/IE_ERROR-400x445.png)
+![IE crash error info](https://www.whidy.net/wp-content/uploads/2015/03/IE_ERROR-400x445.png)
 
 那么有了这个再去查似乎好办多了...很快找到问题所在了.废话不说,说说这个方案:
 

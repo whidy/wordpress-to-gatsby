@@ -52,7 +52,7 @@ tags:
 
 测试一下看访问是否正常,如果无法正常访问http://localhost/phpmyadmin/那么请修改这个文件
 
-![alias域名修改配置](/wp-content/uploads/2012/08/alias-400x232.png)
+![alias域名修改配置](https://www.whidy.net/wp-content/uploads/2012/08/alias-400x232.png)
 
 将
 

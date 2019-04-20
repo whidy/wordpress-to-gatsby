@@ -18,7 +18,7 @@ tags:
 
 话不多说,先上张图瞧瞧(是不是挺有感觉的)
 
-[caption id="" align="aligncenter" width="275"][![](/wp-content/uploads/2010/12/G2-275x500.jpg)](/wp-content/uploads/2010/12/G2.jpg) 感觉有意思罢[/caption]
+![感觉有意思罢](https://www.whidy.net/wp-content/uploads/2010/12/G2-275x500.jpg)
 
 另外,本来上传的视频,看的更生动些,却在优酷上一直还没出来,估计要审核通过罢,我也懒的等了睡觉先...忙完这阵子可是要好好陪大家顽顽,为什么我跟大家说我忙,大家都不信呢,看来还是我有问题哟..HOHO,睡觉晚安罢...
 

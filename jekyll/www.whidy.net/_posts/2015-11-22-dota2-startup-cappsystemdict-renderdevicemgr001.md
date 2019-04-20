@@ -20,7 +20,7 @@ tags:
 
 好久没玩下dota2了.有几个朋友找起说耍一下.决定一起开开黑玩玩...经过几G的更新等待.准备启动游戏...却弹出了这个鬼玩意...
 
-[![dota2error](http://www.whidy.net/wp-content/uploads/2015/11/dota2error-400x151.png)](http://www.whidy.net/wp-content/uploads/2015/11/dota2error.png)
+![dota2error](https://www.whidy.net/wp-content/uploads/2015/11/dota2error-400x151.png)
 
 
 <blockquote>CAppSystemDict::LoadSystemAndDependecies():

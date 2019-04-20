@@ -93,37 +93,37 @@ EC 1.02.08版本说明：
 
 不要偷懒中文的也读三遍,这里**小提示一下从运行MeSet.EXE开始,风扇狂转**,接下来上几张图片:
 
-![未刷BIOS之前的版本](http://www.whidy.net/wp-content/uploads/2012/12/01biosInfo-1-400x300.jpg)
+![未刷BIOS之前的版本](https://www.whidy.net/wp-content/uploads/2012/12/01biosInfo-1-400x300.jpg)
 
 	
   3. **开刷EC**
 用这个4G的U盘做好的DOS工具箱,进入纯DOS环境,先来刷EC.
 
-![U盘的DOS工具(4G U盘)](http://www.whidy.net/wp-content/uploads/2012/12/02uTools-400x300.jpg)
+![U盘的DOS工具(4G U盘)](https://www.whidy.net/wp-content/uploads/2012/12/02uTools-400x300.jpg)
 
-![进入纯DOS环境](http://www.whidy.net/wp-content/uploads/2012/12/03pureDos-400x300.jpg)
+![进入纯DOS环境](https://www.whidy.net/wp-content/uploads/2012/12/03pureDos-400x300.jpg)
 
-![找到U盘内的存放固件的目录](http://www.whidy.net/wp-content/uploads/2012/12/04dosDirError-400x300.jpg)
+![找到U盘内的存放固件的目录](https://www.whidy.net/wp-content/uploads/2012/12/04dosDirError-400x300.jpg)
 
-![进入EC文件夹准备刷EC](http://www.whidy.net/wp-content/uploads/2012/12/05cdEc-400x300.jpg)
+![进入EC文件夹准备刷EC](https://www.whidy.net/wp-content/uploads/2012/12/05cdEc-400x300.jpg)
 
 这里按照说明输入ECFlash.bat一切自动完成,风扇转一下就完事了.我们来看看版本,ok,good job! :razz:
 
-![EC刷好后查看版本](http://www.whidy.net/wp-content/uploads/2012/12/06ecOk-400x300.jpg)
+![EC刷好后查看版本](https://www.whidy.net/wp-content/uploads/2012/12/06ecOk-400x300.jpg)
 
 	
   4. **开刷BIOS**
 这个稍稍有点麻烦,慢慢来.我算比较坑爹,我命名的02.BIOS目录名字居然在DOS下识别成这鸟样,怎么都进不去...没有办法只好重新进入系统,修改目录成了BIOS才得以顺利进行.刷机过程中会重启多次,完全按照那个说明文档来的.请严格遵守!
 
-![坑爹的,居然不识别我这个目录命名](http://www.whidy.net/wp-content/uploads/2012/12/07biosError-400x300.jpg)
+![坑爹的,居然不识别我这个目录命名](https://www.whidy.net/wp-content/uploads/2012/12/07biosError-400x300.jpg)
 
-![这都不识别,不就是个02.BIOS](http://www.whidy.net/wp-content/uploads/2012/12/08folder-400x300.jpg)
+![这都不识别,不就是个02.BIOS](https://www.whidy.net/wp-content/uploads/2012/12/08folder-400x300.jpg)
 
-![改名后DOS下进入BIOS目录](http://www.whidy.net/wp-content/uploads/2012/12/09cdBios-400x300.jpg)
+![改名后DOS下进入BIOS目录](https://www.whidy.net/wp-content/uploads/2012/12/09cdBios-400x300.jpg)
 
-![查看BIOS目录内文件](http://www.whidy.net/wp-content/uploads/2012/12/10dirBios-400x300.jpg)
+![查看BIOS目录内文件](https://www.whidy.net/wp-content/uploads/2012/12/10dirBios-400x300.jpg)
 
-![全部刷完检查刷新后版本](http://www.whidy.net/wp-content/uploads/2012/12/11ecBiosOk-400x300.jpg)
+![全部刷完检查刷新后版本](https://www.whidy.net/wp-content/uploads/2012/12/11ecBiosOk-400x300.jpg)
 
 至此刷新结束,可以尽情享受还没有固态硬盘也没装WIN8的屌丝的快乐吧= =!
 
@@ -131,11 +131,11 @@ EC 1.02.08版本说明：
   5. **刷机完成有什么变化?**
 最后给大家看看BIOS里面的变化,应该说其实这个刷机是为了给SSD用新的引导模式,开启UEFI后,配合SSD,能更快的启动计算机还有很多更复杂更强大的功能,我查阅了相关文献,暂时也还不大明白,目前也正在观察市场的固态硬盘到时候入手了,装上WIN8体验一下可以带来的快乐.
 
-![刷后BIOS的一些变化](http://www.whidy.net/wp-content/uploads/2012/12/12changes-400x300.jpg)
+![刷后BIOS的一些变化](https://www.whidy.net/wp-content/uploads/2012/12/12changes-400x300.jpg)
 
-![刷后BIOS的一些变化](http://www.whidy.net/wp-content/uploads/2012/12/13changes-400x300.jpg)
+![刷后BIOS的一些变化](https://www.whidy.net/wp-content/uploads/2012/12/13changes-400x300.jpg)
 
-![刷后BIOS的一些变化](http://www.whidy.net/wp-content/uploads/2012/12/14changes-400x300.jpg)
+![刷后BIOS的一些变化](https://www.whidy.net/wp-content/uploads/2012/12/14changes-400x300.jpg)
 
 
 好了,本次介绍的就是刷BIOS了所以其他更深奥的学问今天就不说了,毕竟弄这个全球第一W350ETQ刷机教程也是不太容易,本来是用单反的,结果被借出去了,又不想等,于是在双休就用手机变弄边录制,还有一些刷机过程的视频,我已经传到优酷上了,有兴趣可以看看(作者**小白来看看**,因为还在上传呢),那个不是教程,所以实际意义不大.如有看不明白的请与我联系.另外还有W350ETQ其他相关评测文章有兴趣的话请自行搜索...好了,研究别的去了.

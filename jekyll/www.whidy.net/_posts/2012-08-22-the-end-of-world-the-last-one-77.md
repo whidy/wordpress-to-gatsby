@@ -17,7 +17,7 @@ tags:
 
 说着说着，就过去两年了。
 
-[![2012年的七夕](/wp-content/uploads/2012/08/77-400x250.jpg)](/wp-content/uploads/2012/08/77.jpg)
+![2012年的七夕](https://www.whidy.net/wp-content/uploads/2012/08/77-400x250.jpg)
 
 前几天还挺有感触的，不过每年八月好像收获都还不少。这篇不过就是八月之会议篇，我毫不含糊的写实了。
 

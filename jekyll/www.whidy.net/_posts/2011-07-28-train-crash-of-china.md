@@ -28,11 +28,11 @@ tags:
 
 
 
-[![](/wp-content/uploads/2011/07/aoteman-1-430x500.jpg)](/wp-content/uploads/2011/07/aoteman-1.jpg)
+![](https://www.whidy.net/wp-content/uploads/2011/07/aoteman-1-430x500.jpg)
 
-[ ![](/wp-content/uploads/2011/07/aoteman-23-500x402.jpg)](http://www.newslook.com/videos/332492-chinese-protest-against-deadly-train-crash?autoplay=true)
+![](https://www.whidy.net/wp-content/uploads/2011/07/aoteman-23-500x402.jpg)
 
-[![](/wp-content/uploads/2011/07/news-500x407.jpg)](/wp-content/uploads/2011/07/news.jpg)
+![](https://www.whidy.net/wp-content/uploads/2011/07/news-500x407.jpg)
 
 其他相关文章,以及图片来源.
 

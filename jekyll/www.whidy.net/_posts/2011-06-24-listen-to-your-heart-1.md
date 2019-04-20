@@ -12,7 +12,7 @@ tags:
 - 心情
 ---
 
-[![](/wp-content/uploads/2011/06/Beautifulbirds06-500x312.jpg)](/wp-content/uploads/2011/06/Beautifulbirds06.jpg)
+![](https://www.whidy.net/wp-content/uploads/2011/06/Beautifulbirds06-500x312.jpg)
 
 
 <blockquote>如果能在一起

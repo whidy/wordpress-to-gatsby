@@ -17,7 +17,7 @@ tags:
 
 最近用自己笔记本办公配置windows 10下的开发环境(当然不排除WIN7下也有可能存在此问题),其中在进行一个项目的NPM INSTALL的时候一直出错...错误如下
 
-![关于NPM INSTALL相关错误信息](http://www.whidy.net/wp-content/uploads/2017/06/errorMsg-400x261.png)
+![关于NPM INSTALL相关错误信息](https://www.whidy.net/wp-content/uploads/2017/06/errorMsg-400x261.png)
 
 找了很多解决办法...都无效.十分沮丧...前几天在win7 64bit下也是折腾了好几天.依赖关系实在是复杂- -
 

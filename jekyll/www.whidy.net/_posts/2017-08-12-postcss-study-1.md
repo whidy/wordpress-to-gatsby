@@ -30,7 +30,7 @@ tags:
 
 再来看看这张PostCSS下载数量的npm-stat统计表（数据证明一切）：
 
-[![PostCSS下载数量](https://github.com/whidy/postcss-study/raw/master/src/images/postcss-00.png?raw=true)](https://github.com/whidy/postcss-study/blob/master/src/images/postcss-00.png?raw=true)
+![PostCSS下载数量](https://github.com/whidy/postcss-study/raw/master/src/images/postcss-00.png?raw=true)
 
 学习PostCSS之前需要了解一些事情：
 
@@ -82,7 +82,7 @@ PostCSS一般是结合自动化工具使用，如果要单独使用可以安装[
 
 CLI是否建议全局安装?（这样包括其对应的插件都要全局了？如果不全局就失去了CLI的意义了？）。全局安装完成后，试着输入PostCSS，出现以下结果，说明安装OK
 
-[![安装成功](https://github.com/whidy/postcss-study/raw/master/src/images/postcss-01.png?raw=true)](https://github.com/whidy/postcss-study/blob/master/src/images/postcss-01.png?raw=true)
+![安装成功](https://github.com/whidy/postcss-study/raw/master/src/images/postcss-01.png?raw=true)
 
 不过我个人习惯仅安装在项目中，于是我没有选择安装CLI，而是直接在项目中安装PostCSS，`npm i --save-dev postcss`，我这里有个[例子](https://github.com/whidy/postcss-study)可以看看
 

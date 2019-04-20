@@ -71,4 +71,4 @@ tags:
 
 
 
-[caption id="attachment_97" align="alignnone" width="300"][![](/wp-content/uploads/2010/09/Sweaty-apple-300x225.jpg)](/wp-content/uploads/2010/09/Sweaty-apple.jpg) 出汗的苹果[/caption]
+![出汗的苹果](https://www.whidy.net/wp-content/uploads/2010/09/Sweaty-apple-300x225.jpg)

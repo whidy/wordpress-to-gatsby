@@ -44,11 +44,11 @@ tags:
 ### 在GuiHub上**Create a new repository**
 
 
-![create a new repository](http://www.whidy.net/wp-content/uploads/2014/04/create_new_repository.png)
+![create a new repository](https://www.whidy.net/wp-content/uploads/2014/04/create_new_repository.png)
 
 名字随便起个,创建完成后,会出现这样一个页面(不要关闭)
 
-![my github repositry](http://www.whidy.net/wp-content/uploads/2014/04/my_github-400x314.png)
+![my github repositry](https://www.whidy.net/wp-content/uploads/2014/04/my_github-400x314.png)
 
 	
   4. 
@@ -68,7 +68,7 @@ tags:
 
 在你的GitHub**用户设置**页面找到**SSH KEYS**如图,**Add SSH Key**,我这里已经添加好了就不用加了.
 
-![add a ssh key](http://www.whidy.net/wp-content/uploads/2014/04/ssh_keys-400x251.png)
+![add a ssh key](https://www.whidy.net/wp-content/uploads/2014/04/ssh_keys-400x251.png)
 
 	
   6. 
@@ -79,7 +79,7 @@ tags:
 
 根据个人习惯,当然我可能对命令行一直有好感,所以这里介绍命令行的操作方式,第3步说了页面不要关闭,此刻可以试试了.在这个目录内,右键Git Bash弹出命令行,执行第3步内容:
 
-![git bash](http://www.whidy.net/wp-content/uploads/2014/04/git_bash-400x422.png)
+![git bash](https://www.whidy.net/wp-content/uploads/2014/04/git_bash-400x422.png)
 
 	
   7. 

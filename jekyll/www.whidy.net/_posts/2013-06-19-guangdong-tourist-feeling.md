@@ -17,7 +17,7 @@ tags:
 
 我掏出手机随手拍了一张.
 
-![海边-全景图](http://www.whidy.net/wp-content/uploads/2013/06/the-sea-400x83.jpg)
+![海边-全景图](https://www.whidy.net/wp-content/uploads/2013/06/the-sea-400x83.jpg)
 
 这已是我们在广东旅游的第三站-海陵岛.来到海边,忍不住下海感受大海.
 

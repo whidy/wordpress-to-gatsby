@@ -84,7 +84,7 @@ tags:
 
 最后上一张BrowserLab在线测试截图.
 
-![IE9CssHack和BrowserLab测试](/wp-content/uploads/2012/05/IE9CssHack-400x250.jpg)
+![IE9CssHack和BrowserLab测试](https://www.whidy.net/wp-content/uploads/2012/05/IE9CssHack-400x250.jpg)
 
 如有错误欢迎大家指正!~
 

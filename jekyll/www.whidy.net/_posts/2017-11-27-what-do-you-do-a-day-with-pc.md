@@ -22,7 +22,7 @@ Personal Activity Monitor（后面简称PAM）十分轻量，不到1M的大小�
 
 <!-- more -->
 
-[caption id="attachment_3040" align="aligncenter" width="400"][![](http://www.whidy.net/wp-content/uploads/2017/11/PAM-400x367.png)](http://www.whidy.net/wp-content/uploads/2017/11/PAM.png) Personal Activity Monitor 界面[/caption]
+![Personal Activity Monitor 界面](https://www.whidy.net/wp-content/uploads/2017/11/PAM-400x367.png)
 
 PAM还有导出功能，每天早上打开电脑后启动它，下班再来看看，很清楚这一天做了些什么，对我个人而言，是有必要看一下，来提高工作效率，因为我总爱分心。当然，那些很自觉地人，其实用不到，哈哈~
 

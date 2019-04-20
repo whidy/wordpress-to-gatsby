@@ -31,7 +31,7 @@ ps: 2015年1月23日
 
 想必很多计算机自学者都在CodeCademy学习过,作为入门学习的免费网站,的确做得不错,这几天闲来无事本来是想在上面学点别的,看到有HTML教程顺便也想快速通过,却发现在控制字体大小卡壳了.一般来说我使用chrome浏览器,其中有一个小的CodeCademy的练习,要求设定字体大小10px,chrome始终无法通过,不过似乎之前遇到过这个问题,所以思考了片刻解决了.首先看图,通过不同浏览器运行此练习效果:
 
-![chrome和ie下的区别](http://www.whidy.net/wp-content/uploads/2013/10/CodeCademy-400x202.jpg)
+![chrome和ie下的区别](https://www.whidy.net/wp-content/uploads/2013/10/CodeCademy-400x202.jpg)
 
 <!-- more -->
 
@@ -86,7 +86,7 @@ ps: 2015年1月23日
 
 虽然这个问题解决了,但是实际上还有个IE下却有些不同,如图
 
-![不同浏览器字体显示效果](http://www.whidy.net/wp-content/uploads/2013/10/fontsize-400x274.jpg)
+![不同浏览器字体显示效果](https://www.whidy.net/wp-content/uploads/2013/10/fontsize-400x274.jpg)
 
 IE的确还是很奇怪...那么这个问题下次来研究下,不早了,要睡觉了...(哈哈,逗大家玩的,其实我缩放了百分比的...)
 

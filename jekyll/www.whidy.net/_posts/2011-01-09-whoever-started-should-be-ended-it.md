@@ -28,4 +28,4 @@ tags:
 
 睡罢,晚安...
 
-![涂鸦](http://www.whidy.net/wp-content/uploads/2011/01/IMG_20110109_210853-375x500.jpg)
+![涂鸦](https://www.whidy.net/wp-content/uploads/2011/01/IMG_20110109_210853-375x500.jpg)

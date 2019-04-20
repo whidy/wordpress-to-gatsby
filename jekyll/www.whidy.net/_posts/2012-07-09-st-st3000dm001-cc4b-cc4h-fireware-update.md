@@ -34,7 +34,7 @@ tags:
 
 那么开始按照以下步骤刷吧(因为我已经刷完了所以很抱歉没有截图,我尽可能详细的描述当时的情景
 
-![固件刷新过程](/wp-content/uploads/2012/07/fw-update-400x223.jpg)
+![固件刷新过程](https://www.whidy.net/wp-content/uploads/2012/07/fw-update-400x223.jpg)
 
 
 
@@ -60,7 +60,7 @@ tags:
 
 
 
-![3T硬盘刷固件后简单测试](/wp-content/uploads/2012/07/st_fw_update.jpg)
+![3T硬盘刷固件后简单测试](https://www.whidy.net/wp-content/uploads/2012/07/st_fw_update.jpg)
 
 
 
@@ -77,4 +77,4 @@ tags:
 
 最后,如果成功了,恭喜你.目前基本上解决了咔咔咔嚓的声音,当然要是仍然不满意,我在网上搜集到了另外一个办法调整AAM的,用DiskInfo中如图的设置AAM,开启并拖至最右边!当然我不是很在乎这个,没有噪音,整个世界都舒畅了,呵呵
 
-![AAM调节](/wp-content/uploads/2012/07/AAM-400x364.jpg)
+![AAM调节](https://www.whidy.net/wp-content/uploads/2012/07/AAM-400x364.jpg)

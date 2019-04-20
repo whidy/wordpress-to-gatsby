@@ -15,7 +15,7 @@ tags:
 
 遇到这个问题实在是诡异.我对我自己能找出问题的原因也颇感惊讶,因为我根本不知道为什么会出现这样的现象,只是一个个凭感觉试出来的.如果有大神知道原因,希望能留言,如果不知道的正巧看到这篇文章,也可做个参考,解决一些可能是由于背景图产生的问题.惯例先上效对比果图(这里注释了背景).
 
-![关于IE6行内多个元素浮动背景图对宽度影响CHROME和IE6对比](http://www.whidy.net/wp-content/uploads/2014/04/ie6-bg-effects-width-400x310.png)
+![关于IE6行内多个元素浮动背景图对宽度影响CHROME和IE6对比](https://www.whidy.net/wp-content/uploads/2014/04/ie6-bg-effects-width-400x310.png)
 
 按照正常思路完成布局和代码编写后,基本上ie7+和主流标准浏览器看起来都不错.然而IE6,就是令人蛋疼.是怎么蛋疼了呢仔细看图,我放代码和[DEMO页面](http://www.whidy.net/demos/ie6BgEffectsWidth/ie6-bg-effects-width.html)(此页面兼容):
 

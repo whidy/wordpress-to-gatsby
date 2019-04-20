@@ -21,7 +21,7 @@ tags:
 
 先看看我的出错信息
 
-![安装node-sass错误信息](http://www.whidy.net/wp-content/uploads/2017/08/node-sass-400x154.png)
+![安装node-sass错误信息](https://www.whidy.net/wp-content/uploads/2017/08/node-sass-400x154.png)
 
 如果你也是这样的不妨将提示中的这个[https://github.com/sass/node-sass/releases/download/v4.5.3/win32-x64-48_binding.node](https://github.com/sass/node-sass/releases/download/v4.5.3/win32-x64-48_binding.node)下载下来,存放在**C:\Users\Whidy(你的用户)\AppData\Roaming\npm-cache\node-sass\4.5.3**目录内,再尝试重新执行npm install node-sass我想应该就可以成功了吧.
 

@@ -121,7 +121,7 @@ PS:由于近日(2014年6月)jsfiddle无法正常访问,可能受内网影响,现
 
 
 
-[caption id="attachment_892" align="aligncenter" width="400"][![](/wp-content/uploads/2012/07/E2-400x285.jpg)](/wp-content/uploads/2012/07/E2.jpg) IE6,IE7,IE8都不能完好支持first-child和last-child伪类[/caption]
+![IE6,IE7,IE8都不能完好支持first-child和last-child伪类](https://www.whidy.net/wp-content/uploads/2012/07/E2-400x285.jpg)
 
 其中还有种很另类的方式,给任意元素的规则性的添加伪类.比如你有5个li元素,你想让每两个li有区别,比如应用在有些特殊列表,你给每两行加上不同的背景色,我这里随便做了个效果给大家参考:
 

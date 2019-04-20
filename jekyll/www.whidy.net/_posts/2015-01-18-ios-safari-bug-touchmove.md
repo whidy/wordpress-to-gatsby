@@ -17,7 +17,7 @@ tags:
 
 我仿照的做完后.发现有个很神奇的bug,这个bug只会在ios的safari浏览器上出现.就是无法禁止底部浏览器自带区域的touchmove事件,可能表达不太容易理解,首先用iphone(我测试过4s和6p)的safari浏览器打开这个页面[DEMO](http://www.whidy.net/demos/touchmove.html).然后我下面用图片来解释具体操作方式
 
-![ios safari bug](http://www.whidy.net/wp-content/uploads/2015/01/demo_png.png)
+![ios safari bug](https://www.whidy.net/wp-content/uploads/2015/01/demo_png.png)
 
 将页面滑至黑色块刚好处于手机浏览器底部,然后触屏滑动发现页面跟着滚动了.本来黑色块属于灰色区域,已经禁止了touchmove事件,而左侧浅灰色区域是可以任意滑动的.
 

@@ -70,5 +70,5 @@ tags:
 
 最后还有一件诡异的事情,我新建了两个同样的html文件,一个有效果一个没效果,有兴趣的看看咋回事呢?
 
-有效果的: [http://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-on.html](http://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-on.html)
-没效果的: [http://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-off.html](http://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-off.html)
+有效果的: [https://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-on.html](https://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-on.html)
+没效果的: [https://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-off.html](https://www.whidy.net/wp-content/uploads/2012/12/jq-more-demo-off.html)

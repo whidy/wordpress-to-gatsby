@@ -16,20 +16,18 @@ tags:
 
 先来看看硬盘信息以及AS SSD Benchmark,WIN8评分.
 
-![AS SSD Benchmark,WIN8评分](http://www.whidy.net/wp-content/uploads/2012/12/Benchmark-400x284.jpg)
+![AS SSD Benchmark,WIN8评分](https://www.whidy.net/wp-content/uploads/2012/12/Benchmark-400x284.jpg)
 
 再就测试比较准确的CrystalDiskInfo
 
-![CrystalDiskMark测试成绩](http://www.whidy.net/wp-content/uploads/2012/12/CrystalDiskMark-400x362.jpg)
+![CrystalDiskMark测试成绩](https://www.whidy.net/wp-content/uploads/2012/12/CrystalDiskMark-400x362.jpg)
 
 当然其实还有Atto Disk Benchmark,PCMARK 7等等,我觉得意义不太大也就没放出了.
 
 最后给两个我认为非常不错的,非常全面的关于固态硬盘的评测网址,极力推荐!现如今能看到这么好的编辑组做的太不容易了:
 
-[花开正当时，十四款120/128GB SSD横向评测
+[花开正当时，十四款120/128GB SSD横向评测](http://www.expreview.com/19604.html)
 
-](http://www.expreview.com/19604.html)[17款120/128GB SSD横评
-
-](http://www.expreview.com/20329.html)
+[17款120/128GB SSD横评](http://www.expreview.com/20329.html)
 
 [](http://www.expreview.com/20329.html)那么现在想买固态硬盘想了解固态硬盘的同学们,慢慢研究吧 :lol:

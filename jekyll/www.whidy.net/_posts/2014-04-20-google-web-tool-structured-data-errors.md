@@ -16,7 +16,7 @@ tags:
 
 我有个习惯,看到哪里报错了,非解决不可,要不然心里惦记着啊,不舒服啊...这最近用**谷歌站长工具**,发现我这个wordpress博客有一大堆问题啊...例如:
 
-![Structured Data Errors](http://www.whidy.net/wp-content/uploads/2014/04/Structured-Data-Errors-400x312.jpg)
+![Structured Data Errors](https://www.whidy.net/wp-content/uploads/2014/04/Structured-Data-Errors-400x312.jpg)
 
 除了最明显的结构化数据这里有无数个页面错误,好在这里大多可以通过修改模版一次性解决.但是如何解决了,最令我无语的是起初我用的是英文版的谷歌站长工具...看不懂,什么叫做**Structured Data > hatom (markup: microformats.org)**?什么叫做**Missing: updated**? 什么叫做**Missing: author**?搞不懂...看了半天帮助文档,弄了一晚上没搞明白,外加坑爹中国GFW,又不能上google plus...好多服务都限制了.不过功夫不负有心人.我看了无数遍帮助文档,还有Structured Data Testing Tool里面的Examples,以及谷歌的论坛,终于解决了.下面来说一下这两个问题怎么解决了.
 
@@ -32,7 +32,7 @@ tags:
     ```
 
 
-![author](http://www.whidy.net/wp-content/uploads/2014/04/author-400x173.jpg)
+![author](https://www.whidy.net/wp-content/uploads/2014/04/author-400x173.jpg)
 
 我试了一下,编辑header.php,添加此段引用代码,将href=""内地址换成你自己的.就通过了测试...(对了前提是你要有通过E-mail验证.)
 
@@ -40,7 +40,7 @@ tags:
 
 找到主题的function.php这个地方,如图
 
-![updated](http://www.whidy.net/wp-content/uploads/2014/04/updated-400x282.jpg)
+![updated](https://www.whidy.net/wp-content/uploads/2014/04/updated-400x282.jpg)
 
 在发布日期这里找到`class="entry-date"`里面添加一个updated就可以了,只是标记作用.
 

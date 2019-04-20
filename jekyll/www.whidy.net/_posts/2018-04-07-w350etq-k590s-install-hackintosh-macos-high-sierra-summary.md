@@ -112,7 +112,8 @@ tags:
 
 
 
-[![系统截图](https://raw.githubusercontent.com/whidy/daily/master/sources/images/2018-04-07-1.png)](https://raw.githubusercontent.com/whidy/daily/master/sources/images/2018-04-07-1.png) [![W350ETQ和红苹果](https://raw.githubusercontent.com/whidy/daily/master/sources/images/2018-04-07-2.jpg)](https://raw.githubusercontent.com/whidy/daily/master/sources/images/2018-04-07-2.jpg)
+![系统截图](https://raw.githubusercontent.com/whidy/daily/master/sources/images/2018-04-07-1.png)
+![W350ETQ和红苹果](https://raw.githubusercontent.com/whidy/daily/master/sources/images/2018-04-07-2.jpg)
 
 
 

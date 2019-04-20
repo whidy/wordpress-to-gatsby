@@ -59,7 +59,7 @@ tags:
 
 另外,如果用户需要自定义上文出现的红色加粗的快捷键,或者查看更多快捷键,可以打开这个配置:
 
-![SublimeText2 zenCoding配置](/wp-content/uploads/2012/08/SublimeText2zenCoding-400x253.jpg)
+![SublimeText2 zenCoding配置](https://www.whidy.net/wp-content/uploads/2012/08/SublimeText2zenCoding-400x253.jpg)
 
 于是可以看到这个配置文件,双击keys,就能看到所有快捷键设置了
 

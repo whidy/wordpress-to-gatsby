@@ -16,7 +16,7 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
 
 两个同级的相邻的元素A和B(均为块级元素),当A内部有元素浮动,并且拥有外边距时,B则会贴紧A的最后一个元素,假设B没有清除浮动,则会与A的最后一个元素的左右边距保持边距距离,例如图一:
 
-![B没有清浮的情况下,左右边距正常](http://www.whidy.net/wp-content/uploads/2014/05/B-no-clear-400x531.png)
+![B没有清浮的情况下,左右边距正常](https://www.whidy.net/wp-content/uploads/2014/05/B-no-clear-400x531.png)
 
 <!-- more -->可以看到有很多差异,当然我今天主要讨论的是边距问题,大家可忽略这很多不同的差异,大家只需要记住图片和代码.那么图一的代码如下:
 
@@ -51,7 +51,7 @@ IE6和IE7一向令网页制作者头痛,虽然有些经验丰富的前端开发�
 
 好了,这不是重点,接下来看BUG,因为今天要说的是**上下相邻元素间距BUG**!依旧先上图,见图二:
 
-![清除浮动后的间距BUG](http://www.whidy.net/wp-content/uploads/2014/05/clear-float-BUG-400x750.png)
+![清除浮动后的间距BUG](https://www.whidy.net/wp-content/uploads/2014/05/clear-float-BUG-400x750.png)
 
 那么**清除浮动**,有几种办法,
 

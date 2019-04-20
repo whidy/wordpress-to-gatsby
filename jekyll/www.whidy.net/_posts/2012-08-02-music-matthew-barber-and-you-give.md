@@ -58,6 +58,6 @@ And you give and you give, give it to me oh
 
 音乐轻松,优美...另外也推荐Where the river bends :D
 
-[![Matthew Barber – And You Give](/wp-content/uploads/2012/08/ghost-notes-cover.jpg)](/wp-content/uploads/2012/08/ghost-notes-cover.jpg)
+![Matthew Barber – And You Give](https://www.whidy.net/wp-content/uploads/2012/08/ghost-notes-cover.jpg)
 
 

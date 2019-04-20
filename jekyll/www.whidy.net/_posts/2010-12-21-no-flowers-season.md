@@ -12,7 +12,7 @@ tags:
 - 心情
 ---
 
-[caption id="attachment_361" align="aligncenter" width="500"][![](/wp-content/uploads/2010/12/misunderstant-500x281.jpg)](/wp-content/uploads/2010/12/misunderstant.jpg) 不明白这春天为何不见花开?[/caption]
+![不明白这春天为何不见花开?](https://www.whidy.net/wp-content/uploads/2010/12/misunderstant-500x281.jpg)
 
 人生便是有太多的不明白也就有了太多的烦恼罢了...看到15集,好似要说写什么了,却又避开了.用同事的话来说,我恐怕是入戏了.
 

@@ -12,8 +12,7 @@ tags:
 - 好歌
 ---
 
-[caption id="attachment_588" align="aligncenter" width="500"][  
-![one-direction-what-makes-you-beautiful](http://www.whidy.net/wp-content/uploads/2011/09/one-direction-what-makes-you-beautiful-music-video_large.png)](http://www.whidy.net/wp-content/uploads/2011/09/one-direction-what-makes-you-beautiful-music-video_large.png) one-direction-what-makes-you-beautiful[/caption]
+![one-direction-what-makes-you-beautiful](https://www.whidy.net/wp-content/uploads/2011/09/one-direction-what-makes-you-beautiful-music-video_large.png)
 
 歌名: **What Makes You Beautiful**
 

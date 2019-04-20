@@ -10,6 +10,7 @@ wordpress_id: 35
 category: '摄影'
 tags:
 - 教程
+- 单反
 ---
 
 因为是这个主题的第一篇,先唠叨一下:

@@ -41,7 +41,7 @@ So blue is the color of you
 When you're waiting for someone who
 Will always make your dreams come true
 
-![The Color Of You](/wp-content/uploads/2012/08/Lisa-Ekdahl-400x396.jpg)
+![The Color Of You](https://www.whidy.net/wp-content/uploads/2012/08/Lisa-Ekdahl-400x396.jpg)
 
 音乐轻快,活泼歌词中也体现了作者乐观积极的生活态度... :roll:
 

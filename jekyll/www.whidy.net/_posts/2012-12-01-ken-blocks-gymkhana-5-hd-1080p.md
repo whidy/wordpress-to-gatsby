@@ -14,7 +14,7 @@ tags:
 
 迟到的精彩视频,来自ken block的最新大作.有兴趣的,又可以一饱眼福了.后面有福利,附上电驴精彩链接
 
-![KEN BLOCK'S GYMKHANA 5](/wp-content/uploads/2012/12/kenblock5-400x236.jpg)
+![KEN BLOCK'S GYMKHANA 5](https://www.whidy.net/wp-content/uploads/2012/12/kenblock5-400x236.jpg)
 
 <!-- more -->
 

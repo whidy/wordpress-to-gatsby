@@ -14,7 +14,7 @@ tags:
 
 早上想着人生紧迫,或许压力渐逼,其实没有多想...只觉得曾经我浪费了很多时间,包括现在也没有好好利用青春.虽然这给我带来了一些美好的回忆.
 
-[![WarCraft 3 永恒的经典](/wp-content/uploads/2012/08/wc3-400x300.jpg)](/wp-content/uploads/2012/08/wc3.jpg)
+![WarCraft 3 永恒的经典](https://www.whidy.net/wp-content/uploads/2012/08/wc3-400x300.jpg)
 
 
 <blockquote>**-=人族=-**

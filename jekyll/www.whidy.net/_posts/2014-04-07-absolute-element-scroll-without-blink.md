@@ -17,7 +17,7 @@ tags:
 
 好了,吐槽完毕,我不吐槽无法释放内心的不满.来说一说这两天的成果,搞得蛋都快碎了...
 
-![绝对定位元素随滚动条滑动不闪烁DEMO](http://www.whidy.net/wp-content/uploads/2014/04/demo-400x225.jpg)
+![绝对定位元素随滚动条滑动不闪烁DEMO](https://www.whidy.net/wp-content/uploads/2014/04/demo-400x225.jpg)
 
 <!-- more -->
 

@@ -23,7 +23,7 @@ tags:
 这曲来自**伦敦爱乐乐团**的大家熟悉的歌曲<<愤怒的小鸟>>交响曲版本,节奏感极强,声场极好,给人愉悦舒畅的心情.推荐喜爱游戏的玩家听一下,当然这张专辑的其他曲目也十分值得欣赏,个人另外推荐**Super Mario Bros: Themes**以及**Grand Theft Auto IV: Soviet Connection**.还有更多大家自己欣赏咯!
 
 
-[![London Philharmonic Orchestra – Angry Birds: Main Theme专辑封面](/wp-content/uploads/2012/06/birds.jpg)](/wp-content/uploads/2012/06/birds.jpg)
+![London Philharmonic Orchestra – Angry Birds: Main Theme专辑封面](https://www.whidy.net/wp-content/uploads/2012/06/birds.jpg)
 
 
 

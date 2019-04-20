@@ -21,7 +21,7 @@ tags:
 
 接下来新开一个页面标签,正确的安装方法是输入**"w.net/install"**回车,好的这是安装界面出现如下步骤(为了节约空间容量我就不发全图了哈哈~):
 
-[![](/wp-content/uploads/2012/05/installStep-400x42.jpg)](/wp-content/uploads/2012/05/installStep.jpg)
+![](https://www.whidy.net/wp-content/uploads/2012/05/installStep-400x42.jpg)
 
 前面两步直接pass,一般情况下WAMP的配置是没有问题的.第三步,选择全新安装,模块什么的按照默认的就行了.第四步,直接pass,第五步需要注意:
 

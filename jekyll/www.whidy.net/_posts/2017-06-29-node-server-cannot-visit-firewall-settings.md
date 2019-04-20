@@ -20,13 +20,13 @@ tags:
 
 回忆之前本地maven服务器,wamp搭建的服务器都好好的.大概是幻觉,也就是node搭建的服务器我或许没测过.好吧废话少说.不能访问的地址是192.168.1.107:9000,我就查一下什么程序用9000窗口,如下:
 
-![占用9000端口的是node.exe](http://www.whidy.net/wp-content/uploads/2017/06/node-400x252.png)
+![占用9000端口的是node.exe](https://www.whidy.net/wp-content/uploads/2017/06/node-400x252.png)
 
 防火墙状态写了不允许,我猜大概就是这里了.
 
 回到防火墙设置,在允许的应用中,我发现,**专用网络**的勾没有勾上(如下图),估计问题就在这里,于是勾上,确认后,BINGO...
 
-![防火墙node设置规则](http://www.whidy.net/wp-content/uploads/2017/06/firewall-400x289.png)
+![防火墙node设置规则](https://www.whidy.net/wp-content/uploads/2017/06/firewall-400x289.png)
 
 拿出手机刷新一下,好了~
 

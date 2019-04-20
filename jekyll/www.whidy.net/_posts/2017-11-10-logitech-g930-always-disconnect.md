@@ -68,7 +68,7 @@ tags:
   6. 重新启动罗技的软件G
 
 
-![罗技软件相关信息及设置](http://www.whidy.net/wp-content/uploads/2017/11/Logitech-400x232.jpg)
+![罗技软件相关信息及设置](https://www.whidy.net/wp-content/uploads/2017/11/Logitech-400x232.jpg)
 
 参考：[Disable auto turn off on G930](https://community.logitech.com/s/question/0D53100006jfuiSCAQ/disable-auto-turn-off-on-g930)
 

@@ -14,7 +14,7 @@ tags:
 
 没什么心情,想读读散文.没找到...于是看了看之前比较喜欢的经典语录...分享下吧...有空没事就读读
 
-[![泰戈尔,徐志摩经典语录诗词欣赏](/wp-content/uploads/2012/08/365862-400x250.jpg)](/wp-content/uploads/2012/08/365862.jpg)
+![泰戈尔,徐志摩经典语录诗词欣赏](https://www.whidy.net/wp-content/uploads/2012/08/365862-400x250.jpg)
 
 
 <blockquote>

@@ -14,7 +14,7 @@ tags:
 
 开门见山,这前几天更新了PHPCMS V9的最新后台程序(PHPCMS程序版本：Phpcms V9.2.4 Release 20121109),却不料发现评论审核无法通过.具体报错情况如图:
 
-![phpcms升级,评论审核出问题](/wp-content/uploads/2012/11/commentError.jpg)
+![phpcms升级,评论审核出问题](https://www.whidy.net/wp-content/uploads/2012/11/commentError.jpg)
 
 起了个乖,最早还不晓得什么回事.后来到处找也没找到原因,无奈上了官方论坛,找到了解决方案.具体修改方法如下:
 

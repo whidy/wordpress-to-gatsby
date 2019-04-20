@@ -15,7 +15,7 @@ tags:
 
 在网上看到一篇文章,关于现在流行的代码编辑器,突然看到这个Sublime Text 2,于是勾起了兴趣,之所以对这个编辑器感兴趣除了它小小的体积之外,更在于它那酷酷的深色界面.
 
-![Sublime Text 2 程序工作界面](/wp-content/uploads/2012/08/ST2-400x305.jpg)
+![Sublime Text 2 程序工作界面](https://www.whidy.net/wp-content/uploads/2012/08/ST2-400x305.jpg)
 
 先来一段简单的介绍:
 
