@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-08-05 14:09:08+00:00
 template: post
+draft: false
 link: http://www.whidy.net/sublime-text-2-cracked-and-how-to-use-it.html
 slug: /sublime-text-2-cracked-and-how-to-use-it
 title: Sublime Text 2 注册激活办法以及简单的使用介绍

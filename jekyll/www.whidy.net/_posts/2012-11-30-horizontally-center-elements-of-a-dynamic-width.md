@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-11-30 02:05:25+00:00
 template: post
+draft: false
 link: http://www.whidy.net/horizontally-center-elements-of-a-dynamic-width.html
 slug: /horizontally-center-elements-of-a-dynamic-width
 title: 如何让元素水平居中于动态宽度页面或容器中

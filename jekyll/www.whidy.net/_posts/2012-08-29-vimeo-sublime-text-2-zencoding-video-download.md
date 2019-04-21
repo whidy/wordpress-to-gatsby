@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-08-29 01:14:55+00:00
 template: post
+draft: false
 link: http://www.whidy.net/vimeo-sublime-text-2-zencoding-video-download.html
 slug: /vimeo-sublime-text-2-zencoding-video-download
 title: Vimeo的关于Sublime Text 2插件Zencoding用法演示视频下载

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-11-30 14:35:22+00:00
 template: post
+draft: false
 link: http://www.whidy.net/clevo-w350etq-pictures.html
 slug: /clevo-w350etq-pictures
 title: Clevo W350ETQ 评测之外观欣赏

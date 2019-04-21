@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-11-29 05:46:30+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-page-solution.html
 slug: /phpcms-page-solution
 title: phpcms单页面模板获取栏目数据翻页无效解决办法

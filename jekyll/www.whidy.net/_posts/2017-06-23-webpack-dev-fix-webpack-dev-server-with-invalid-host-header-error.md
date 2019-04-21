@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2017-06-23 08:44:10+00:00
 template: post
+draft: false
 link: http://www.whidy.net/%e4%bd%bf%e7%94%a8webpack-dev-server%e9%80%9a%e8%bf%87%e6%9c%ac%e5%9c%b0ip%e5%90%af%e5%8a%a8%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%90%8einvalid-host-header%e7%9a%84%e9%94%99%e8%af%af%e8%a7%a3%e5%86%b3.html
 slug: /fix-webpack-dev-server-with-invalid-host-header-error
 title: 使用webpack dev server通过本地IP启动服务器后invalid host header的错误解决办法

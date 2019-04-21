@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-08-20 08:49:42+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-v9-pages-self.html
 slug: /phpcms-v9-pages-self
 title: PHPCMS V9修改分页函数在当前页面翻页

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-11-15 14:38:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/happy-birthday.html
 slug: /happy-birthday
 title: 生日快乐

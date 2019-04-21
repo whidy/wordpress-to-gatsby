@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-06-12 13:44:36+00:00
 template: post
+draft: false
 link: http://www.whidy.net/jsfiddle-forbidden.html
 slug: /jsfiddle-forbidden
 title: jsfiddle网站被封,大量日志重新修改

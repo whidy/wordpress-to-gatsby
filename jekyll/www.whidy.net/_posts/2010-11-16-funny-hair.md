@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-11-16 14:28:34+00:00
 template: post
+draft: false
 link: http://www.whidy.net/funny-hair.html
 slug: /funny-hair
 title: ^_^ 卷卷的头发 *_* ---自恋

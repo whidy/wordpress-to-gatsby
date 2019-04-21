@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-11-18 16:41:10+00:00
 template: post
+draft: false
 link: http://www.whidy.net/tag-inner-correct-1.html
 slug: /tag-inner-correct-1
 title: js修改标签内内容(上)

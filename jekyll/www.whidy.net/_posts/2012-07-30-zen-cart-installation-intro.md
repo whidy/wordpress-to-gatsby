@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-07-30 06:16:18+00:00
 template: post
+draft: false
 link: http://www.whidy.net/zen-cart-installation-intro.html
 slug: /zen-cart-installation-intro
 title: Zen Cart 1.5 图文安装过程全说明

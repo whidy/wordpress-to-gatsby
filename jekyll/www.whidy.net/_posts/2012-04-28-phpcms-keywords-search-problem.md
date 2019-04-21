@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-04-28 06:06:32+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-keywords-search-problem.html
 slug: /phpcms-keywords-search-problem
 title: PHPCMS无法搜索文章内容中的关键字解决

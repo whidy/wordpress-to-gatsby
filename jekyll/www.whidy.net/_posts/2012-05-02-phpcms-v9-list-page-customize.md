@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-02 08:54:37+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-v9-list-page-customize.html
 slug: /phpcms-v9-list-page-customize
 title: PHPCMS V9 自定义列表分页功能实现方法

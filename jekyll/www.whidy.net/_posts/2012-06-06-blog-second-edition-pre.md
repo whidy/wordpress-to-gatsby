@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-06-06 12:25:32+00:00
 template: post
+draft: false
 link: http://www.whidy.net/blog-second-edition-pre.html
 slug: /blog-second-edition-pre
 title: 网站第二次改版思索中

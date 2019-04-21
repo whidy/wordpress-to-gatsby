@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-07-02 03:26:21+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-v9-sourcedata-using-notice.html
 slug: /phpcms-v9-sourcedata-using-notice
 title: PHPCMS数据源功能使用注意事项

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-09-10 02:51:41+00:00
 template: post
+draft: false
 link: http://www.whidy.net/whidy-moving.html
 slug: /whidy-moving
 title: Whidy即将转入大陆,网站备案在即...敬请关注

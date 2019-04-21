@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-06-29 02:50:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-data-website-to-website.html
 slug: /phpcms-data-website-to-website
 title: PHPCMS利用数据源对网站数据调用至其他网站方法

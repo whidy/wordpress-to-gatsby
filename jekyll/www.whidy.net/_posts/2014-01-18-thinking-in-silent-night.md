@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-01-18 14:14:37+00:00
 template: post
+draft: false
 link: http://www.whidy.net/thinking-in-silent-night.html
 slug: /thinking-in-silent-night
 title: 安静之时,难免思考.

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-09-02 15:08:13+00:00
 template: post
+draft: false
 link: http://www.whidy.net/whidy-2-years-old.html
 slug: /whidy-2-years-old
 title: Whidy二周岁纪念.

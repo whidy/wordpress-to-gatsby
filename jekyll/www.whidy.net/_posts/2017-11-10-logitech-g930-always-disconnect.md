@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-11-10 03:35:09+00:00
-excerpt: 罗技G930，配置强大，7.1环绕，还有不错软件驱动支持，使用过程中，也遇到了些一问题，比如，经常无故断开重连，软件电量指示不准，无法作为次要设备不休眠使用等等。
+description: 罗技G930，配置强大，7.1环绕，还有不错软件驱动支持，使用过程中，也遇到了些一问题，比如，经常无故断开重连，软件电量指示不准，无法作为次要设备不休眠使用等等。
 template: post
+draft: false
 link: http://www.whidy.net/logitech-g930-always-disconnect.html
 slug: /logitech-g930-always-disconnect
 title: 罗技G930耳机经常自动断开重连等问题解决方案及使用感受

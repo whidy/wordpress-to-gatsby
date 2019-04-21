@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-08-07 02:09:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/jstl-learning-doc-api.html
 slug: /jstl-learning-doc-api
 title: JSTL相关资料手册打包学习及研究

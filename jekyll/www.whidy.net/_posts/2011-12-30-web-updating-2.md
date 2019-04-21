@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-12-30 05:18:27+00:00
 template: post
+draft: false
 link: http://www.whidy.net/web-updating-2.html
 slug: /web-updating-2
 title: 新年总得有些变化,新衣裳筹备中...

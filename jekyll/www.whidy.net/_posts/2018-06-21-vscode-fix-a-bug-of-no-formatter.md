@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2018-06-21 01:37:09+00:00
-excerpt: 我在更换了系统，并使用VSCode的Settings Sync插件同步设置和其他插件后，部分插件功能失效，无法格式化代码等问题的查找和解决
+description: 我在更换了系统，并使用VSCode的Settings Sync插件同步设置和其他插件后，部分插件功能失效，无法格式化代码等问题的查找和解决
 template: post
+draft: false
 link: http://www.whidy.net/vscode-fix-a-bug-of-no-formatter.html
 slug: /vscode-fix-a-bug-of-no-formatter
 title: VSCode格式化代码功能失效的bug解决方法

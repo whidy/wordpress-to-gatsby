@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2017-06-29 02:23:09+00:00
 template: post
+draft: false
 link: http://www.whidy.net/node-server-cannot-visit-firewall-settings.html
 slug: /node-server-cannot-visit-firewall-settings
 title: node搭本地服务器局域网内其他设备无法访问的问题

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-06-14 07:16:22+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-v9-templates-select-blank.html
 slug: /phpcms-v9-templates-select-blank
 title: PHPCMS V9 栏目模版空白无显示解决方案

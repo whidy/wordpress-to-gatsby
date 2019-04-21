@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-12-15 10:58:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/hearthstone-feelings.html
 slug: /hearthstone-feelings
 title: 玩近一个月有感

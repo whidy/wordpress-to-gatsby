@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-05-06 04:49:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-damien-rice-lisa-hannigan-9-crimes.html
 slug: /music-damien-rice-lisa-hannigan-9-crimes
 title: '[好歌推荐]Damien Rice&Lisa Hannigan – 9 Crimes'

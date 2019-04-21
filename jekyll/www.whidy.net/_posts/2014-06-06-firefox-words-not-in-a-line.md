@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-06-06 03:10:29+00:00
 template: post
+draft: false
 link: http://www.whidy.net/firefox-words-not-in-a-line.html
 slug: /firefox-words-not-in-a-line
 title: 关于火狐的文字换行问题思考

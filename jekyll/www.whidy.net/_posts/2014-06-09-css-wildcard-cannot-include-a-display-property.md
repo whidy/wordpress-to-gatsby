@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-06-09 13:57:18+00:00
 template: post
+draft: false
 link: http://www.whidy.net/css-wildcard-cannot-include-a-display-property.html
 slug: /css-wildcard-cannot-include-a-display-property
 title: CSS的通配符*内不能用display属性?

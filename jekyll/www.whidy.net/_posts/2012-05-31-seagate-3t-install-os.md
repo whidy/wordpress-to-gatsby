@@ -3,11 +3,12 @@ author: whidy
 comments: true
 date: 2012-05-31 04:55:58+00:00
 template: post
+draft: false
 link: http://www.whidy.net/seagate-3t-install-os.html
 slug: /seagate-3t-install-os
 title: 希捷新3T硬盘老主板也能装系统
 wordpress_id: 784
-category: '硬件'
+category: '分享'
 tags:
 - 技术
 - 教程

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-07-26 16:35:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/night-mountain.html
 slug: /night-mountain
 title: 山夜

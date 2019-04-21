@@ -2,9 +2,10 @@
 author: whidy
 comments: true
 date: 2017-06-01 01:01:56+00:00
-excerpt: '在win10 64位系统下,关于nodejs下通过npm install环境部署项目时出现报错''MSBUILD : error MSB4132:
+description: '在win10 64位系统下,关于nodejs下通过npm install环境部署项目时出现报错''MSBUILD : error MSB4132:
   无法识别工具版本“2.0”。可用的工具版本为 "4.0"。''的解决办法'
 template: post
+draft: false
 link: http://www.whidy.net/windows-10-64bit-nodejs-error-msbuild-error-msb4132.html
 slug: /windows-10-64bit-nodejs-error-msbuild-error-msb4132
 title: 'Windows 10 64bit 下nodejs报错"MSBUILD : error MSB4132:..."解决'

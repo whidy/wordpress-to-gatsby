@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-25 02:37:58+00:00
 template: post
+draft: false
 link: http://www.whidy.net/christmas-eve-day.html
 slug: /christmas-eve-day
 title: 平安夜,圣诞节的一天

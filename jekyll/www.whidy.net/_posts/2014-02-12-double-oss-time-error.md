@@ -3,6 +3,7 @@ author: amo
 comments: true
 date: 2014-02-12 14:20:35+00:00
 template: post
+draft: false
 link: http://www.whidy.net/double-oss-time-error.html
 slug: /double-oss-time-error
 title: 'ubuntu和win7双系统时间错误  '

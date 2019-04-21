@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-10-17 15:12:00+00:00
 template: post
+draft: false
 link: http://www.whidy.net/chrome-codecademy-font-size-10px.html
 slug: /chrome-codecademy-font-size-10px
 title: Chrome无法正确显示小于12px的问题思考解决

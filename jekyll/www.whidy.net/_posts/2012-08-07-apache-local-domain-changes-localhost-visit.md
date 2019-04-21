@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-08-07 15:04:25+00:00
 template: post
+draft: false
 link: http://www.whidy.net/apache-local-domain-changes-localhost-visit.html
 slug: /apache-local-domain-changes-localhost-visit
 title: 将做好的Apache本地域名的服务器还原成默认localhost访问方法

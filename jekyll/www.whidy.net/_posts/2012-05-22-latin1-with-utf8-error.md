@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-22 09:59:18+00:00
 template: post
+draft: false
 link: http://www.whidy.net/latin1-with-utf8-error.html
 slug: /latin1-with-utf8-error
 title: 搭建latin1与utf-8的PHP环境想不乱码都不行的艰苦日子

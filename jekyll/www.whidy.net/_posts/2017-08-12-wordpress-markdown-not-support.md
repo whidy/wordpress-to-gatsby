@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-08-12 08:10:27+00:00
-excerpt: 为了让wordpress支持markdown,重新升级了后台和主题还是没能像官方说明那样解决...最后才发现,那是给基于wordpress官方站点上创建的博客使用的...也真是醉了.
+description: 为了让wordpress支持markdown,重新升级了后台和主题还是没能像官方说明那样解决...最后才发现,那是给基于wordpress官方站点上创建的博客使用的...也真是醉了.
 template: post
+draft: false
 link: http://www.whidy.net/wordpress-markdown-not-support.html
 slug: /wordpress-markdown-not-support
 title: 为了Wordpress支持markdown...我重装了wordpress和theme,然而...

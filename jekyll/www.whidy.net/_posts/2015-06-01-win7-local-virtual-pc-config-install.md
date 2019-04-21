@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2015-06-01 15:31:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/win7-local-virtual-pc-config-install.html
 slug: /win7-local-virtual-pc-config-install
 title: win7安装本地Virtual PC虚拟机配置指南(一)

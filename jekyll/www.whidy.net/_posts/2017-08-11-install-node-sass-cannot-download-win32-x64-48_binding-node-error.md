@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-08-11 14:32:23+00:00
-excerpt: 搭建项目环境需要安装node-sass,经常会出现错误,提示https://github.com/sass/node-sass/releases/download/v4.5.3/win32-x64-48_binding.node无法下载,原因就是国外的东西很慢,解决办法也很简单...
+description: 搭建项目环境需要安装node-sass,经常会出现错误,提示https://github.com/sass/node-sass/releases/download/v4.5.3/win32-x64-48_binding.node无法下载,原因就是国外的东西很慢,解决办法也很简单...
 template: post
+draft: false
 link: http://www.whidy.net/install-node-sass-cannot-download-win32-x64-48_binding-node-error.html
 slug: /install-node-sass-cannot-download-win32-x64-48_binding-node-error
 title: '安装node-sass的时候报错 Cannot download "https://github.com/sass/node-sass/releases/download/v4.5.3/win32-x64-48_binding.node":'

@@ -2,8 +2,9 @@
 author: Adtango
 comments: true
 date: 2010-09-18 16:09:14+00:00
-excerpt: 光的传播特性质 对焦模式 偏振光
+description: 光的传播特性质 对焦模式 偏振光
 template: post
+draft: false
 link: http://www.whidy.net/photography-tips-1.html
 slug: /photography-tips-1
 title: 摄影小知识（1）

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-08-29 15:06:05+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-buzairangnigudan.html
 slug: /music-buzairangnigudan
 title: '[好歌推荐]陈升-不再让你孤单'

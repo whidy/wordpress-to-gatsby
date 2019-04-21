@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-04 14:50:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/clevo-w350etq-reviews-games.html
 slug: /clevo-w350etq-reviews-games
 title: Clevo W350ETQ 评测之游戏测试

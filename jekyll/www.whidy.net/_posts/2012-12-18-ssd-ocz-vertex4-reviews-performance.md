@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-18 12:30:47+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ssd-ocz-vertex4-reviews-performance.html
 slug: /ssd-ocz-vertex4-reviews-performance
 title: 固态硬盘OCZ Vertex4评测之性能篇

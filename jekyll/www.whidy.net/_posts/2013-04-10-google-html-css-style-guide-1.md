@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-04-10 07:32:12+00:00
 template: post
+draft: false
 link: http://www.whidy.net/google-html-css-style-guide-1.html
 slug: /google-html-css-style-guide-1
 title: 谷歌HTML/CSS书写规范总结一(Google HTML/CSS Style Guide)

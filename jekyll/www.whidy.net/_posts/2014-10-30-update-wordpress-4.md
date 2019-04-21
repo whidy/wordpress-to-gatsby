@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-10-30 15:06:48+00:00
 template: post
+draft: false
 link: http://www.whidy.net/update-wordpress-4.html
 slug: /update-wordpress-4
 title: 更新至Wordpress 4.0

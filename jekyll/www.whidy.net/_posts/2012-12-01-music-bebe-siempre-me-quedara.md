@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-01 02:52:26+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-bebe-siempre-me-quedara.html
 slug: /music-bebe-siempre-me-quedara
 title: '[好歌推荐]Bebe – Siempre Me Quedará'

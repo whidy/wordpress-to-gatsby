@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2019-01-15 07:49:25+00:00
-excerpt: 我在使用egg.js时，他用的模板引擎是Nunjucks，其中有个地方需要用到正则，可是官方文档基本上写了跟没写一样，官方的[正则表达式](https://mozilla.github.io/nunjucks/templating.html#regular-expressions)，于是我便去找例子了。
+description: 我在使用egg.js时，他用的模板引擎是Nunjucks，其中有个地方需要用到正则，可是官方文档基本上写了跟没写一样，官方的[正则表达式](https://mozilla.github.io/nunjucks/templating.html#regular-expressions)，于是我便去找例子了。
 template: post
+draft: false
 link: http://www.whidy.net/nunjucks-regexp-example.html
 slug: /nunjucks-regexp-example
 title: Nunjucks使用正则表达式示例

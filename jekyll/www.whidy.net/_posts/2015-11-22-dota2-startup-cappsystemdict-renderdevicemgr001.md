@@ -2,12 +2,13 @@
 author: whidy
 comments: true
 date: 2015-11-22 09:34:59+00:00
-excerpt: 'dota2启动报错解决
+description: 'dota2启动报错解决
 
   CAppSystemDict::LoadSystemAndDependecies():
 
   AppSystemDict: Error in init() of interface ''RenderDeviceMgr001''!'
 template: post
+draft: false
 link: http://www.whidy.net/dota2-startup-cappsystemdict-renderdevicemgr001.html
 slug: /dota2-startup-cappsystemdict-renderdevicemgr001
 title: dota2启动报错解决办法(CAppSystemDict::...RenderDeviceMgr001)

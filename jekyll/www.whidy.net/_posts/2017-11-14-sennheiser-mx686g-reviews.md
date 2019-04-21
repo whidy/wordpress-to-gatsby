@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-11-14 01:35:46+00:00
-excerpt: 亚马逊有一款森海塞尔的安卓耳机特价，MX686G。大品牌，平时都是卖400左右的，现在200就能拿到，心想音质等各方面应该不会太差吧。
+description: 亚马逊有一款森海塞尔的安卓耳机特价，MX686G。大品牌，平时都是卖400左右的，现在200就能拿到，心想音质等各方面应该不会太差吧。
 template: post
+draft: false
 link: http://www.whidy.net/sennheiser-mx686g-reviews.html
 slug: /sennheiser-mx686g-reviews
 title: 森海塞尔MX686G个人评测

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-01 13:59:30+00:00
 template: post
+draft: false
 link: http://www.whidy.net/lastchild-styles-clean.html
 slug: /lastchild-styles-clean
 title: 列表中最后一个元素样式清除修改方法(jQuery)

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-06-27 14:52:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/after-raining-scenery.html
 slug: /after-raining-scenery
 title: 雨后景致

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-01-28 08:46:13+00:00
 template: post
+draft: false
 link: http://www.whidy.net/whidy-has-a-dream.html
 slug: /whidy-has-a-dream
 title: whidy也想逆袭

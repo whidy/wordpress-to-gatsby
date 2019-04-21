@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-05-24 09:14:19+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ie6-and-ie7-has-a-different-distance-bug.html
 slug: /ie6-and-ie7-has-a-different-distance-bug
 title: IE6和IE7在同级相邻元素间边距问题

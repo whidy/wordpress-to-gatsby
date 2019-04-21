@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-13 12:28:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/css-hack-for-all-browsers.html
 slug: /css-hack-for-all-browsers
 title: 主浏览器CSS HACK(IE6,IE7,IE8,IE9,Chrome,FF)

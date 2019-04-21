@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-05-01 15:15:38+00:00
 template: post
+draft: false
 link: http://www.whidy.net/child-of-light-game.html
 slug: /child-of-light-game
 title: 强烈推荐游戏一部

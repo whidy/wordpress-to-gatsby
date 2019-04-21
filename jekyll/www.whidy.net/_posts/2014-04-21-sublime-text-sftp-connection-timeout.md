@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-04-21 14:49:11+00:00
 template: post
+draft: false
 link: http://www.whidy.net/sublime-text-sftp-connection-timeout.html
 slug: /sublime-text-sftp-connection-timeout
 title: sublime text的插件SFTP连接超时

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-16 14:22:39+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-installation-introduce-and-notice.html
 slug: /phpcms-installation-introduce-and-notice
 title: PHPCMS V9安装步骤详细介绍及说明(有效避免乱码产生)

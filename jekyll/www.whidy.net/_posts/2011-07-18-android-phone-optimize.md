@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-07-18 14:18:21+00:00
 template: post
+draft: false
 link: http://www.whidy.net/android-phone-optimize.html
 slug: /android-phone-optimize
 title: android手机性能优化

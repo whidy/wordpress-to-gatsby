@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-02-17 11:33:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/play-pal4-thinkings.html
 slug: /play-pal4-thinkings
 title: 仙剑奇侠传四再次游戏有感

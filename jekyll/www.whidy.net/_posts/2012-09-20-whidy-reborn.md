@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-09-20 13:52:20+00:00
 template: post
+draft: false
 link: http://www.whidy.net/whidy-reborn.html
 slug: /whidy-reborn
 title: 历经千辛万苦,备案成功.正式转入大陆!

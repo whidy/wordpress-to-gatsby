@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-05-29 12:10:28+00:00
 template: post
+draft: false
 link: http://www.whidy.net/talk-about-what-is-web-designer.html
 slug: /talk-about-what-is-web-designer
 title: 何谓设计师略谈

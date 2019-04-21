@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-07-15 11:19:47+00:00
 template: post
+draft: false
 link: http://www.whidy.net/how-to-remove-margins-for-first-last-elements.html
 slug: /how-to-remove-margins-for-first-last-elements
 title: 如何为第一个或最后一个元素甚至是某类规律元素添加样式?

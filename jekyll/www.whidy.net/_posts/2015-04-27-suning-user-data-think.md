@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2015-04-27 13:24:35+00:00
-excerpt: 总结了近日生活的一些小故事,包括苏宁易购用户信息泄露造成骗子打来诈骗电话,我找客服核实基本虚假.近期加强的体育锻炼,以跑步为主.以及新换的iphone5s使用感受,还有对GTA5的无限喜爱~
+description: 总结了近日生活的一些小故事,包括苏宁易购用户信息泄露造成骗子打来诈骗电话,我找客服核实基本虚假.近期加强的体育锻炼,以跑步为主.以及新换的iphone5s使用感受,还有对GTA5的无限喜爱~
 template: post
+draft: false
 link: http://www.whidy.net/suning-user-data-think.html
 slug: /suning-user-data-think
 title: 苏宁易购用户信息安全性疑思

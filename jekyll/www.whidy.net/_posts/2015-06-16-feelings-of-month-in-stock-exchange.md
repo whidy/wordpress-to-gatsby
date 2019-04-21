@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2015-06-16 15:26:01+00:00
-excerpt: 也不知道为何,不知不觉选择了进入股市,开始学习一种投资方法,入市一个月多的时间里,学到了不少东西,很多都是细微的,意想不到的.在此稍作总结,记录一下我那小小的入市有感.
+description: 也不知道为何,不知不觉选择了进入股市,开始学习一种投资方法,入市一个月多的时间里,学到了不少东西,很多都是细微的,意想不到的.在此稍作总结,记录一下我那小小的入市有感.
 template: post
+draft: false
 link: http://www.whidy.net/feelings-of-month-in-stock-exchange.html
 slug: /feelings-of-month-in-stock-exchange
 title: 入市,只是步入一个故事的小角色

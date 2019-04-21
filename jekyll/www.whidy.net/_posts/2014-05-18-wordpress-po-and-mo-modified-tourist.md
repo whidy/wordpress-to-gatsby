@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-05-18 09:46:33+00:00
 template: post
+draft: false
 link: http://www.whidy.net/wordpress-po-and-mo-modified-tourist.html
 slug: /wordpress-po-and-mo-modified-tourist
 title: WORDPRESS自定义模板后的PO文本翻译修改以及MO修改教程

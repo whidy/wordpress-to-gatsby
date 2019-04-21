@@ -3,6 +3,7 @@ author: amo
 comments: true
 date: 2014-12-04 13:50:29+00:00
 template: post
+draft: false
 link: http://www.whidy.net/nodejs-express-no-order.html
 slug: /nodejs-express-no-order
 title: 安装express后验证显示没有相应命令

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-07-25 11:46:15+00:00
 template: post
+draft: false
 link: http://www.whidy.net/pal5q-dlc-end.html
 slug: /pal5q-dlc-end
 title: 仙剑奇侠传五前传DLC之梦华幻斗之通关感言

@@ -2,13 +2,14 @@
 author: whidy
 comments: true
 date: 2015-02-11 14:16:18+00:00
-excerpt: 这部小说如同一篇童话故事,其中少不了意想不到的曲折故事,很多时候,那些令人惊讶的巧合事件,却总是能在现实生活中发生,7年,多么漫长的时间,曾经的恋人再次相遇
+description: 这部小说如同一篇童话故事,其中少不了意想不到的曲折故事,很多时候,那些令人惊讶的巧合事件,却总是能在现实生活中发生,7年,多么漫长的时间,曾经的恋人再次相遇
 template: post
+draft: false
 link: http://www.whidy.net/thinkings-of-read-my-sunshine.html
 slug: /thinkings-of-read-my-sunshine
 title: 粗读有感
 wordpress_id: 2752
-category: '爱情'
+category: '随想'
 tags:
 - 心情
 - 感想

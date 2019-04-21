@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-08-16 13:55:45+00:00
 template: post
+draft: false
 link: http://www.whidy.net/poem-about-love.html
 slug: /poem-about-love
 title: 泰戈尔,徐志摩经典语录诗词欣赏

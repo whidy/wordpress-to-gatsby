@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-07-15 15:40:03+00:00
 template: post
+draft: false
 link: http://www.whidy.net/people-ambition.html
 slug: /people-ambition
 title: 人们的志向

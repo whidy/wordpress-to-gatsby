@@ -2,9 +2,10 @@
 author: whidy
 comments: true
 date: 2017-11-27 01:35:49+00:00
-excerpt: 是否有那么一款软件可以统计到每天在电脑上都干了些什么。简单来说就是，统计当前程序窗口在最前端运行的时间~当然有，如此专业的我还是很快找到了几款，这次我来介绍下这个小巧的软件Personal
+description: 是否有那么一款软件可以统计到每天在电脑上都干了些什么。简单来说就是，统计当前程序窗口在最前端运行的时间~当然有，如此专业的我还是很快找到了几款，这次我来介绍下这个小巧的软件Personal
   Activity Monitor！
 template: post
+draft: false
 link: http://www.whidy.net/what-do-you-do-a-day-with-pc.html
 slug: /what-do-you-do-a-day-with-pc
 title: 这一天的你在电脑上都做了些什么！？

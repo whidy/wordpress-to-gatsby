@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-07-27 03:23:52+00:00
-excerpt: 最近研究html5的video标签,尝试自己做一个播放器.然后既然是自己做必然要将video的controls给关掉.那我们该如何控制字幕的显示和隐藏了呢?
+description: 最近研究html5的video标签,尝试自己做一个播放器.然后既然是自己做必然要将video的controls给关掉.那我们该如何控制字幕的显示和隐藏了呢?
 template: post
+draft: false
 link: http://www.whidy.net/html5-video-disable-contorls-how-to-control-subtitle-by-js.html
 slug: /html5-video-disable-contorls-how-to-control-subtitle-by-js
 title: HTML5视频VIDEO标签播放器关闭了controls时的字幕通过JS关闭方法

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-07-01 02:12:20+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-keren-ann-the-harder-ships-of-the-world.html
 slug: /music-keren-ann-the-harder-ships-of-the-world
 title: '[好歌推荐]Keren Ann – The harder ships of the world'

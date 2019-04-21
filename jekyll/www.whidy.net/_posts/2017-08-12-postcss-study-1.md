@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-08-12 08:02:13+00:00
-excerpt: 关于我最近学习PostCSS的一些相关心得和总结
+description: 关于我最近学习PostCSS的一些相关心得和总结
 template: post
+draft: false
 link: http://www.whidy.net/postcss-study-1.html
 slug: /postcss-study-1
 title: PostCSS学习指南（一）

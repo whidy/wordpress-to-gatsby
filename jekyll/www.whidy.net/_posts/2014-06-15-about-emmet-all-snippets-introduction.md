@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-06-15 14:23:02+00:00
 template: post
+draft: false
 link: http://www.whidy.net/about-emmet-all-snippets-introduction.html
 slug: /about-emmet-all-snippets-introduction
 title: 关于Emmet自带的全部snippets简单介绍

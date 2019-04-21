@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-04-27 03:31:21+00:00
 template: post
+draft: false
 link: http://www.whidy.net/what-is-friend-and-friendship.html
 slug: /what-is-friend-and-friendship
 title: '"论朋友"与大家分享该文,摘自'

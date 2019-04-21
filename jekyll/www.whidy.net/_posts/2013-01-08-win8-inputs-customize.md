@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-01-08 08:49:17+00:00
 template: post
+draft: false
 link: http://www.whidy.net/win8-inputs-customize.html
 slug: /win8-inputs-customize
 title: WIN8无法删除微软拼音简捷输入法问题解决方法

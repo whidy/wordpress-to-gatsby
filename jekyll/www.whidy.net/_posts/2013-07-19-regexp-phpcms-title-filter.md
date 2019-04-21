@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-07-19 03:01:20+00:00
 template: post
+draft: false
 link: http://www.whidy.net/regexp-phpcms-title-filter.html
 slug: /regexp-phpcms-title-filter
 title: 利用MYSQL正则表达式-PHPCMS标题筛选文章

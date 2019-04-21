@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-02-22 13:55:41+00:00
 template: post
+draft: false
 link: http://www.whidy.net/my-meizu-mx2-reviews.html
 slug: /my-meizu-mx2-reviews
 title: 我的魅族MX2使用感受

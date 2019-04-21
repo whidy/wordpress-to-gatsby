@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-06-18 01:09:50+00:00
 template: post
+draft: false
 link: http://www.whidy.net/wordpress-highlight-js-intro.html
 slug: /wordpress-highlight-js-intro
 title: wordpress高亮插件Highlight.js手动添加及使用说明

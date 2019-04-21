@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-26 02:05:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-v9-comments-list-research.html
 slug: /phpcms-v9-comments-list-research
 title: 关于PHPCMS V9显示评论数排行列表小研究

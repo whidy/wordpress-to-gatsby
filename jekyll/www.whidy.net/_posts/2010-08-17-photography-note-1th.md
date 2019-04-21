@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-08-17 15:05:18+00:00
 template: post
+draft: false
 link: http://www.whidy.net/photography-note-1th.html
 slug: /photography-note-1th
 title: 摄影入门笔记(一)

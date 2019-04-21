@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-07-19 11:20:22+00:00
 template: post
+draft: false
 link: http://www.whidy.net/childhood-memorize-rhapsody-in-blue.html
 slug: /childhood-memorize-rhapsody-in-blue
 title: 儿时的回忆之格什温有感

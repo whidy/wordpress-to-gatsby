@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-06-18 08:39:14+00:00
 template: post
+draft: false
 link: http://www.whidy.net/sublime-text-3-cn.html
 slug: /sublime-text-3-cn
 title: Sublime Text 3 中文优化版更新下载了(最后更新2014.9)

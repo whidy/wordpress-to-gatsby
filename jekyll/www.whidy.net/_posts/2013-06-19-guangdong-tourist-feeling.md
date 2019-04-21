@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-06-19 13:48:46+00:00
 template: post
+draft: false
 link: http://www.whidy.net/guangdong-tourist-feeling.html
 slug: /guangdong-tourist-feeling
 title: 广东出游感受

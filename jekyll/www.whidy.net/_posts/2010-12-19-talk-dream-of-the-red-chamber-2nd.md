@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-19 16:32:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/talk-dream-of-the-red-chamber-2nd.html
 slug: /talk-dream-of-the-red-chamber-2nd
 title: 赏新红楼梦后说(二)

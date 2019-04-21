@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-18 05:23:41+00:00
 template: post
+draft: false
 link: http://www.whidy.net/js-time-line-pictures-slider.html
 slug: /js-time-line-pictures-slider
 title: 带进度条(时间轴)的焦点图切换特效(jQuery)

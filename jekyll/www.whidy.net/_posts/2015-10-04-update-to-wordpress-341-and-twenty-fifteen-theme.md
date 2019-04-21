@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2015-10-04 10:43:15+00:00
-excerpt: 更新wordpress 3.4.1和Twenty Fifteen
+description: 更新wordpress 3.4.1和Twenty Fifteen
 template: post
+draft: false
 link: http://www.whidy.net/update-to-wordpress-341-and-twenty-fifteen-theme.html
 slug: /update-to-wordpress-341-and-twenty-fifteen-theme
 title: 更新wordpress 3.4.1和Twenty Fifteen

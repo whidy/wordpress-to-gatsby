@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-11-27 06:42:16+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-content-pic-link-research.html
 slug: /phpcms-content-pic-link-research
 title: phpcms内容图片链接地址研究

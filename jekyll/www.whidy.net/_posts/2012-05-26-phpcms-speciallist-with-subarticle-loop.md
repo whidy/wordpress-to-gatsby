@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-26 03:28:35+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-speciallist-with-subarticle-loop.html
 slug: /phpcms-speciallist-with-subarticle-loop
 title: PHPCMS页面专题汇总列表内调用该专题内文章方法

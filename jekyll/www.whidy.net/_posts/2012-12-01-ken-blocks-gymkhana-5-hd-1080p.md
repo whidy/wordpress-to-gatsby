@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-01 13:03:16+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ken-blocks-gymkhana-5-hd-1080p.html
 slug: /ken-blocks-gymkhana-5-hd-1080p
 title: KEN BLOCK'S GYMKHANA FIVE 玩转旧金山漂移高清视频分享HD

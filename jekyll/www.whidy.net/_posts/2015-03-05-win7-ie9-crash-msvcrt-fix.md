@@ -2,9 +2,10 @@
 author: whidy
 comments: true
 date: 2015-03-05 10:18:07+00:00
-excerpt: '莫名其妙的win7下IE9打开页面就会无限崩溃,重置ie,卸载重装,停用插件,等办法均无效.最后通过设置"使用软件呈现而不使用 GPU 呈现*"修好了,还真是奇怪呢,也不知道错误模块名称:
+description: '莫名其妙的win7下IE9打开页面就会无限崩溃,重置ie,卸载重装,停用插件,等办法均无效.最后通过设置"使用软件呈现而不使用 GPU 呈现*"修好了,还真是奇怪呢,也不知道错误模块名称:
   msvcrt.dll,然后就是异常代码: 0xc0000005了这些都是什么鬼'
 template: post
+draft: false
 link: http://www.whidy.net/win7-ie9-crash-msvcrt-fix.html
 slug: /win7-ie9-crash-msvcrt-fix
 title: win7下IE9打开页面无限崩溃解决办法

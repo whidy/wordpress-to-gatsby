@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-04-07 10:00:33+00:00
 template: post
+draft: false
 link: http://www.whidy.net/absolute-element-scroll-without-blink.html
 slug: /absolute-element-scroll-without-blink
 title: 绝对定位元素随滚动条滑动无延时不闪烁的解决办法!

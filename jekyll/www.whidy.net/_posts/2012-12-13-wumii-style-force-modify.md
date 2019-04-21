@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-13 07:22:04+00:00
 template: post
+draft: false
 link: http://www.whidy.net/wumii-style-force-modify.html
 slug: /wumii-style-force-modify
 title: wumii相关文章插件样式暴力修改

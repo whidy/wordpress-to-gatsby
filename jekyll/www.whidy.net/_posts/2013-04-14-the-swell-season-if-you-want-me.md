@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-04-14 14:03:03+00:00
 template: post
+draft: false
 link: http://www.whidy.net/the-swell-season-if-you-want-me.html
 slug: /the-swell-season-if-you-want-me
 title: '[好歌推荐]Markéta Irglová – If You Want Me'

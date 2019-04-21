@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-07-20 09:54:54+00:00
 template: post
+draft: false
 link: http://www.whidy.net/pal5q-dlc-boss.html
 slug: /pal5q-dlc-boss
 title: 仙剑奇侠传五前传DLC之梦华幻斗之虹芝岛过关小攻略

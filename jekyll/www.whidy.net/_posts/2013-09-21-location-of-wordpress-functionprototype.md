@@ -3,6 +3,7 @@ author: amo
 comments: true
 date: 2013-09-21 01:02:35+00:00
 template: post
+draft: false
 link: http://www.whidy.net/location-of-wordpress-functionprototype.html
 slug: /location-of-wordpress-functionprototype
 title: wordpress函数原型的位置

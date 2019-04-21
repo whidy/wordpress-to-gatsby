@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-07-01 02:40:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/pal5q-thinking.html
 slug: /pal5q-thinking
 title: 仙剑奇侠传五前传之感想

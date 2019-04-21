@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-08-11 14:57:59+00:00
 template: post
+draft: false
 link: http://www.whidy.net/web-updating.html
 slug: /web-updating
 title: 网站更新中...

@@ -3,6 +3,7 @@ author: whidy
 comments: false
 date: 2014-07-06 12:42:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/move-house.html
 slug: /move-house
 title: 搬家留念

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-05-31 01:46:03+00:00
 template: post
+draft: false
 link: http://www.whidy.net/cenda-m100-reviews.html
 slug: /cenda-m100-reviews
 title: 力杰M100移动电源使用简单评测

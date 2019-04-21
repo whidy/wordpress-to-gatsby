@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-02-24 16:39:26+00:00
 template: post
+draft: false
 link: http://www.whidy.net/guangzhou-impression.html
 slug: /guangzhou-impression
 title: 广州初印象

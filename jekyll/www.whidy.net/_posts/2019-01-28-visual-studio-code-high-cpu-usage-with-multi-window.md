@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2019-01-28 02:52:59+00:00
-excerpt: Visual Studio Code 在使用中CPU占用率突然增高，风扇开始狂转，温度骤增，影响心情的故障原因。
+description: Visual Studio Code 在使用中CPU占用率突然增高，风扇开始狂转，温度骤增，影响心情的故障原因。
 template: post
+draft: false
 link: http://www.whidy.net/visual-studio-code-high-cpu-usage-with-multi-window.html
 slug: /visual-studio-code-high-cpu-usage-with-multi-window
 title: Visual Studio Code使用中CPU占用率异常暴增过高原因

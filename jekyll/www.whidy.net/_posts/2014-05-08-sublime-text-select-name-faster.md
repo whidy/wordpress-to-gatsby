@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-05-08 10:40:13+00:00
 template: post
+draft: false
 link: http://www.whidy.net/sublime-text-select-name-faster.html
 slug: /sublime-text-select-name-faster
 title: sublime text快速选择带有横线(连接符)的类名或ID名等

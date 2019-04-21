@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-01 04:00:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/how-deep-to-be-web-front-engineer.html
 slug: /how-deep-to-be-web-front-engineer
 title: 页面前端的水有多深

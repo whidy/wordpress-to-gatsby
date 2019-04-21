@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-04-18 14:23:43+00:00
 template: post
+draft: false
 link: http://www.whidy.net/w350etq-k590s-pch-easy-cool.html
 slug: /w350etq-k590s-pch-easy-cool
 title: W350ETQ(K590S)装双硬盘南桥(PCH)散热最简单的方法

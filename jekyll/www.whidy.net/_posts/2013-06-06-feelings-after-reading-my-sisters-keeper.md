@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-06-06 02:40:05+00:00
 template: post
+draft: false
 link: http://www.whidy.net/feelings-after-reading-my-sisters-keeper.html
 slug: /feelings-after-reading-my-sisters-keeper
 title: 读有感

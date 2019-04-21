@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-08-28 13:52:41+00:00
 template: post
+draft: false
 link: http://www.whidy.net/sublime-text-2-zencoding-intro.html
 slug: /sublime-text-2-zencoding-intro
 title: Sublime Text 2下使用ZenCoding简介

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-09-14 17:49:22+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-adele-rolling-in-the-deep.html
 slug: /music-adele-rolling-in-the-deep
 title: '[好歌推荐]Adele - Rolling In The Deep'

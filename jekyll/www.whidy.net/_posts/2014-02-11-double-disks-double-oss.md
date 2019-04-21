@@ -3,6 +3,7 @@ author: amo
 comments: true
 date: 2014-02-11 12:46:12+00:00
 template: post
+draft: false
 link: http://www.whidy.net/double-disks-double-oss.html
 slug: /double-disks-double-oss
 title: 4740g笔记本固态加机械硬盘，安装双系统，及非常规拯救措施

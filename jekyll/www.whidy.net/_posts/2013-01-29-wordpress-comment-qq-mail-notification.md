@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-01-29 07:55:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/wordpress-comment-qq-mail-notification.html
 slug: /wordpress-comment-qq-mail-notification
 title: wordpress评论后QQ邮箱提示再谈

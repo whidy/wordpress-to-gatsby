@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-11-20 05:51:33+00:00
 template: post
+draft: false
 link: http://www.whidy.net/a-mood-from-trash.html
 slug: /a-mood-from-trash
 title: 垃圾桶里捡回来的心情

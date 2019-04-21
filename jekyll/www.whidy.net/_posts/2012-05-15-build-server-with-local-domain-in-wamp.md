@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-05-15 15:23:20+00:00
 template: post
+draft: false
 link: http://www.whidy.net/build-server-with-local-domain-in-wamp.html
 slug: /build-server-with-local-domain-in-wamp
 title: Apache创建本地域名的服务器(WAMP环境)

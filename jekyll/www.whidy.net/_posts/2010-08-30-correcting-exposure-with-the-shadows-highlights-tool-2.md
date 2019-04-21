@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-08-30 08:07:15+00:00
 template: post
+draft: false
 link: http://www.whidy.net/correcting-exposure-with-the-shadows-highlights-tool-2.html
 slug: /correcting-exposure-with-the-shadows-highlights-tool-2
 title: 通过photoshop的阴影/高光工具调整相片曝光问题(下)

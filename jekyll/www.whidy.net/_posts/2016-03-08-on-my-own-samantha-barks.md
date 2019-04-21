@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2016-03-08 13:34:37+00:00
-excerpt: On My Own - Samantha Barks爱潘妮
+description: On My Own - Samantha Barks爱潘妮
 template: post
+draft: false
 link: http://www.whidy.net/on-my-own-samantha-barks.html
 slug: /on-my-own-samantha-barks
 title: '[好歌推荐]On My Own - Samantha Barks爱潘妮'

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-09-20 12:54:34+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-one-direction-what-makes-you-beautiful.html
 slug: /music-one-direction-what-makes-you-beautiful
 title: '[好歌推荐]One Direction - What Makes You Beautiful'

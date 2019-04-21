@@ -2,9 +2,10 @@
 author: whidy
 comments: true
 date: 2018-06-27 14:55:47+00:00
-excerpt: 我的Wordpress博客升级到了4.9.6了, 大概也是最后一次升级了. 同时在目前未发生重大变动的情况下, 我打算通过WP-Markdown插件暂时弥补无法通过markdown语法写作的弊端.
+description: 我的Wordpress博客升级到了4.9.6了, 大概也是最后一次升级了. 同时在目前未发生重大变动的情况下, 我打算通过WP-Markdown插件暂时弥补无法通过markdown语法写作的弊端.
   与此同时, 也是该想想怎么改造了~
 template: post
+draft: false
 link: http://www.whidy.net/wordpress-upgrade-4-9-6-and-blog-transform-plan.html
 slug: /wordpress-upgrade-4-9-6-and-blog-transform-plan
 title: Wordpress升级到4.9.6及近期博客改造计划

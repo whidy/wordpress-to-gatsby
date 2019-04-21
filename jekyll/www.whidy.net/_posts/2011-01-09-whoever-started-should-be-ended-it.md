@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-01-09 16:24:57+00:00
 template: post
+draft: false
 link: http://www.whidy.net/whoever-started-should-be-ended-it.html
 slug: /whoever-started-should-be-ended-it
 title: 解铃还须系铃人

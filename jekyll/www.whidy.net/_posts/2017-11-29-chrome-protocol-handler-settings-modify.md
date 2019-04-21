@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-11-29 12:16:36+00:00
-excerpt: 由于误操作，造成Chrome启动关联程序的协议链接被禁用，那么怎么重新修改设置，启动相关的程序呢，这里将为大家解答！
+description: 由于误操作，造成Chrome启动关联程序的协议链接被禁用，那么怎么重新修改设置，启动相关的程序呢，这里将为大家解答！
 template: post
+draft: false
 link: http://www.whidy.net/chrome-protocol-handler-settings-modify.html
 slug: /chrome-protocol-handler-settings-modify
 title: Chrome启动关联程序的协议链接误操作被禁用后如何修改设置重新开启

@@ -2,9 +2,10 @@
 author: whidy
 comments: true
 date: 2015-11-06 08:03:05+00:00
-excerpt: 如果在SublimeText3的css文件引用图片里将图片快速转换为base64(Data URL)的方法,以及利用chrome开发者工具获取图片的Data
+description: 如果在SublimeText3的css文件引用图片里将图片快速转换为base64(Data URL)的方法,以及利用chrome开发者工具获取图片的Data
   Url的方法
 template: post
+draft: false
 link: http://www.whidy.net/sublimetext3-css-file-image-change-base64.html
 slug: /sublimetext3-css-file-image-change-base64
 title: SublimeText3的css文件引用图片转base64快速方法

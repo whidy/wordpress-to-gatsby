@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-08-23 14:00:52+00:00
 template: post
+draft: false
 link: http://www.whidy.net/music-meav-one-i-love.html
 slug: /music-meav-one-i-love
 title: '[好歌推荐]Meav - One I Love'

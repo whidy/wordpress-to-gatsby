@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-03-05 14:57:49+00:00
 template: post
+draft: false
 link: http://www.whidy.net/multi-rows-vertical-align-middle-with-float-parent.html
 slug: /multi-rows-vertical-align-middle-with-float-parent
 title: 父级带有浮动的多行文字垂直居中

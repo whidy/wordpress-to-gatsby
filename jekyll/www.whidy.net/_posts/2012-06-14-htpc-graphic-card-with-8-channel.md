@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-06-14 14:47:37+00:00
 template: post
+draft: false
 link: http://www.whidy.net/htpc-graphic-card-with-8-channel.html
 slug: /htpc-graphic-card-with-8-channel
 title: HTPC显卡选购(HDMI接口支持TrueHD,LPCM等7.1声道等)

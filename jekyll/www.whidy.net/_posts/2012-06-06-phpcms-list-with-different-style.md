@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-06-06 08:51:33+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-list-with-different-style.html
 slug: /phpcms-list-with-different-style
 title: phpcms文章列表循环不同样式制作方法

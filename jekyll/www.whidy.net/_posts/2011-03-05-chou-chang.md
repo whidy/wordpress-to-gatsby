@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-03-05 15:42:28+00:00
 template: post
+draft: false
 link: http://www.whidy.net/chou-chang.html
 slug: /chou-chang
 title: 愁唱

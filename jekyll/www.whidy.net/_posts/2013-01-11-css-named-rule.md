@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-01-11 06:55:25+00:00
 template: post
+draft: false
 link: http://www.whidy.net/css-named-rule.html
 slug: /css-named-rule
 title: CSS命名规则经验之常用的CSS类名举例

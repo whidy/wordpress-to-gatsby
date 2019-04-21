@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-05-22 10:34:22+00:00
 template: post
+draft: false
 link: http://www.whidy.net/raining-day.html
 slug: /raining-day
 title: 雨天

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-02 14:14:09+00:00
 template: post
+draft: false
 link: http://www.whidy.net/clevo-w350etq-reviews-benchmark.html
 slug: /clevo-w350etq-reviews-benchmark
 title: Clevo W350ETQ 评测之跑分测试

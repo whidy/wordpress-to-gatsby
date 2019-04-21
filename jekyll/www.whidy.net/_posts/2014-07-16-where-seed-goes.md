@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-07-16 15:32:10+00:00
 template: post
+draft: false
 link: http://www.whidy.net/where-seed-goes.html
 slug: /where-seed-goes
 title: 迷茫的蒲公英种子

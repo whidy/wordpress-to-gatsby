@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-11-29 08:57:55+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-v9-update-comment-error.html
 slug: /phpcms-v9-update-comment-error
 title: phpcms V9更新到最新后评论审核出错解决方法

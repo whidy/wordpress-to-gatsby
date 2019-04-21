@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-10-21 11:18:38+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ai-otsuka-chinese-edition.html
 slug: /ai-otsuka-chinese-edition
 title: 大冢爱中文版

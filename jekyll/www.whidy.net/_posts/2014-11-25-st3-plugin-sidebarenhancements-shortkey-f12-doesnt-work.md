@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2014-11-25 14:17:15+00:00
-excerpt: 最近我的sublime text 3突然无法用F12预览正在制作的页面了.相反,倒是成了提示" unable to find xxx",还真是奇怪,当然本身这是用的一个侧边栏插件Side​Bar​Enhancements,但是好好的插件,为什么无缘无故的快捷键就坏了呢.
+description: 最近我的sublime text 3突然无法用F12预览正在制作的页面了.相反,倒是成了提示" unable to find xxx",还真是奇怪,当然本身这是用的一个侧边栏插件Side​Bar​Enhancements,但是好好的插件,为什么无缘无故的快捷键就坏了呢.
 template: post
+draft: false
 link: http://www.whidy.net/st3-plugin-sidebarenhancements-shortkey-f12-doesnt-work.html
 slug: /st3-plugin-sidebarenhancements-shortkey-f12-doesnt-work
 title: SublimeText3突然无法通过快捷键F12预览页面

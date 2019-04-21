@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-06-27 07:28:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/riders-on-the-storm-the-doors.html
 slug: /riders-on-the-storm-the-doors
 title: '[好歌推荐]Riders on the Storm - The Doors'

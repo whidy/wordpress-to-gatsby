@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-04-15 12:41:22+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ie6-arial-double-quote-font-bug.html
 slug: /ie6-arial-double-quote-font-bug
 title: 一个小小的双引号引发的思考-XP内IE下的字体(下)

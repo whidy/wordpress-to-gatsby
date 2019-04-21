@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-11 07:49:13+00:00
 template: post
+draft: false
 link: http://www.whidy.net/phpcms-views-cheat-research-2.html
 slug: /phpcms-views-cheat-research-2
 title: phpcms点击数作弊深度研究(下)

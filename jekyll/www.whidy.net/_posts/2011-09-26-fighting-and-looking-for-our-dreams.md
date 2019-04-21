@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-09-26 16:01:06+00:00
 template: post
+draft: false
 link: http://www.whidy.net/fighting-and-looking-for-our-dreams.html
 slug: /fighting-and-looking-for-our-dreams
 title: 努力去寻找它的标题吧

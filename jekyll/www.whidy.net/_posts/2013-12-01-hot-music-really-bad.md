@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-12-01 12:03:55+00:00
 template: post
+draft: false
 link: http://www.whidy.net/hot-music-really-bad.html
 slug: /hot-music-really-bad
 title: 发烧唱片真的发烧么?

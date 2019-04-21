@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-20 16:34:25+00:00
 template: post
+draft: false
 link: http://www.whidy.net/leave-stay.html
 slug: /leave-stay
 title: 来来去去,散散聚聚.

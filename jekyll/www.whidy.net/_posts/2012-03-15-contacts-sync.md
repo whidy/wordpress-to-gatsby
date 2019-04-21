@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-03-15 13:50:06+00:00
 template: post
+draft: false
 link: http://www.whidy.net/contacts-sync.html
 slug: /contacts-sync
 title: WP联系人同步技巧

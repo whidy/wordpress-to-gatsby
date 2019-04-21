@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-10-28 11:22:55+00:00
 template: post
+draft: false
 link: http://www.whidy.net/w350etq-bios-ec-download-share.html
 slug: /w350etq-bios-ec-download-share
 title: W350ETQ最新BIOS和EC下载分享(2013.9)

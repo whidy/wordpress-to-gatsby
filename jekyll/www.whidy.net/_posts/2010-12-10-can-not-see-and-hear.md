@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-10 13:31:51+00:00
 template: post
+draft: false
 link: http://www.whidy.net/can-not-see-and-hear.html
 slug: /can-not-see-and-hear
 title: 看不懂的风吹草动,听不见的轻声细语.

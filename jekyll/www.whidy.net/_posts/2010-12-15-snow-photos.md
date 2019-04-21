@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-15 14:28:27+00:00
 template: post
+draft: false
 link: http://www.whidy.net/snow-photos.html
 slug: /snow-photos
 title: 雪-随拍

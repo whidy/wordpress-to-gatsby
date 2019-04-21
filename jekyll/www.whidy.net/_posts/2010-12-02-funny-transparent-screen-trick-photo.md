@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-02 15:28:26+00:00
 template: post
+draft: false
 link: http://www.whidy.net/funny-transparent-screen-trick-photo.html
 slug: /funny-transparent-screen-trick-photo
 title: 有趣的透视屏幕图~

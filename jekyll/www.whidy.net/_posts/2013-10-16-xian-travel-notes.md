@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-10-16 12:17:50+00:00
 template: post
+draft: false
 link: http://www.whidy.net/xian-travel-notes.html
 slug: /xian-travel-notes
 title: 西安半月游记

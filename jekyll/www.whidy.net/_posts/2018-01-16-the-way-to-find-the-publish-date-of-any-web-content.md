@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2018-01-16 06:17:29+00:00
-excerpt: 为什么要搞清楚该网页内容的发布时间呢，有些网站作者的确很不友好，故意隐藏，目的是啥我也不知道。但是我觉得有时候的确很有必要知道正在查阅的内容，尤其是相对重要的内容的时候，他的发布日期对我来说很重要。
+description: 为什么要搞清楚该网页内容的发布时间呢，有些网站作者的确很不友好，故意隐藏，目的是啥我也不知道。但是我觉得有时候的确很有必要知道正在查阅的内容，尤其是相对重要的内容的时候，他的发布日期对我来说很重要。
 template: post
+draft: false
 link: http://www.whidy.net/the-way-to-find-the-publish-date-of-any-web-content.html
 slug: /the-way-to-find-the-publish-date-of-any-web-content
 title: 怎样找到当前页面发布日期的几种方法

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2012-12-10 06:29:19+00:00
 template: post
+draft: false
 link: http://www.whidy.net/jq-more-demo.html
 slug: /jq-more-demo
 title: 利用jQuery点击显示更多元素演示代码

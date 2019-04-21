@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-01-09 01:13:09+00:00
 template: post
+draft: false
 link: http://www.whidy.net/bing-seo-guidelines.html
 slug: /bing-seo-guidelines
 title: Bing官方搜索优化指南：Bing SEO Guidelines

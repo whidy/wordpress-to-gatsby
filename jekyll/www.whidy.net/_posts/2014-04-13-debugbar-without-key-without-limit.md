@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-04-13 12:44:14+00:00
 template: post
+draft: false
 link: http://www.whidy.net/debugbar-without-key-without-limit.html
 slug: /debugbar-without-key-without-limit
 title: debugbar无需注册码无限使用办法

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-06-09 02:40:18+00:00
 template: post
+draft: false
 link: http://www.whidy.net/whidy-was-fooled.html
 slug: /whidy-was-fooled
 title: 初见网友小记

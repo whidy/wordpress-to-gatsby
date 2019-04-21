@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-12 07:30:29+00:00
 template: post
+draft: false
 link: http://www.whidy.net/home-before.html
 slug: /home-before
 title: 家ed

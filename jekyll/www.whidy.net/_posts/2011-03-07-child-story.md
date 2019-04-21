@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-03-07 16:08:51+00:00
 template: post
+draft: false
 link: http://www.whidy.net/child-story.html
 slug: /child-story
 title: 童画

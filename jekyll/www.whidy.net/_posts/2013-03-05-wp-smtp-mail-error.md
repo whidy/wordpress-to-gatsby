@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-03-05 03:12:54+00:00
 template: post
+draft: false
 link: http://www.whidy.net/wp-smtp-mail-error.html
 slug: /wp-smtp-mail-error
 title: WP SMTP邮件转发出错解决

@@ -2,8 +2,9 @@
 author: whidy
 comments: true
 date: 2017-06-26 14:57:10+00:00
-excerpt: 今天要说的就是这个插件Settings Sync,一个可以在github上面通过gist仓来同步用户的vscode的配置包括插件,settings等信息的好插件
+description: 今天要说的就是这个插件Settings Sync,一个可以在github上面通过gist仓来同步用户的vscode的配置包括插件,settings等信息的好插件
 template: post
+draft: false
 link: http://www.whidy.net/visual-studio-code-settings-sync-introduction.html
 slug: /visual-studio-code-settings-sync-introduction
 title: Visual Studio Code 设置同步到github的插件介绍及使用方法(Settings Sync)

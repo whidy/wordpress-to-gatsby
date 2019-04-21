@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-05-15 15:18:37+00:00
 template: post
+draft: false
 link: http://www.whidy.net/sublime-text-3-user-setting-intro.html
 slug: /sublime-text-3-user-setting-intro
 title: Sublime Text 3常用用户自定义配置推荐

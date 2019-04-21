@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-04-08 16:11:07+00:00
 template: post
+draft: false
 link: http://www.whidy.net/wordpress-3-8-1-update.html
 slug: /wordpress-3-8-1-update
 title: wordpress更新到了3.8.1,后台变化十分大!

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-25 19:23:57+00:00
 template: post
+draft: false
 link: http://www.whidy.net/another-year.html
 slug: /another-year
 title: 又是一年

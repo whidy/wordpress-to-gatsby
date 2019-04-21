@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-30 16:39:44+00:00
 template: post
+draft: false
 link: http://www.whidy.net/emotion-in-poem-1.html
 slug: /emotion-in-poem-1
 title: 寄情于诗(一)

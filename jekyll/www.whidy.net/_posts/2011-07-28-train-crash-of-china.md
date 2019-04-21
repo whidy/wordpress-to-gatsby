@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-07-28 03:24:33+00:00
 template: post
+draft: false
 link: http://www.whidy.net/train-crash-of-china.html
 slug: /train-crash-of-china
 title: 动车追尾事件一谈

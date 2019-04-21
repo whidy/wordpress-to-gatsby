@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2010-12-21 16:38:50+00:00
 template: post
+draft: false
 link: http://www.whidy.net/no-flowers-season.html
 slug: /no-flowers-season
 title: 未见花开的季节

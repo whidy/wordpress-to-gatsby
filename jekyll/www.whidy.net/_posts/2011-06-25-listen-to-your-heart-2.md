@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-06-25 15:06:42+00:00
 template: post
+draft: false
 link: http://www.whidy.net/listen-to-your-heart-2.html
 slug: /listen-to-your-heart-2
 title: 听心(二)

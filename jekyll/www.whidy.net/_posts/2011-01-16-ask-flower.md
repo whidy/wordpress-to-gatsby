@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2011-01-16 15:38:33+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ask-flower.html
 slug: /ask-flower
 title: 问花

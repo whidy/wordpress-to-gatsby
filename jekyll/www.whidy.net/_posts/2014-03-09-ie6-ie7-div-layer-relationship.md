@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2014-03-09 14:40:00+00:00
 template: post
+draft: false
 link: http://www.whidy.net/ie6-ie7-div-layer-relationship.html
 slug: /ie6-ie7-div-layer-relationship
 title: ie6,7下相邻div叠加层级关系问题

@@ -3,6 +3,7 @@ author: whidy
 comments: true
 date: 2013-08-12 08:14:11+00:00
 template: post
+draft: false
 link: http://www.whidy.net/xianjian-ol-solution.html
 slug: /xianjian-ol-solution
 title: 新仙剑OL网吧无法正常运行解决方法之一
